@@ -1,0 +1,933 @@
+<mcp_external_output>
+
+### Content Block 1 (Text)
+const img11 = "https://www.figma.com/api/mcp/asset/895750b2-a8ce-4f3b-90e7-34d816c9a147";
+const img12 = "https://www.figma.com/api/mcp/asset/19a53a71-a06d-49dc-9c4b-fecbda361ecd";
+const img13 = "https://www.figma.com/api/mcp/asset/711419f6-637d-489c-bc32-2bc109ff8eb2";
+const img14 = "https://www.figma.com/api/mcp/asset/98e088b4-8bb8-4a9a-979e-224969c3f48a";
+const img15 = "https://www.figma.com/api/mcp/asset/c58185a9-c91c-406a-b191-37ed85566b6e";
+const img16 = "https://www.figma.com/api/mcp/asset/f34cd241-cd55-482d-8f1d-e08fc73e8d7e";
+const img17 = "https://www.figma.com/api/mcp/asset/f980c704-138d-439d-8a31-614a649c7576";
+const img19 = "https://www.figma.com/api/mcp/asset/868a7b11-8546-4fc4-a317-df202e07f536";
+const img20 = "https://www.figma.com/api/mcp/asset/19772213-5ad9-4a97-ba42-3ae5d1aaecf7";
+const img21 = "https://www.figma.com/api/mcp/asset/c0c295c7-0166-401d-b36a-b0aad0709fa6";
+const img22 = "https://www.figma.com/api/mcp/asset/1d4dacaf-83ad-4d6d-a27b-43f2c08cee8b";
+const img23 = "https://www.figma.com/api/mcp/asset/f088a6ea-4953-489c-b642-58e0eb45484f";
+const img24 = "https://www.figma.com/api/mcp/asset/0b0ae76d-9ab9-4210-883e-743df8a3c59e";
+const imgAligneTop2 = "https://www.figma.com/api/mcp/asset/a1ac8666-4331-42a5-b0aa-c68752cca182";
+const img = "https://www.figma.com/api/mcp/asset/b5bd64ef-1a72-4c99-8dc1-1dfcf191be3f";
+const imgListUl = "https://www.figma.com/api/mcp/asset/b46c5045-0323-4279-b483-5363200a3d3d";
+const img1 = "https://www.figma.com/api/mcp/asset/c81837b7-06e4-42ff-af4b-dae55b4e398e";
+const img2 = "https://www.figma.com/api/mcp/asset/7b775fa9-1843-4b8a-ba93-76944bff799a";
+const img3 = "https://www.figma.com/api/mcp/asset/d18186da-70a9-4e45-9a14-335347f6ac7d";
+const img4 = "https://www.figma.com/api/mcp/asset/256cde60-bf26-45f4-8970-3ab361e1fbf5";
+const img5 = "https://www.figma.com/api/mcp/asset/c0a368ef-7316-480f-8948-2276e8a7a53e";
+const imgLine36 = "https://www.figma.com/api/mcp/asset/cc58b8ba-0dd6-42a8-be2b-0ffcacee3dab";
+const img6 = "https://www.figma.com/api/mcp/asset/04a29b48-2527-4a6b-abc2-1f83329336d7";
+const imgGroup = "https://www.figma.com/api/mcp/asset/bb04cdc1-1669-421c-8be9-1c72565bf3b0";
+const img7 = "https://www.figma.com/api/mcp/asset/c72abad0-e571-4569-8f52-066317bd62f9";
+const img8 = "https://www.figma.com/api/mcp/asset/b055716d-2738-4fd5-a483-7863417884f4";
+const img9 = "https://www.figma.com/api/mcp/asset/3d1d4bdc-8c24-47ed-8e12-3c10a85f958a";
+const img10 = "https://www.figma.com/api/mcp/asset/766aa052-3528-4232-80c7-0b9bec45bf0e";
+const img18 = "https://www.figma.com/api/mcp/asset/f5f7bc84-7c18-4183-9bb2-24037b38877c";
+type ProgressBarProps = {
+  className?: string;
+  editAmount?: string;
+  editLabel?: string;
+  label?: boolean;
+  percentage?: "0%" | "40%" | "60%" | "80%" | "100%";
+};
+
+function ProgressBar({ className, editAmount = "40%", editLabel = "Progress", label = true, percentage = "0%" }: ProgressBarProps) {
+  const is0 = percentage === "0%";
+  const is100 = percentage === "100%";
+  const is60 = percentage === "60%";
+  const is80 = percentage === "80%";
+  return (
+    <div className={className} id={is100 ? "node-49_6688" : is80 ? "node-49_6681" : is60 ? "node-49_6674" : "node-48_6179"}>
+      {is0 && label && (
+        <div className="content-stretch flex font-['Inter:Medium',sans-serif] font-medium gap-[2px] items-start not-italic relative shrink-0 text-[#808897] text-[12px] w-full" data-name="Text" data-node-id="48:6180">
+          <div className="flex flex-col justify-center relative shrink-0 whitespace-nowrap" data-node-id="48:6181">
+            <p className="leading-[1.5]">{editLabel}</p>
+          </div>
+          <div className="flex flex-[1_0_0] flex-col justify-center min-h-px min-w-px relative text-right" data-node-id="48:6182">
+            <p className="leading-[1.5] whitespace-pre-wrap">0%</p>
+          </div>
+        </div>
+      )}
+      <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid items-[start] justify-items-[start] relative shrink-0 w-full" id={is100 ? "node-49_6692" : is80 ? "node-49_6685" : is60 ? "node-49_6678" : "node-48_6238"}>
+        <div className={`col-1 h-[6px] ml-0 mt-0 rounded-[24px] row-1 w-[266.67px] ${is100 ? "bg-[#dfe1e6]" : "bg-[#eeeff2]"}`} id={is100 ? "node-49_6693" : is80 ? "node-49_6686" : is60 ? "node-49_6679" : "node-48_6239"} />
+        <div className={`bg-[#fa7319] col-1 h-[6px] ml-0 mt-0 rounded-[24px] row-1 ${is100 ? "w-[265.328px]" : is80 ? "w-[210px]" : is60 ? "w-[165px]" : "w-[4px]"}`} id={is100 ? "node-49_6694" : is80 ? "node-49_6687" : is60 ? "node-49_6680" : "node-48_6240"} />
+      </div>
+      {is60 && label && (
+        <div className="content-stretch flex font-['Inter:Medium',sans-serif] font-medium gap-[2px] items-start not-italic relative shrink-0 text-[#808897] text-[12px] w-full" data-name="Text" data-node-id="49:6675">
+          <div className="flex flex-col justify-center relative shrink-0 whitespace-nowrap" data-node-id="49:6676">
+            <p className="leading-[1.5]">{editLabel}</p>
+          </div>
+          <div className="flex flex-[1_0_0] flex-col justify-center min-h-px min-w-px relative text-right" data-node-id="49:6677">
+            <p className="leading-[1.5] whitespace-pre-wrap">60%</p>
+          </div>
+        </div>
+      )}
+      {is80 && label && (
+        <div className="content-stretch flex font-['Inter:Medium',sans-serif] font-medium gap-[2px] items-start not-italic relative shrink-0 text-[#808897] text-[12px] w-full" data-name="Text" data-node-id="49:6682">
+          <div className="flex flex-col justify-center relative shrink-0 whitespace-nowrap" data-node-id="49:6683">
+            <p className="leading-[1.5]">{editLabel}</p>
+          </div>
+          <div className="flex flex-[1_0_0] flex-col justify-center min-h-px min-w-px relative text-right" data-node-id="49:6684">
+            <p className="leading-[1.5] whitespace-pre-wrap">80%</p>
+          </div>
+        </div>
+      )}
+      {is100 && label && (
+        <div className="content-stretch flex font-['Inter:Medium',sans-serif] font-medium gap-[2px] items-start not-italic relative shrink-0 text-[#808897] text-[12px] w-full" data-name="Text" data-node-id="49:6689">
+          <div className="flex flex-col justify-center relative shrink-0 whitespace-nowrap" data-node-id="49:6690">
+            <p className="leading-[1.5]">{editLabel}</p>
+          </div>
+          <div className="flex flex-[1_0_0] flex-col justify-center min-h-px min-w-px relative text-right" data-node-id="49:6691">
+            <p className="leading-[1.5] whitespace-pre-wrap">100%</p>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+export default function Frame() {
+  return (
+    <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex flex-col gap-[24px] items-start p-[24px] relative rounded-[20px] size-full" data-node-id="1:34190">
+      <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-node-id="1:34191">
+        <div className="content-stretch flex items-start justify-between relative shrink-0 w-full" data-node-id="1:34192">
+          <div className="bg-[#f9f9fb] border border-[#eeeff2] border-solid content-stretch flex items-center justify-center relative rounded-[8px] self-stretch shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Tabs" data-node-id="1:34193">
+            <div className="bg-white border-[#dfe1e6] border-r border-solid content-stretch flex gap-[4px] h-full items-center justify-center overflow-clip px-[14px] py-[6px] relative rounded-bl-[10px] rounded-tl-[10px] shrink-0" data-name="Tabs" data-node-id="1:34194">
+              <div className="relative shrink-0 size-[16px]" data-name="aligne-top2" data-node-id="1:34195">
+                <img alt="" className="block max-w-none size-full" src={imgAligneTop2} />
+                <div className="absolute inset-[8.33%_16.68%_8.34%_16.66%]" data-name="Vector" data-node-id="I1:34195;138:33361">
+                  <div className="absolute inset-0" style={{ "--fill-0": "rgba(21, 22, 30, 1)" } as React.CSSProperties}>
+                    <img alt="" className="block max-w-none size-full" src={img} />
+                  </div>
+                </div>
+              </div>
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic relative shrink-0 text-[#15161e] text-[14px]" data-node-id="1:34196">
+                Kanban
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[4px] h-full items-center justify-center px-[19px] py-[6px] relative shrink-0 w-[92px]" data-name="Tabs" data-node-id="1:34197">
+              <div className="relative shrink-0 size-[16px]" data-name="list-ul" data-node-id="1:34198">
+                <img alt="" className="block max-w-none size-full" src={imgListUl} />
+                <div className="absolute inset-[25.43%_8.34%_24.57%_8.33%]" data-name="Vector" data-node-id="I1:34198;139:33371">
+                  <div className="absolute inset-0" style={{ "--fill-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                    <img alt="" className="block max-w-none size-full" src={img1} />
+                  </div>
+                </div>
+              </div>
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic relative shrink-0 text-[#666d80] text-[14px]" data-node-id="1:34199">
+                List
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="1:34200">
+            <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[8px] h-[40px] items-center px-[16px] py-[8px] relative rounded-[10px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0 w-[205px]" data-name="Button" data-node-id="48:5054">
+              <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="search-01" data-node-id="I48:5054;5:4050">
+                <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I48:5054;5:4050;26:4432">
+                  <div className="absolute inset-[-8.33%]" style={{ "--stroke-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                    <img alt="" className="block max-w-none size-full" src={img2} />
+                  </div>
+                </div>
+              </div>
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic relative shrink-0 text-[#808897] text-[14px]" data-node-id="I48:5054;5:4051">
+                Search Tasks
+              </p>
+            </div>
+            <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[8px] h-[40px] items-center justify-center px-[16px] py-[8px] relative rounded-[10px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Button" data-node-id="48:5038">
+              <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="switch-vertical-01" data-node-id="I48:5038;5:4050">
+                <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="I48:5038;5:4050;26:4806">
+                  <div className="absolute inset-[-12.5%_-9.37%]" style={{ "--stroke-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                    <img alt="" className="block max-w-none size-full" src={img3} />
+                  </div>
+                </div>
+              </div>
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic relative shrink-0 text-[#808897] text-[14px] text-center" data-node-id="I48:5038;5:4051">
+                Shot By
+              </p>
+            </div>
+            <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[8px] h-[40px] items-center justify-center px-[16px] py-[8px] relative rounded-[10px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Button" data-node-id="48:5039">
+              <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="filter-02" data-node-id="I48:5039;5:4050">
+                <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="I48:5039;5:4050;26:4412">
+                  <div className="absolute inset-[-7.5%_-9.37%]" style={{ "--stroke-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                    <img alt="" className="block max-w-none size-full" src={img4} />
+                  </div>
+                </div>
+              </div>
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic relative shrink-0 text-[#808897] text-[14px] text-center" data-node-id="I48:5039;5:4051">
+                Filter
+              </p>
+            </div>
+            <div className="bg-[#fa7319] content-stretch flex gap-[8px] h-[40px] items-center justify-center px-[16px] py-[8px] relative rounded-[10px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Button" data-node-id="48:5032">
+              <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="plus" data-node-id="I48:5032;5:3954">
+                <div className="absolute inset-[29.17%]" data-name="Icon" data-node-id="I48:5032;5:3954;26:4516">
+                  <div className="absolute inset-[-15%]" style={{ "--stroke-0": "rgba(255, 255, 255, 1)" } as React.CSSProperties}>
+                    <img alt="" className="block max-w-none size-full" src={img5} />
+                  </div>
+                </div>
+              </div>
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic relative shrink-0 text-[14px] text-center text-white" data-node-id="I48:5032;5:3955">
+                Add Tasks
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="h-0 relative shrink-0 w-full" data-node-id="1:34219">
+          <div className="absolute inset-[-1px_0_0_0]">
+            <img alt="" className="block max-w-none size-full" src={imgLine36} />
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex gap-[24px] items-start relative shrink-0 w-full" data-node-id="1:34220">
+        <div className="bg-[#f8f9fb] border border-[#ebebeb] border-solid content-stretch flex flex-[1_0_0] items-center min-h-px min-w-px overflow-clip p-[16px] relative rounded-[12px]" data-name="Tasks Card" data-node-id="1:34221">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[16px] items-start min-h-px min-w-px relative" data-name="Tasks Card" data-node-id="1:34222">
+            <div className="bg-white border border-[#e9e9e9] border-solid content-stretch flex h-[40px] items-center justify-between p-[8px] relative rounded-[8px] shrink-0 w-full" data-node-id="1:34223">
+              <div className="content-stretch flex gap-[10px] h-full items-center relative shrink-0" data-node-id="1:34224">
+                <div className="content-stretch flex h-full items-center overflow-clip relative shrink-0" data-name="Auto-added frame" data-node-id="1:34225">
+                  <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Icon" data-node-id="1:34226">
+                    <div className="absolute inset-[15%]" data-name="Icon" data-node-id="I1:34226;1:900">
+                      <div className="absolute inset-0" style={{ "--fill-0": "rgba(164, 171, 184, 1)" } as React.CSSProperties}>
+                        <img alt="" className="block max-w-none size-full" src={img6} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#15161e] text-[16px] whitespace-nowrap" data-node-id="1:34227">
+                  <p className="leading-[normal]">Upcoming Tasks</p>
+                </div>
+              </div>
+              <div className="bg-[#feefe4] content-stretch flex gap-[4px] items-center justify-center pl-[8px] pr-[10px] py-[2px] relative rounded-[4px] shrink-0" data-name="_Badge base" data-node-id="1:34228">
+                <div className="overflow-clip relative shrink-0 size-[16px]" data-name="akar-icons:edit" data-node-id="1:34229">
+                  <div className="absolute inset-[12.5%_12.5%_16.67%_16.67%]" data-name="Group" data-node-id="1:34230">
+                    <div className="absolute inset-[-6.62%]">
+                      <img alt="" className="block max-w-none size-full" src={imgGroup} />
+                    </div>
+                  </div>
+                </div>
+                <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.5] not-italic relative shrink-0 text-[#fa7319] text-[12px] text-center" data-node-id="1:34233">
+                  3
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-name="Tasks Card" data-node-id="1:34234">
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Tasks Card" data-node-id="1:34235">
+                <div className="bg-white border border-[#e9e9e9] border-solid content-stretch flex flex-col h-[202px] items-start overflow-clip p-[16px] relative rounded-[8px] shrink-0 w-[298.667px]" data-name="Task Card" data-node-id="51:12686">
+                  <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-name="Task Content" data-node-id="I51:12686;48:5319">
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Top Button" data-node-id="I51:12686;48:5321">
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0" data-name="Bedeges" data-node-id="I51:12686;48:5322">
+                        <div className="bg-[#feefe4] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12686;49:6269">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#fa7319] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12686;49:6269;9:5301">
+                            <p className="leading-[1.5]">Follow-up</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#feeff2] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12686;49:6280">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#df1c41] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12686;49:6280;9:5333">
+                            <p className="leading-[1.5]">Urgent</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#efeaff] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12686;49:6283">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#875cfe] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12686;49:6283;49:6576">
+                            <p className="leading-[1.5]">New Leads</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="relative shrink-0 size-[24px]" data-name="dots-horizontal" data-node-id="I51:12686;48:5326">
+                        <div className="absolute inset-[45.83%_20.83%]" data-name="Icon" data-node-id="I51:12686;48:5326;26:4800">
+                          <div className="absolute inset-[-50%_-7.14%]">
+                            <img alt="" className="block max-w-none size-full" src={img7} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Date + level + Progress bar" data-node-id="I51:12686;49:6667">
+                      <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-name="Date+lavel" data-node-id="I51:12686;48:5327">
+                        <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.4] not-italic overflow-hidden relative shrink-0 text-[#15161e] text-[16px] text-ellipsis w-full whitespace-nowrap" data-node-id="I51:12686;48:5328">
+                          Follow-up with New Leads
+                        </p>
+                        <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Date" data-node-id="I51:12686;48:5329">
+                          <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Date" data-node-id="I51:12686;48:5330">
+                            <div className="overflow-clip relative shrink-0 size-[12.042px]" data-name="calendar" data-node-id="I51:12686;48:5331">
+                              <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="I51:12686;48:5331;26:4790">
+                                <div className="absolute inset-[-5%_-5.56%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                                  <img alt="" className="block max-w-none size-full" src={img8} />
+                                </div>
+                              </div>
+                            </div>
+                            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic overflow-hidden relative shrink-0 text-[#666d80] text-[14px] text-ellipsis" data-node-id="I51:12686;48:5332">
+                              March 22, 2025
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <ProgressBar className="content-stretch flex flex-col gap-[4px] items-start leading-[0] relative shrink-0 w-full" />
+                    </div>
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Avatar" data-node-id="I51:12686;48:5342">
+                      <div className="content-stretch flex items-center relative shrink-0" data-name="Button" data-node-id="I51:12686;48:5343">
+                        <div className="bg-white border-[#eeeff2] border-b border-l border-solid border-t content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-bl-[6px] rounded-tl-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12686;48:5344">
+                          <div className="overflow-clip relative shrink-0 size-[6px]" data-name="message-dots-circle" data-node-id="I51:12686;48:5345">
+                            <div className="absolute inset-[4.17%_4.17%_6.66%_6.66%]" data-name="Icon" data-node-id="I51:12686;48:5345;26:4670">
+                              <div className="absolute inset-0" style={{ "--fill-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img9} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12686;48:5347">
+                            7
+                          </p>
+                        </div>
+                        <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-br-[6px] rounded-tr-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12686;48:5349">
+                          <div className="overflow-clip relative shrink-0 size-[7.042px]" data-name="file-01" data-node-id="I51:12686;48:5350">
+                            <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="I51:12686;48:5350;26:4768">
+                              <div className="absolute inset-[-5%_-6.25%]" style={{ "--stroke-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img10} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12686;48:5351">
+                            8
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex items-center pr-[8px] relative shrink-0" data-name="Avatar" data-node-id="I51:12686;49:6600">
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-node-id="I51:12686;49:6650">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img11} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12686;49:6698">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img12} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-node-id="I51:12686;49:6651">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img13} width="24" />
+                        </div>
+                        <div className="bg-[#feefe4] border-[0.75px] border-solid border-white content-stretch flex flex-col items-center justify-center mr-[-8px] px-[6px] py-[5.25px] relative rounded-[12px] shrink-0 size-[24px]" data-name="Avatar" data-node-id="I51:12686;49:6647">
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[13.5px] not-italic relative shrink-0 text-[#fa7319] text-[10px] text-center" data-node-id="I51:12686;49:6648">
+                            4+
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-white border border-[#e9e9e9] border-solid content-stretch flex flex-col h-[202px] items-start overflow-clip p-[16px] relative rounded-[8px] shrink-0 w-[298.667px]" data-name="Task Card" data-node-id="51:12734">
+                  <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-name="Task Content" data-node-id="I51:12734;48:5319">
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Top Button" data-node-id="I51:12734;48:5321">
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0" data-name="Bedeges" data-node-id="I51:12734;48:5322">
+                        <div className="bg-[#feefe4] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12734;49:6269">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#fa7319] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12734;49:6269;9:5301">
+                            <p className="leading-[1.5]">Analytics</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#e9f8ff] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12734;49:6280">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#47c2ff] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12734;49:6280;9:5253">
+                            <p className="leading-[1.5]">Planning</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#efeaff] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12734;49:6283">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#875cfe] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12734;49:6283;49:6576">
+                            <p className="leading-[1.5]">Internal</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="relative shrink-0 size-[24px]" data-name="dots-horizontal" data-node-id="I51:12734;48:5326">
+                        <div className="absolute inset-[45.83%_20.83%]" data-name="Icon" data-node-id="I51:12734;48:5326;26:4800">
+                          <div className="absolute inset-[-50%_-7.14%]">
+                            <img alt="" className="block max-w-none size-full" src={img7} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Date + level + Progress bar" data-node-id="I51:12734;49:6667">
+                      <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-name="Date+lavel" data-node-id="I51:12734;48:5327">
+                        <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.4] not-italic overflow-hidden relative shrink-0 text-[#15161e] text-[16px] text-ellipsis w-full whitespace-nowrap" data-node-id="I51:12734;48:5328">
+                          Prepare Q2 Sales Forecast
+                        </p>
+                        <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Date" data-node-id="I51:12734;48:5329">
+                          <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Date" data-node-id="I51:12734;48:5330">
+                            <div className="overflow-clip relative shrink-0 size-[12.042px]" data-name="calendar" data-node-id="I51:12734;48:5331">
+                              <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="I51:12734;48:5331;26:4790">
+                                <div className="absolute inset-[-5%_-5.56%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                                  <img alt="" className="block max-w-none size-full" src={img8} />
+                                </div>
+                              </div>
+                            </div>
+                            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic overflow-hidden relative shrink-0 text-[#666d80] text-[14px] text-ellipsis" data-node-id="I51:12734;48:5332">
+                              February 07, 2025
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <ProgressBar className="content-stretch flex flex-col gap-[4px] items-start leading-[0] relative shrink-0 w-full" />
+                    </div>
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Avatar" data-node-id="I51:12734;48:5342">
+                      <div className="content-stretch flex items-center relative shrink-0" data-name="Button" data-node-id="I51:12734;48:5343">
+                        <div className="bg-white border-[#eeeff2] border-b border-l border-solid border-t content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-bl-[6px] rounded-tl-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12734;48:5344">
+                          <div className="overflow-clip relative shrink-0 size-[6px]" data-name="message-dots-circle" data-node-id="I51:12734;48:5345">
+                            <div className="absolute inset-[4.17%_4.17%_6.66%_6.66%]" data-name="Icon" data-node-id="I51:12734;48:5345;26:4670">
+                              <div className="absolute inset-0" style={{ "--fill-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img9} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12734;48:5347">
+                            5
+                          </p>
+                        </div>
+                        <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-br-[6px] rounded-tr-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12734;48:5349">
+                          <div className="overflow-clip relative shrink-0 size-[7.042px]" data-name="file-01" data-node-id="I51:12734;48:5350">
+                            <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="I51:12734;48:5350;26:4768">
+                              <div className="absolute inset-[-5%_-6.25%]" style={{ "--stroke-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img10} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12734;48:5351">
+                            6
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex items-center pr-[8px] relative shrink-0" data-name="Avatar" data-node-id="I51:12734;49:6600">
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12734;49:6650">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img14} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12734;49:6698">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img15} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12734;49:6651">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img16} width="24" />
+                        </div>
+                        <div className="bg-[#feefe4] border-[0.75px] border-solid border-white content-stretch flex flex-col items-center justify-center mr-[-8px] px-[6px] py-[5.25px] relative rounded-[12px] shrink-0 size-[24px]" data-name="Avatar" data-node-id="I51:12734;49:6647">
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[13.5px] not-italic relative shrink-0 text-[#fa7319] text-[10px] text-center" data-node-id="I51:12734;49:6648">
+                            4+
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-white border border-[#e9e9e9] border-solid content-stretch flex flex-col h-[202px] items-start overflow-clip p-[16px] relative rounded-[8px] shrink-0 w-[298.667px]" data-name="Task Card" data-node-id="51:12781">
+                  <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-name="Task Content" data-node-id="I51:12781;48:5319">
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Top Button" data-node-id="I51:12781;48:5321">
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0" data-name="Bedeges" data-node-id="I51:12781;48:5322">
+                        <div className="bg-[#feefe4] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12781;49:6269">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#fa7319] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12781;49:6269;9:5301">
+                            <p className="leading-[1.5]">Event</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#feeff2] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12781;49:6280">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#df1c41] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12781;49:6280;9:5333">
+                            <p className="leading-[1.5]">Urgent</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#efeaff] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12781;49:6283">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#875cfe] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12781;49:6283;49:6576">
+                            <p className="leading-[1.5]">Marketing</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="relative shrink-0 size-[24px]" data-name="dots-horizontal" data-node-id="I51:12781;48:5326">
+                        <div className="absolute inset-[45.83%_20.83%]" data-name="Icon" data-node-id="I51:12781;48:5326;26:4800">
+                          <div className="absolute inset-[-50%_-7.14%]">
+                            <img alt="" className="block max-w-none size-full" src={img7} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Date + level + Progress bar" data-node-id="I51:12781;49:6667">
+                      <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-name="Date+lavel" data-node-id="I51:12781;48:5327">
+                        <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.4] not-italic overflow-hidden relative shrink-0 text-[#15161e] text-[16px] text-ellipsis w-full whitespace-nowrap" data-node-id="I51:12781;48:5328">
+                          Update CRM Contact Info
+                        </p>
+                        <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Date" data-node-id="I51:12781;48:5329">
+                          <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Date" data-node-id="I51:12781;48:5330">
+                            <div className="overflow-clip relative shrink-0 size-[12.042px]" data-name="calendar" data-node-id="I51:12781;48:5331">
+                              <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="I51:12781;48:5331;26:4790">
+                                <div className="absolute inset-[-5%_-5.56%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                                  <img alt="" className="block max-w-none size-full" src={img8} />
+                                </div>
+                              </div>
+                            </div>
+                            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic overflow-hidden relative shrink-0 text-[#666d80] text-[14px] text-ellipsis" data-node-id="I51:12781;48:5332">
+                              January 01, 2025
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <ProgressBar className="content-stretch flex flex-col gap-[4px] items-start leading-[0] relative shrink-0 w-full" />
+                    </div>
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Avatar" data-node-id="I51:12781;48:5342">
+                      <div className="content-stretch flex items-center relative shrink-0" data-name="Button" data-node-id="I51:12781;48:5343">
+                        <div className="bg-white border-[#eeeff2] border-b border-l border-solid border-t content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-bl-[6px] rounded-tl-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12781;48:5344">
+                          <div className="overflow-clip relative shrink-0 size-[6px]" data-name="message-dots-circle" data-node-id="I51:12781;48:5345">
+                            <div className="absolute inset-[4.17%_4.17%_6.66%_6.66%]" data-name="Icon" data-node-id="I51:12781;48:5345;26:4670">
+                              <div className="absolute inset-0" style={{ "--fill-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img9} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12781;48:5347">
+                            3
+                          </p>
+                        </div>
+                        <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-br-[6px] rounded-tr-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12781;48:5349">
+                          <div className="overflow-clip relative shrink-0 size-[7.042px]" data-name="file-01" data-node-id="I51:12781;48:5350">
+                            <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="I51:12781;48:5350;26:4768">
+                              <div className="absolute inset-[-5%_-6.25%]" style={{ "--stroke-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img10} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12781;48:5351">
+                            5
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex items-center pr-[8px] relative shrink-0" data-name="Avatar" data-node-id="I51:12781;49:6600">
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-node-id="I51:12781;49:6650">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img11} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-node-id="I51:12781;49:6698">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img17} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-node-id="I51:12781;49:6651">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img13} width="24" />
+                        </div>
+                        <div className="bg-[#feefe4] border-[0.75px] border-solid border-white content-stretch flex flex-col items-center justify-center mr-[-8px] px-[6px] py-[5.25px] relative rounded-[12px] shrink-0 size-[24px]" data-name="Avatar" data-node-id="I51:12781;49:6647">
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[13.5px] not-italic relative shrink-0 text-[#fa7319] text-[10px] text-center" data-node-id="I51:12781;49:6648">
+                            4+
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[8px] h-[40px] items-center justify-center px-[16px] py-[8px] relative rounded-[10px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0 w-full" data-name="Button" data-node-id="52:5420">
+                <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="plus" data-node-id="I52:5420;5:3954">
+                  <div className="absolute inset-[29.17%]" data-name="Icon" data-node-id="I52:5420;5:3954;26:4516">
+                    <div className="absolute inset-[-15%]" style={{ "--stroke-0": "rgba(21, 22, 30, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img18} />
+                    </div>
+                  </div>
+                </div>
+                <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic relative shrink-0 text-[#15161e] text-[14px] text-center" data-node-id="I52:5420;5:3955">
+                  Add Task
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="bg-[#f8f9fb] border border-[#ebebeb] border-solid content-stretch flex flex-[1_0_0] items-center min-h-px min-w-px overflow-clip p-[16px] relative rounded-[12px]" data-name="Tasks Card" data-node-id="1:34491">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[16px] items-start min-h-px min-w-px relative" data-name="Tasks Card" data-node-id="1:34492">
+            <div className="bg-white border border-[#e9e9e9] border-solid content-stretch flex h-[40px] items-center justify-between p-[8px] relative rounded-[8px] shrink-0 w-full" data-node-id="1:34493">
+              <div className="content-stretch flex gap-[10px] h-full items-center relative shrink-0" data-node-id="1:34494">
+                <div className="content-stretch flex h-full items-center overflow-clip relative shrink-0" data-name="Auto-added frame" data-node-id="1:34495">
+                  <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Icon" data-node-id="1:34496">
+                    <div className="absolute inset-[15%]" data-name="Icon" data-node-id="I1:34496;1:900">
+                      <div className="absolute inset-0" style={{ "--fill-0": "rgba(164, 171, 184, 1)" } as React.CSSProperties}>
+                        <img alt="" className="block max-w-none size-full" src={img6} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#15161e] text-[16px] whitespace-nowrap" data-node-id="1:34497">
+                  <p className="leading-[normal]">On Going Task</p>
+                </div>
+              </div>
+              <div className="bg-[#feefe4] content-stretch flex gap-[4px] items-center justify-center pl-[8px] pr-[10px] py-[2px] relative rounded-[4px] shrink-0" data-name="_Badge base" data-node-id="51:13019">
+                <div className="overflow-clip relative shrink-0 size-[16px]" data-name="akar-icons:edit" data-node-id="51:13020">
+                  <div className="absolute inset-[12.5%_12.5%_16.67%_16.67%]" data-name="Group" data-node-id="51:13021">
+                    <div className="absolute inset-[-6.62%]">
+                      <img alt="" className="block max-w-none size-full" src={imgGroup} />
+                    </div>
+                  </div>
+                </div>
+                <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.5] not-italic relative shrink-0 text-[#fa7319] text-[12px] text-center" data-node-id="51:13024">
+                  2
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-name="Tasks Card" data-node-id="1:34504">
+              <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Tasks Card" data-node-id="1:34505">
+                <div className="bg-white border border-[#e9e9e9] border-solid content-stretch flex flex-col h-[202px] items-start overflow-clip p-[16px] relative rounded-[8px] shrink-0 w-[298.667px]" data-name="Task Card" data-node-id="51:12876">
+                  <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-name="Task Content" data-node-id="I51:12876;48:5319">
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Top Button" data-node-id="I51:12876;48:5321">
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0" data-name="Bedeges" data-node-id="I51:12876;48:5322">
+                        <div className="bg-[#feefe4] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12876;49:6269">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#fa7319] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12876;49:6269;9:5301">
+                            <p className="leading-[1.5]">Hot Deal</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#e9f8ff] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12876;49:6280">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#47c2ff] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12876;49:6280;9:5253">
+                            <p className="leading-[1.5]">Enterprise</p>
+                          </div>
+                        </div>
+                        <div className="bg-[rgba(64,196,170,0.15)] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12876;49:6283">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#40c4aa] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12876;49:6283;9:5237">
+                            <p className="leading-[1.5]">Enterprise</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="relative shrink-0 size-[24px]" data-name="dots-horizontal" data-node-id="I51:12876;48:5326">
+                        <div className="absolute inset-[45.83%_20.83%]" data-name="Icon" data-node-id="I51:12876;48:5326;26:4800">
+                          <div className="absolute inset-[-50%_-7.14%]">
+                            <img alt="" className="block max-w-none size-full" src={img7} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Date + level + Progress bar" data-node-id="I51:12876;49:6667">
+                      <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-name="Date+lavel" data-node-id="I51:12876;48:5327">
+                        <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.4] not-italic overflow-hidden relative shrink-0 text-[#15161e] text-[16px] text-ellipsis w-full whitespace-nowrap" data-node-id="I51:12876;48:5328">
+                          Close Deal with Acme Corporation
+                        </p>
+                        <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Date" data-node-id="I51:12876;48:5329">
+                          <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Date" data-node-id="I51:12876;48:5330">
+                            <div className="overflow-clip relative shrink-0 size-[12.042px]" data-name="calendar" data-node-id="I51:12876;48:5331">
+                              <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="I51:12876;48:5331;26:4790">
+                                <div className="absolute inset-[-5%_-5.56%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                                  <img alt="" className="block max-w-none size-full" src={img8} />
+                                </div>
+                              </div>
+                            </div>
+                            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic overflow-hidden relative shrink-0 text-[#666d80] text-[14px] text-ellipsis" data-node-id="I51:12876;48:5332">
+                              April 02, 2025
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <ProgressBar className="content-stretch flex flex-col gap-[4px] items-start leading-[0] relative shrink-0 w-full" percentage="60%" />
+                    </div>
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Avatar" data-node-id="I51:12876;48:5342">
+                      <div className="content-stretch flex items-center relative shrink-0" data-name="Button" data-node-id="I51:12876;48:5343">
+                        <div className="bg-white border-[#eeeff2] border-b border-l border-solid border-t content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-bl-[6px] rounded-tl-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12876;48:5344">
+                          <div className="overflow-clip relative shrink-0 size-[6px]" data-name="message-dots-circle" data-node-id="I51:12876;48:5345">
+                            <div className="absolute inset-[4.17%_4.17%_6.66%_6.66%]" data-name="Icon" data-node-id="I51:12876;48:5345;26:4670">
+                              <div className="absolute inset-0" style={{ "--fill-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img9} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12876;48:5347">
+                            7
+                          </p>
+                        </div>
+                        <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-br-[6px] rounded-tr-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12876;48:5349">
+                          <div className="overflow-clip relative shrink-0 size-[7.042px]" data-name="file-01" data-node-id="I51:12876;48:5350">
+                            <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="I51:12876;48:5350;26:4768">
+                              <div className="absolute inset-[-5%_-6.25%]" style={{ "--stroke-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img10} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12876;48:5351">
+                            3
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex items-center pr-[8px] relative shrink-0" data-name="Avatar" data-node-id="I51:12876;49:6600">
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12876;49:6650">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img19} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12876;49:6698">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img20} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-node-id="I51:12876;49:6651">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img21} width="24" />
+                        </div>
+                        <div className="bg-[#feefe4] border-[0.75px] border-solid border-white content-stretch flex flex-col items-center justify-center mr-[-8px] px-[6px] py-[5.25px] relative rounded-[12px] shrink-0 size-[24px]" data-name="Avatar" data-node-id="I51:12876;49:6647">
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[13.5px] not-italic relative shrink-0 text-[#fa7319] text-[10px] text-center" data-node-id="I51:12876;49:6648">
+                            4+
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-white border border-[#e9e9e9] border-solid content-stretch flex flex-col h-[202px] items-start overflow-clip p-[16px] relative rounded-[8px] shrink-0 w-[298.667px]" data-name="Task Card" data-node-id="51:12924">
+                  <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-name="Task Content" data-node-id="I51:12924;48:5319">
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Top Button" data-node-id="I51:12924;48:5321">
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0" data-name="Bedeges" data-node-id="I51:12924;48:5322">
+                        <div className="bg-[#feefe4] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12924;49:6269">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#fa7319] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12924;49:6269;9:5301">
+                            <p className="leading-[1.5]">Event</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#feeff2] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12924;49:6280">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#df1c41] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12924;49:6280;9:5333">
+                            <p className="leading-[1.5]">Urgent</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#efeaff] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12924;49:6283">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#875cfe] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12924;49:6283;49:6576">
+                            <p className="leading-[1.5]">Marketing</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="relative shrink-0 size-[24px]" data-name="dots-horizontal" data-node-id="I51:12924;48:5326">
+                        <div className="absolute inset-[45.83%_20.83%]" data-name="Icon" data-node-id="I51:12924;48:5326;26:4800">
+                          <div className="absolute inset-[-50%_-7.14%]">
+                            <img alt="" className="block max-w-none size-full" src={img7} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Date + level + Progress bar" data-node-id="I51:12924;49:6667">
+                      <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-name="Date+lavel" data-node-id="I51:12924;48:5327">
+                        <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.4] not-italic overflow-hidden relative shrink-0 text-[#15161e] text-[16px] text-ellipsis w-full whitespace-nowrap" data-node-id="I51:12924;48:5328">
+                          Demo Presentation for Beta Soft
+                        </p>
+                        <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Date" data-node-id="I51:12924;48:5329">
+                          <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Date" data-node-id="I51:12924;48:5330">
+                            <div className="overflow-clip relative shrink-0 size-[12.042px]" data-name="calendar" data-node-id="I51:12924;48:5331">
+                              <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="I51:12924;48:5331;26:4790">
+                                <div className="absolute inset-[-5%_-5.56%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                                  <img alt="" className="block max-w-none size-full" src={img8} />
+                                </div>
+                              </div>
+                            </div>
+                            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic overflow-hidden relative shrink-0 text-[#666d80] text-[14px] text-ellipsis" data-node-id="I51:12924;48:5332">
+                              April 27, 2025
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <ProgressBar className="content-stretch flex flex-col gap-[4px] items-start leading-[0] relative shrink-0 w-full" percentage="80%" />
+                    </div>
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Avatar" data-node-id="I51:12924;48:5342">
+                      <div className="content-stretch flex items-center relative shrink-0" data-name="Button" data-node-id="I51:12924;48:5343">
+                        <div className="bg-white border-[#eeeff2] border-b border-l border-solid border-t content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-bl-[6px] rounded-tl-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12924;48:5344">
+                          <div className="overflow-clip relative shrink-0 size-[6px]" data-name="message-dots-circle" data-node-id="I51:12924;48:5345">
+                            <div className="absolute inset-[4.17%_4.17%_6.66%_6.66%]" data-name="Icon" data-node-id="I51:12924;48:5345;26:4670">
+                              <div className="absolute inset-0" style={{ "--fill-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img9} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12924;48:5347">
+                            6
+                          </p>
+                        </div>
+                        <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-br-[6px] rounded-tr-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12924;48:5349">
+                          <div className="overflow-clip relative shrink-0 size-[7.042px]" data-name="file-01" data-node-id="I51:12924;48:5350">
+                            <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="I51:12924;48:5350;26:4768">
+                              <div className="absolute inset-[-5%_-6.25%]" style={{ "--stroke-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img10} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12924;48:5351">
+                            7
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex items-center pr-[8px] relative shrink-0" data-name="Avatar" data-node-id="I51:12924;49:6600">
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12924;49:6650">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img22} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12924;49:6698">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img15} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12924;49:6651">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img23} width="24" />
+                        </div>
+                        <div className="bg-[#feefe4] border-[0.75px] border-solid border-white content-stretch flex flex-col items-center justify-center mr-[-8px] px-[6px] py-[5.25px] relative rounded-[12px] shrink-0 size-[24px]" data-name="Avatar" data-node-id="I51:12924;49:6647">
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[13.5px] not-italic relative shrink-0 text-[#fa7319] text-[10px] text-center" data-node-id="I51:12924;49:6648">
+                            4+
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[8px] h-[40px] items-center justify-center px-[16px] py-[8px] relative rounded-[10px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0 w-full" data-name="Button" data-node-id="52:5479">
+                <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="plus" data-node-id="I52:5479;5:3954">
+                  <div className="absolute inset-[29.17%]" data-name="Icon" data-node-id="I52:5479;5:3954;26:4516">
+                    <div className="absolute inset-[-15%]" style={{ "--stroke-0": "rgba(21, 22, 30, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img18} />
+                    </div>
+                  </div>
+                </div>
+                <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic relative shrink-0 text-[#15161e] text-[14px] text-center" data-node-id="I52:5479;5:3955">
+                  Add Task
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="bg-[#f8f9fb] border border-[#eeeff2] border-solid content-stretch flex flex-[1_0_0] items-center min-h-px min-w-px overflow-clip p-[16px] relative rounded-[12px]" data-name="Tasks Card" data-node-id="1:34677">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[16px] items-start min-h-px min-w-px relative" data-name="Tasks Card" data-node-id="1:34678">
+            <div className="bg-white border border-[#e9e9e9] border-solid content-stretch flex h-[40px] items-center justify-between p-[8px] relative rounded-[8px] shrink-0 w-full" data-node-id="1:34679">
+              <div className="content-stretch flex gap-[10px] h-full items-center relative shrink-0" data-node-id="1:34680">
+                <div className="content-stretch flex h-full items-center overflow-clip relative shrink-0" data-name="Auto-added frame" data-node-id="1:34681">
+                  <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Icon" data-node-id="1:34682">
+                    <div className="absolute inset-[15%]" data-name="Icon" data-node-id="I1:34682;1:900">
+                      <div className="absolute inset-0" style={{ "--fill-0": "rgba(164, 171, 184, 1)" } as React.CSSProperties}>
+                        <img alt="" className="block max-w-none size-full" src={img6} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#15161e] text-[16px] whitespace-nowrap" data-node-id="1:34683">
+                  <p className="leading-[normal]">Done Task</p>
+                </div>
+              </div>
+              <div className="bg-[#feefe4] content-stretch flex gap-[4px] items-center justify-center pl-[8px] pr-[10px] py-[2px] relative rounded-[4px] shrink-0" data-name="_Badge base" data-node-id="51:13026">
+                <div className="overflow-clip relative shrink-0 size-[16px]" data-name="akar-icons:edit" data-node-id="51:13027">
+                  <div className="absolute inset-[12.5%_12.5%_16.67%_16.67%]" data-name="Group" data-node-id="51:13028">
+                    <div className="absolute inset-[-6.62%]">
+                      <img alt="" className="block max-w-none size-full" src={imgGroup} />
+                    </div>
+                  </div>
+                </div>
+                <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.5] not-italic relative shrink-0 text-[#fa7319] text-[12px] text-center" data-node-id="51:13031">
+                  1
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-name="Tasks Card" data-node-id="1:34690">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Tasks Card" data-node-id="1:34691">
+                <div className="bg-white border border-[#e9e9e9] border-solid content-stretch flex flex-col h-[202px] items-start overflow-clip p-[16px] relative rounded-[8px] shrink-0 w-[298.667px]" data-name="Task Card" data-node-id="51:12971">
+                  <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-name="Task Content" data-node-id="I51:12971;48:5319">
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Top Button" data-node-id="I51:12971;48:5321">
+                      <div className="content-stretch flex gap-[8px] items-start relative shrink-0" data-name="Bedeges" data-node-id="I51:12971;48:5322">
+                        <div className="bg-[#feefe4] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12971;49:6269">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#fa7319] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12971;49:6269;9:5301">
+                            <p className="leading-[1.5]">Onboarding</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#feeff2] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12971;49:6280">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#df1c41] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12971;49:6280;9:5333">
+                            <p className="leading-[1.5]">Done</p>
+                          </div>
+                        </div>
+                        <div className="bg-[#efeaff] content-stretch flex h-[24px] items-center justify-center px-[8px] py-[2px] relative rounded-[6px] shrink-0" data-name="Badges" data-node-id="I51:12971;49:6283">
+                          <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[#875cfe] text-[12px] text-right whitespace-nowrap" data-node-id="I51:12971;49:6283;49:6576">
+                            <p className="leading-[1.5]">Success</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="relative shrink-0 size-[24px]" data-name="dots-horizontal" data-node-id="I51:12971;48:5326">
+                        <div className="absolute inset-[45.83%_20.83%]" data-name="Icon" data-node-id="I51:12971;48:5326;26:4800">
+                          <div className="absolute inset-[-50%_-7.14%]">
+                            <img alt="" className="block max-w-none size-full" src={img7} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Date + level + Progress bar" data-node-id="I51:12971;49:6667">
+                      <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-name="Date+lavel" data-node-id="I51:12971;48:5327">
+                        <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.4] not-italic overflow-hidden relative shrink-0 text-[#15161e] text-[16px] text-ellipsis w-full whitespace-nowrap" data-node-id="I51:12971;48:5328">
+                          Onboard New Client: Nova Solutions
+                        </p>
+                        <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Date" data-node-id="I51:12971;48:5329">
+                          <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Date" data-node-id="I51:12971;48:5330">
+                            <div className="overflow-clip relative shrink-0 size-[12.042px]" data-name="calendar" data-node-id="I51:12971;48:5331">
+                              <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="I51:12971;48:5331;26:4790">
+                                <div className="absolute inset-[-5%_-5.56%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                                  <img alt="" className="block max-w-none size-full" src={img8} />
+                                </div>
+                              </div>
+                            </div>
+                            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic overflow-hidden relative shrink-0 text-[#666d80] text-[14px] text-ellipsis" data-node-id="I51:12971;48:5332">
+                              May 06, 2025
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <ProgressBar className="content-stretch flex flex-col gap-[4px] items-start leading-[0] relative shrink-0 w-full" percentage="100%" />
+                    </div>
+                    <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Avatar" data-node-id="I51:12971;48:5342">
+                      <div className="content-stretch flex items-center relative shrink-0" data-name="Button" data-node-id="I51:12971;48:5343">
+                        <div className="bg-white border-[#eeeff2] border-b border-l border-solid border-t content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-bl-[6px] rounded-tl-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12971;48:5344">
+                          <div className="overflow-clip relative shrink-0 size-[6px]" data-name="message-dots-circle" data-node-id="I51:12971;48:5345">
+                            <div className="absolute inset-[4.17%_4.17%_6.66%_6.66%]" data-name="Icon" data-node-id="I51:12971;48:5345;26:4670">
+                              <div className="absolute inset-0" style={{ "--fill-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img9} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12971;48:5347">
+                            3
+                          </p>
+                        </div>
+                        <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[4px] h-[24px] items-center justify-center overflow-clip p-[8px] relative rounded-br-[6px] rounded-tr-[6px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" data-name="Buttons [1.0]" data-node-id="I51:12971;48:5349">
+                          <div className="overflow-clip relative shrink-0 size-[7.042px]" data-name="file-01" data-node-id="I51:12971;48:5350">
+                            <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="I51:12971;48:5350;26:4768">
+                              <div className="absolute inset-[-5%_-6.25%]" style={{ "--stroke-0": "rgba(128, 136, 151, 1)" } as React.CSSProperties}>
+                                <img alt="" className="block max-w-none size-full" src={img10} />
+                              </div>
+                            </div>
+                          </div>
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.2] not-italic relative shrink-0 text-[#808897] text-[10px] text-center" data-node-id="I51:12971;48:5351">
+                            5
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex items-center pr-[8px] relative shrink-0" data-name="Avatar" data-node-id="I51:12971;49:6600">
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-node-id="I51:12971;49:6650">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img11} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12971;49:6698">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img15} width="24" />
+                        </div>
+                        <div className="mr-[-8px] relative shrink-0 size-[24px]" data-name="image" data-node-id="I51:12971;49:6651">
+                          <img alt="" className="block max-w-none size-full" height="24" src={img24} width="24" />
+                        </div>
+                        <div className="bg-[#feefe4] border-[0.75px] border-solid border-white content-stretch flex flex-col items-center justify-center mr-[-8px] px-[6px] py-[5.25px] relative rounded-[12px] shrink-0 size-[24px]" data-name="Avatar" data-node-id="I51:12971;49:6647">
+                          <p className="font-['Inter:Medium',sans-serif] font-medium leading-[13.5px] not-italic relative shrink-0 text-[#fa7319] text-[10px] text-center" data-node-id="I51:12971;49:6648">
+                            4+
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white border border-[#eeeff2] border-solid content-stretch flex gap-[8px] h-[40px] items-center justify-center px-[16px] py-[8px] relative rounded-[10px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0 w-full" data-name="Button" data-node-id="52:5467">
+                <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="plus" data-node-id="I52:5467;5:3954">
+                  <div className="absolute inset-[29.17%]" data-name="Icon" data-node-id="I52:5467;5:3954;26:4516">
+                    <div className="absolute inset-[-15%]" style={{ "--stroke-0": "rgba(21, 22, 30, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img18} />
+                    </div>
+                  </div>
+                </div>
+                <p className="font-['Inter:Medium',sans-serif] font-medium leading-[1.45] not-italic relative shrink-0 text-[#15161e] text-[14px] text-center" data-node-id="I52:5467;5:3955">
+                  Add Task
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+### Content Block 2 (Text)
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+### Content Block 3 (Text)
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+### Content Block 4 (Text)
+These styles are contained in the design: Greyscale/800: #15161E, Greyscale/0: #FFFFFF, Greyscale/100: #DFE1E6, Greyscale/500: #666D80, Greyscale/25: #F8F9FB, Greyscale/50: #EEEFF2, Small: Effect(type: DROP_SHADOW, color: #0D0D120F, offset: (0, 1), radius: 2, spread: 0), Greyscale/400: #808897, General/White: #FFFFFF, Primary/100: #FA7319, Shadow/XSmall: Effect(type: DROP_SHADOW, color: #0D0D120F, offset: (0, 1), radius: 2, spread: 0), Greyscale/300: #A4ABB8, Primary/0: #FEEFE4, Neutral/10: #FFFFFF, Alerts/Error/100: #DF1C41, Alerts/Error/0: #FEEFF2, Additional/100: #875CFE, Additional/0: #EFEAFF, Primary: #121A26, Secondary/100: #47C2FF, Secondary/0: #E9F8FF, Alerts/Success/100: #40C4AA.
+
+### Content Block 5 (Text)
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.
+
+### Content Block 6 (Text)
+IMPORTANT: After you call this tool, you MUST call get_screenshot to get a screenshot of the node for context.
+
+</mcp_external_output>

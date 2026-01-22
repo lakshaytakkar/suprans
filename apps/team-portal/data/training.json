@@ -1,0 +1,64 @@
+[
+  {
+    "id": "training-1",
+    "title": "Sales Fundamentals",
+    "type": "course",
+    "description": "Core sales techniques and best practices for B2B consultative selling.",
+    "duration": "2 hours",
+    "modules": [
+      "Understanding the sales process",
+      "Qualifying leads effectively",
+      "Building rapport",
+      "Handling objections",
+      "Closing techniques"
+    ],
+    "videoUrl": null,
+    "status": "published",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "training-2",
+    "title": "Product Knowledge - Company Formation",
+    "type": "course",
+    "description": "Comprehensive overview of mainland and free zone company formation services.",
+    "duration": "3 hours",
+    "modules": [
+      "Types of business entities",
+      "Mainland vs Free Zone comparison",
+      "Documentation requirements",
+      "Process flow",
+      "Common client questions"
+    ],
+    "videoUrl": null,
+    "status": "published",
+    "createdAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "training-3",
+    "title": "CRM Best Practices",
+    "type": "video",
+    "description": "How to effectively use the team portal for lead management.",
+    "duration": "45 mins",
+    "modules": null,
+    "videoUrl": "https://example.com/videos/crm-training",
+    "status": "published",
+    "createdAt": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "training-4",
+    "title": "Advanced Negotiation",
+    "type": "course",
+    "description": "Master the art of negotiation for high-value deals.",
+    "duration": "2.5 hours",
+    "modules": [
+      "Preparation and research",
+      "Value-based selling",
+      "Dealing with price objections",
+      "Win-win outcomes",
+      "Case studies"
+    ],
+    "videoUrl": null,
+    "status": "draft",
+    "createdAt": "2024-03-01T00:00:00.000Z"
+  }
+]

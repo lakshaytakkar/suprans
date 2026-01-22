@@ -1,0 +1,38 @@
+[
+  {
+    "id": "template-1",
+    "name": "Welcome Email",
+    "type": "email",
+    "subject": "Welcome to Suprans - Your Business Setup Partner",
+    "content": "Dear {{name}},\\n\\nThank you for your interest in Suprans. We are delighted to assist you with your business setup requirements in the UAE.\\n\\nOur team of experts specializes in:\\n- Company Formation (Mainland & Free Zone)\\n- Trade License Services\\n- PRO & Visa Services\\n- Business Banking\\n\\nI will be your dedicated point of contact and will reach out shortly to understand your requirements.\\n\\nBest regards,\\n{{agent_name}}\\nSuprans Business Services",
+    "category": "introduction",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "template-2",
+    "name": "Follow-up Email",
+    "type": "email",
+    "subject": "Following up on your business setup inquiry",
+    "content": "Dear {{name}},\\n\\nI hope this email finds you well. I wanted to follow up on our recent conversation about your business setup requirements.\\n\\nAs discussed, I have attached the relevant information for your review. Please feel free to reach out if you have any questions.\\n\\nLooking forward to hearing from you.\\n\\nBest regards,\\n{{agent_name}}",
+    "category": "follow-up",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "template-3",
+    "name": "WhatsApp Introduction",
+    "type": "whatsapp",
+    "subject": null,
+    "content": "Hi {{name}}! This is {{agent_name}} from Suprans. Thank you for your inquiry about {{service}}. I would be happy to assist you. When would be a good time for a quick call to discuss your requirements?",
+    "category": "introduction",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "template-4",
+    "name": "Proposal Follow-up",
+    "type": "email",
+    "subject": "Your Business Setup Proposal - Next Steps",
+    "content": "Dear {{name}},\\n\\nI hope you had a chance to review the proposal we sent for {{service}}.\\n\\nI wanted to check if you have any questions or require any clarifications. Our team is ready to proceed as soon as you are comfortable.\\n\\nKey highlights of our proposal:\\n- Competitive pricing\\n- End-to-end support\\n- Quick turnaround time\\n\\nLooking forward to your response.\\n\\nBest regards,\\n{{agent_name}}",
+    "category": "follow-up",
+    "createdAt": "2024-01-15T00:00:00.000Z"
+  }
+]

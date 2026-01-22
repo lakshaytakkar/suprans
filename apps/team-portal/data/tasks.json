@@ -1,0 +1,93 @@
+[
+  {
+    "id": "task-1",
+    "title": "Follow up with Acme Corporation",
+    "description": "Call to discuss company formation requirements and send proposal",
+    "status": "in_progress",
+    "priority": "high",
+    "dueDate": "2024-03-20T17:00:00.000Z",
+    "assignedTo": "user-2",
+    "leadId": "lead-1",
+    "tags": ["follow-up", "proposal"],
+    "createdAt": "2024-03-15T09:00:00.000Z",
+    "updatedAt": "2024-03-16T10:00:00.000Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Prepare TechStart proposal",
+    "description": "Create detailed proposal for DMCC free zone setup",
+    "status": "todo",
+    "priority": "high",
+    "dueDate": "2024-03-18T12:00:00.000Z",
+    "assignedTo": "user-3",
+    "leadId": "lead-2",
+    "tags": ["proposal", "free-zone"],
+    "createdAt": "2024-03-14T14:00:00.000Z",
+    "updatedAt": "2024-03-14T14:00:00.000Z"
+  },
+  {
+    "id": "task-3",
+    "title": "Initial call with Global Trading",
+    "description": "Schedule and conduct discovery call with new lead",
+    "status": "todo",
+    "priority": "medium",
+    "dueDate": "2024-03-19T10:00:00.000Z",
+    "assignedTo": "user-2",
+    "leadId": "lead-3",
+    "tags": ["discovery", "new-lead"],
+    "createdAt": "2024-03-15T08:30:00.000Z",
+    "updatedAt": "2024-03-15T08:30:00.000Z"
+  },
+  {
+    "id": "task-4",
+    "title": "Send contract to Marina Investments",
+    "description": "Finalize and send service agreement for review",
+    "status": "review",
+    "priority": "high",
+    "dueDate": "2024-03-19T15:00:00.000Z",
+    "assignedTo": "user-4",
+    "leadId": "lead-4",
+    "tags": ["contract", "closing"],
+    "createdAt": "2024-03-16T09:00:00.000Z",
+    "updatedAt": "2024-03-16T14:00:00.000Z"
+  },
+  {
+    "id": "task-5",
+    "title": "Update CRM with Swift Logistics notes",
+    "description": "Document call outcomes and next steps",
+    "status": "done",
+    "priority": "low",
+    "dueDate": "2024-03-15T17:00:00.000Z",
+    "assignedTo": "user-3",
+    "leadId": "lead-5",
+    "tags": ["admin", "documentation"],
+    "createdAt": "2024-03-12T15:00:00.000Z",
+    "updatedAt": "2024-03-15T16:00:00.000Z"
+  },
+  {
+    "id": "task-6",
+    "title": "Weekly sales report",
+    "description": "Compile weekly sales metrics and pipeline update",
+    "status": "todo",
+    "priority": "medium",
+    "dueDate": "2024-03-22T17:00:00.000Z",
+    "assignedTo": "user-2",
+    "leadId": null,
+    "tags": ["reporting", "weekly"],
+    "createdAt": "2024-03-16T08:00:00.000Z",
+    "updatedAt": "2024-03-16T08:00:00.000Z"
+  },
+  {
+    "id": "task-7",
+    "title": "Training session preparation",
+    "description": "Prepare materials for new product training",
+    "status": "in_progress",
+    "priority": "medium",
+    "dueDate": "2024-03-25T10:00:00.000Z",
+    "assignedTo": "user-4",
+    "leadId": null,
+    "tags": ["training", "internal"],
+    "createdAt": "2024-03-10T09:00:00.000Z",
+    "updatedAt": "2024-03-15T11:00:00.000Z"
+  }
+]

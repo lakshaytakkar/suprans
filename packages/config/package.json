@@ -1,0 +1,19 @@
+{
+  "name": "@suprans/config",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./*": "./src/*.ts",
+    "./eslint": "./eslint/base.js",
+    "./typescript": "./typescript/base.json"
+  },
+  "dependencies": {
+    "@suprans/types": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}

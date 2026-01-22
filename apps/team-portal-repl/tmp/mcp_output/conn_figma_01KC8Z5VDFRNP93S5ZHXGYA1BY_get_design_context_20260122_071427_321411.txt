@@ -1,0 +1,3063 @@
+<mcp_external_output>
+
+### Content Block 1 (Text)
+const imgTruck = "https://www.figma.com/api/mcp/asset/8877f92f-e071-4c8f-adae-5c7e2a337710";
+const imgVector = "https://www.figma.com/api/mcp/asset/3f0f7505-fd40-472e-b090-806f4d70db44";
+const imgPalette = "https://www.figma.com/api/mcp/asset/5b6343b6-6ea1-44c9-a3b8-87bb7779892d";
+const imgVector1 = "https://www.figma.com/api/mcp/asset/0b05b97d-c52a-4902-b69f-fa5073564b13";
+const imgTelegram3 = "https://www.figma.com/api/mcp/asset/1db5e695-3f54-4153-95d8-8d3e04b97819";
+const imgVector2 = "https://www.figma.com/api/mcp/asset/98c9e9eb-de43-47a5-8b51-b4e8a0b83d6e";
+const imgPuzzle = "https://www.figma.com/api/mcp/asset/a14aadf4-7a26-439d-8744-ad3720ea8413";
+const imgVector3 = "https://www.figma.com/api/mcp/asset/f2be7d56-0918-43e6-a4d6-3bcfa3c31def";
+const imgIcon = "https://www.figma.com/api/mcp/asset/1f185213-1e18-4fad-8c6a-43f60d9c9fc7";
+const imgIcon1 = "https://www.figma.com/api/mcp/asset/be5f791b-7ec5-4004-9cab-635bbd50e9f2";
+const imgIcon2 = "https://www.figma.com/api/mcp/asset/ca7c335f-d354-4d1c-94d9-1fface8ae2e8";
+const imgIcon3 = "https://www.figma.com/api/mcp/asset/77df505e-8b1c-42ba-bb7c-40d4f39ff114";
+const imgIcon4 = "https://www.figma.com/api/mcp/asset/ad6a3e0c-b7fb-45ef-8fc4-dbbc4a6ae3f6";
+const imgIcon5 = "https://www.figma.com/api/mcp/asset/d32ca81c-71d5-4577-875e-3f4bf5683bbe";
+const imgIcon6 = "https://www.figma.com/api/mcp/asset/f63076d3-a7e3-45bf-a94c-bf75c64eafd6";
+const imgIcon7 = "https://www.figma.com/api/mcp/asset/a69a1612-6527-41ab-9f0b-e80d09dc007f";
+const imgIcon8 = "https://www.figma.com/api/mcp/asset/ffabb8a6-40c5-4c75-acd6-f76309d49c88";
+const imgIcon9 = "https://www.figma.com/api/mcp/asset/ef1aa5ec-f0e9-481d-9e00-825471281e24";
+const imgIcon10 = "https://www.figma.com/api/mcp/asset/9c35f9ce-541c-414a-8f8f-fddb176ddccd";
+const imgIcon11 = "https://www.figma.com/api/mcp/asset/022970eb-638f-4ada-831e-eda7c611be41";
+const imgIcon12 = "https://www.figma.com/api/mcp/asset/7f3beb77-d4cf-46f6-9655-9f73810f5e16";
+const imgIcon13 = "https://www.figma.com/api/mcp/asset/d92cbcab-2c0b-4d8e-a6be-061c90756592";
+const imgIcon14 = "https://www.figma.com/api/mcp/asset/20d0892e-fc14-4cf4-8eb6-d7262d69825f";
+const imgIcon15 = "https://www.figma.com/api/mcp/asset/f542d71e-0c51-44f5-9e79-4b7b15f05e5d";
+const imgIcon16 = "https://www.figma.com/api/mcp/asset/ac2bcde3-eb00-4ba9-829b-2f8b70fee770";
+const imgIcon17 = "https://www.figma.com/api/mcp/asset/073b2628-4225-4ce9-aca9-27bfd21c2219";
+const imgIcon18 = "https://www.figma.com/api/mcp/asset/e13eba68-11c6-479d-afa8-2fd2969168ec";
+const imgIcon19 = "https://www.figma.com/api/mcp/asset/3b11a5d0-930e-47a9-968a-41e84e804309";
+const imgIcon20 = "https://www.figma.com/api/mcp/asset/f79c8d1c-d73e-4b52-aea6-db78e625f275";
+const imgIcon21 = "https://www.figma.com/api/mcp/asset/2e0be515-efb4-4695-a6fe-1c82369a1cbe";
+const imgIcon22 = "https://www.figma.com/api/mcp/asset/cc11e245-dc5f-44ee-83a8-882cc77bbbc4";
+const imgIcon23 = "https://www.figma.com/api/mcp/asset/0159dab5-8dc8-4f30-a8ef-a4004c636d66";
+const imgIcon24 = "https://www.figma.com/api/mcp/asset/532e8132-daeb-4651-b1fc-302f5f707319";
+const imgIcon25 = "https://www.figma.com/api/mcp/asset/684582f9-4d29-45c2-ad6c-d5d55ef7bab5";
+const imgIcon26 = "https://www.figma.com/api/mcp/asset/0ec35362-dc5c-41ea-8686-787c154b3629";
+const imgIcon27 = "https://www.figma.com/api/mcp/asset/deb7b22d-9b22-4a73-af32-7af91f1630ed";
+const imgIcon28 = "https://www.figma.com/api/mcp/asset/0e4b482c-e325-4c62-84d7-4b30cd836723";
+const imgIcon29 = "https://www.figma.com/api/mcp/asset/8de7fe5e-7a32-474e-bff4-ba4c53ebaded";
+const imgIcon30 = "https://www.figma.com/api/mcp/asset/1e35400c-90cb-4718-9393-9496b53acc8b";
+const imgIcon31 = "https://www.figma.com/api/mcp/asset/78f40e4e-3ee8-4cf6-87ea-4e430d8912f2";
+const imgIcon32 = "https://www.figma.com/api/mcp/asset/e19060df-f591-4e6e-bf16-299b8d1be66c";
+const imgIcon33 = "https://www.figma.com/api/mcp/asset/147e5697-f851-411a-9920-fe7fb79fa128";
+const imgIcon34 = "https://www.figma.com/api/mcp/asset/988e3d77-9491-4366-bd29-5fda968e1fda";
+const imgIcon35 = "https://www.figma.com/api/mcp/asset/5b1f0956-e420-460b-876f-230399251036";
+const imgIcon36 = "https://www.figma.com/api/mcp/asset/f2d42983-2d7d-4d21-becb-ac9b505f26b0";
+const imgIcon37 = "https://www.figma.com/api/mcp/asset/536058aa-fbad-4172-ab1d-16662996a203";
+const imgIcon38 = "https://www.figma.com/api/mcp/asset/f70f5f41-2a19-4e4b-acfe-5d991e9f6c92";
+const imgIcon39 = "https://www.figma.com/api/mcp/asset/86a6134b-1ab4-494c-bb5c-56c3db05505e";
+const imgIcon40 = "https://www.figma.com/api/mcp/asset/6c9bf19f-5b03-49a5-9a26-ad1bb4f003f6";
+const imgIcon41 = "https://www.figma.com/api/mcp/asset/49d25195-10ea-4b6e-a1c0-ec96fae5cb6f";
+const imgIcon42 = "https://www.figma.com/api/mcp/asset/51a986a4-06c0-4cef-82e4-54a2b6b3c3d8";
+const imgIcon43 = "https://www.figma.com/api/mcp/asset/9a3ca0b7-1c80-4b9e-970f-35fadd286c76";
+const imgIcon44 = "https://www.figma.com/api/mcp/asset/ceb593ea-1f6c-40b5-902a-4743ccc94344";
+const imgIcon45 = "https://www.figma.com/api/mcp/asset/f1ec163b-5503-4c8d-b832-ad7b3ce32274";
+const imgIcon46 = "https://www.figma.com/api/mcp/asset/f4693273-efef-44f5-a65d-5fc2477d56f1";
+const imgIcon47 = "https://www.figma.com/api/mcp/asset/224609a3-01e6-4f22-8e3f-6d3607467b0a";
+const imgIcon48 = "https://www.figma.com/api/mcp/asset/ec6c16ac-e47d-4796-adc8-8fc95169e7cd";
+const imgIcon49 = "https://www.figma.com/api/mcp/asset/a8b508b8-cc72-4618-9056-3ddaf035f465";
+const imgIcon50 = "https://www.figma.com/api/mcp/asset/6e0e0a0e-2a8f-48eb-bdaf-8b209ccb3c3d";
+const imgIcon51 = "https://www.figma.com/api/mcp/asset/f46891b8-b10d-4dad-a234-bf99804ac2d9";
+const imgIcon52 = "https://www.figma.com/api/mcp/asset/6aba874c-9b26-40f9-b0be-cade00334eec";
+const imgIcon53 = "https://www.figma.com/api/mcp/asset/ac5b86ef-2659-4b1c-b1b4-8688959ca716";
+const imgIcon54 = "https://www.figma.com/api/mcp/asset/b71437ad-6893-485b-ac39-cf3b93b78208";
+const imgIcon55 = "https://www.figma.com/api/mcp/asset/ab3ac3e5-20b5-4e8d-bd2e-f1d0d45db29f";
+const imgIcon56 = "https://www.figma.com/api/mcp/asset/42ee391b-06a7-4f08-aab0-f8f06168ca5c";
+const imgIcon57 = "https://www.figma.com/api/mcp/asset/23d46b9d-e727-45d6-ada9-280ca2418132";
+const imgIcon58 = "https://www.figma.com/api/mcp/asset/ef1e25bb-672e-45b1-a6cb-af8a01a391fd";
+const imgIcon59 = "https://www.figma.com/api/mcp/asset/223516f1-c298-4257-9d85-c5e1470431b2";
+const imgIcon60 = "https://www.figma.com/api/mcp/asset/74fbac62-5bb2-47f2-b178-f73e18de3b26";
+const imgIcon61 = "https://www.figma.com/api/mcp/asset/c326cc00-bf96-474c-a019-8826552b3b8b";
+const imgIcon62 = "https://www.figma.com/api/mcp/asset/5542cbd5-d477-465f-803d-16f1245876fa";
+const imgIcon63 = "https://www.figma.com/api/mcp/asset/6a4fd88d-73f6-4484-8720-91d7e0296367";
+const imgIcon64 = "https://www.figma.com/api/mcp/asset/67d00ddf-96b4-4f20-8030-f44bba6f9c30";
+const imgIcon65 = "https://www.figma.com/api/mcp/asset/0dff1a38-47c9-485e-be5a-3eae664f7b8e";
+const imgIcon66 = "https://www.figma.com/api/mcp/asset/0bc530c7-af77-4838-a0c1-4e9d0981fb67";
+const imgIcon67 = "https://www.figma.com/api/mcp/asset/f3263fe0-eef7-4bed-9694-e266fa579487";
+const imgIcon68 = "https://www.figma.com/api/mcp/asset/c536d8f6-0553-4ef8-a18f-2908e8e8167c";
+const imgIcon69 = "https://www.figma.com/api/mcp/asset/28fb4034-c3fb-42b9-9092-e6b0e91c5e1d";
+const imgIcon70 = "https://www.figma.com/api/mcp/asset/be10ede2-0171-4c72-918a-5c3a01212f84";
+const imgIcon71 = "https://www.figma.com/api/mcp/asset/16d7ce8b-daf8-4f8e-95a7-cfe2ac4f64fa";
+const imgIcon72 = "https://www.figma.com/api/mcp/asset/b1cdc10f-d443-4b5a-ba32-632f138eb0f2";
+const imgIcon73 = "https://www.figma.com/api/mcp/asset/e3145ec0-8cc5-4d79-8e65-308e8026fe93";
+const imgIcon74 = "https://www.figma.com/api/mcp/asset/93caeaec-19d1-4215-90c7-fbd21252277a";
+const imgIcon75 = "https://www.figma.com/api/mcp/asset/26035d22-8241-45f0-bafb-eb93d48acc67";
+const imgIcon76 = "https://www.figma.com/api/mcp/asset/357c6e6e-8146-4e86-980a-15ddbf77d8cc";
+const imgIcon77 = "https://www.figma.com/api/mcp/asset/362e0618-e911-48b8-b2ed-eb62a7a4eaf3";
+const imgIcon78 = "https://www.figma.com/api/mcp/asset/5c93f601-8396-47f2-b0cb-ff82adf8da7a";
+const imgIcon79 = "https://www.figma.com/api/mcp/asset/c8c80c86-0421-4831-bc7e-ddca51ceaa91";
+const imgIcon80 = "https://www.figma.com/api/mcp/asset/67eeb171-c7e8-4328-9431-a894c452b3da";
+const imgIcon81 = "https://www.figma.com/api/mcp/asset/05df5f97-4e8a-4214-ba5f-8265aa1547f4";
+const imgIcon82 = "https://www.figma.com/api/mcp/asset/27aa1a43-bb3b-42bc-aea2-170e17cf6a1a";
+const imgIcon83 = "https://www.figma.com/api/mcp/asset/75a171f8-4807-4af6-b1bd-146b4796fc6d";
+const imgRectangle859 = "https://www.figma.com/api/mcp/asset/c5430e11-2735-4b0c-b9bf-7d2619cdb693";
+const imgIcon84 = "https://www.figma.com/api/mcp/asset/b88566ed-a544-428c-8c56-03eda65cb5da";
+const imgIcon85 = "https://www.figma.com/api/mcp/asset/92bc48b4-7e96-4e18-993c-7993df595af2";
+const imgIcon86 = "https://www.figma.com/api/mcp/asset/51312da2-110f-43fe-8034-c2a49f4bef5d";
+const imgIcon87 = "https://www.figma.com/api/mcp/asset/6d6b0336-d412-45aa-a4f7-4c9591a0d224";
+const imgIcon88 = "https://www.figma.com/api/mcp/asset/0486d8fe-8a53-4e06-a316-f1db49132d32";
+const imgIcon89 = "https://www.figma.com/api/mcp/asset/4e1b44e2-5ec7-41a8-bada-a28c9d639b63";
+const imgIcon90 = "https://www.figma.com/api/mcp/asset/217dde1a-482c-4e7e-8bb3-ff09eaae10be";
+const imgIcon91 = "https://www.figma.com/api/mcp/asset/5ff45c3a-37af-4e5f-a5fc-7c562b202fae";
+const imgIcon92 = "https://www.figma.com/api/mcp/asset/7702256e-a799-4b3d-bb57-8205d0d2e74a";
+const imgIcon93 = "https://www.figma.com/api/mcp/asset/cc98fff0-c6aa-4d76-862c-24033f0808f5";
+const imgIcon94 = "https://www.figma.com/api/mcp/asset/5cbb9b3f-c4fe-481e-a66a-15ecebd98907";
+const imgIcon95 = "https://www.figma.com/api/mcp/asset/2a6f6c6a-5b81-4b15-8b72-0bad92a9bdd2";
+const imgIcon96 = "https://www.figma.com/api/mcp/asset/694e61a7-6af0-4f5c-8722-b5e9bb24f921";
+const imgIcon97 = "https://www.figma.com/api/mcp/asset/37986692-392e-4b45-a514-ffaf44e339ef";
+const imgIcon98 = "https://www.figma.com/api/mcp/asset/8473b28d-9bd5-4539-b880-93b9678c13b6";
+const imgIcon99 = "https://www.figma.com/api/mcp/asset/2fcbec50-b1e8-4566-86c3-5e9b11628cc6";
+const imgIcon100 = "https://www.figma.com/api/mcp/asset/7357a438-6a06-4f8a-bb78-5fa86d48c175";
+const imgIcon101 = "https://www.figma.com/api/mcp/asset/58512dbd-f856-4150-9b9f-d71fb86e7546";
+const imgIcon102 = "https://www.figma.com/api/mcp/asset/db80d4c5-1e14-48d2-a961-728c5a16d801";
+const imgIcon103 = "https://www.figma.com/api/mcp/asset/8dff2cfa-a128-4a1b-a720-92bc02dcc746";
+const imgIcon104 = "https://www.figma.com/api/mcp/asset/97890094-99c2-4737-9716-99f737f3f391";
+const imgIcon105 = "https://www.figma.com/api/mcp/asset/9cfff6c8-c0ff-4580-805c-d2da1db49839";
+const imgIcon106 = "https://www.figma.com/api/mcp/asset/a00c68c5-b826-4fdf-a1a4-69023d518ff2";
+const imgIcon107 = "https://www.figma.com/api/mcp/asset/dba40e00-082f-416b-ad53-fda332ee41a9";
+const imgIcon108 = "https://www.figma.com/api/mcp/asset/847a5361-f692-44a1-941e-9b1f0d969910";
+const imgIcon109 = "https://www.figma.com/api/mcp/asset/0ca24ffd-2023-4bb4-b501-511186963aac";
+const imgIcon110 = "https://www.figma.com/api/mcp/asset/ef7886b9-357a-4585-aaf6-971dda6e37fd";
+const imgIcon111 = "https://www.figma.com/api/mcp/asset/6c74d6be-b5db-4d31-93cb-e0366ae5e956";
+const imgIcon112 = "https://www.figma.com/api/mcp/asset/987ec7a1-a7d1-4980-a885-f991fa166390";
+const imgIcon113 = "https://www.figma.com/api/mcp/asset/b953915f-1db9-4fd5-bae6-66472990c371";
+const imgIcon114 = "https://www.figma.com/api/mcp/asset/66fd2c48-6357-40b1-b769-9771a13ff3f7";
+const imgIcon115 = "https://www.figma.com/api/mcp/asset/1f7b995a-3012-4730-9a78-54f383b36b3e";
+const imgIcon116 = "https://www.figma.com/api/mcp/asset/f8d9a366-530f-41c7-a4f1-0c69fb7cd014";
+const imgIcon117 = "https://www.figma.com/api/mcp/asset/7b2c239b-0b22-474c-959a-f29ec2ae275d";
+const imgIcon118 = "https://www.figma.com/api/mcp/asset/f45cebfb-dce3-4b50-8093-f16d9a7aac18";
+const imgIcon119 = "https://www.figma.com/api/mcp/asset/891abd67-5960-4806-a4c6-e6ee328b5591";
+const imgIcon120 = "https://www.figma.com/api/mcp/asset/3340db42-d478-4ae1-b88e-38407c18d5c6";
+const imgIcon121 = "https://www.figma.com/api/mcp/asset/b3e709dc-fdb6-456a-b0f1-2f70658487fe";
+const imgIcon122 = "https://www.figma.com/api/mcp/asset/c6fcb84a-3d23-4c81-82f1-3c3a04c1cc28";
+const imgIcon123 = "https://www.figma.com/api/mcp/asset/cf9a42b3-a351-437b-8e92-11ef637deda1";
+const imgIcon124 = "https://www.figma.com/api/mcp/asset/3425edcc-c13e-4782-8c82-c20a72a6501d";
+const imgIcon125 = "https://www.figma.com/api/mcp/asset/b7dc318c-2138-44e9-b525-1746feb11499";
+const imgIcon126 = "https://www.figma.com/api/mcp/asset/3869822e-3d41-4c58-a688-bac0cf041199";
+const imgIcon127 = "https://www.figma.com/api/mcp/asset/10ee12c9-0ef5-496d-a20e-eed5a9f460b2";
+const imgIcon128 = "https://www.figma.com/api/mcp/asset/12367af1-85c3-4744-bcd5-aafc403318c8";
+const imgIcon129 = "https://www.figma.com/api/mcp/asset/7a274246-b4ce-4f73-9a32-c67bb2a9d093";
+const imgIcon130 = "https://www.figma.com/api/mcp/asset/3a7a8b66-373f-4f70-99e3-ed6d3822aa13";
+const imgIcon131 = "https://www.figma.com/api/mcp/asset/d9571b44-64d1-44c8-b988-5336d9215dd4";
+const imgIcon132 = "https://www.figma.com/api/mcp/asset/76d040b4-301a-43a5-b0bd-b18d725fd8fd";
+const imgIcon133 = "https://www.figma.com/api/mcp/asset/b294e19d-4ae1-4de4-becb-93dd840214e7";
+const imgIcon134 = "https://www.figma.com/api/mcp/asset/f56a77d0-0ff8-4824-956d-ff42ec8f3d43";
+const imgIcon135 = "https://www.figma.com/api/mcp/asset/6dd397b3-2b40-4109-a57e-4c56b280fc3b";
+const imgIcon136 = "https://www.figma.com/api/mcp/asset/32251017-4070-44a0-8610-9ecbedebdffc";
+const imgIcon137 = "https://www.figma.com/api/mcp/asset/d62388be-9726-413f-a287-0a3e956d2df7";
+const imgIcon138 = "https://www.figma.com/api/mcp/asset/e67d82aa-8edc-4047-873b-55445bfc2c51";
+const imgIcon139 = "https://www.figma.com/api/mcp/asset/a9ecd1cd-be19-468d-9c6a-c27d8f2dfdeb";
+const imgIcon140 = "https://www.figma.com/api/mcp/asset/f2043479-247d-428c-b8d2-e6c7b934bc55";
+const imgIcon141 = "https://www.figma.com/api/mcp/asset/7303ad63-5279-4db8-b514-f3766a5c482a";
+const imgIcon142 = "https://www.figma.com/api/mcp/asset/d37b960b-9853-4953-9005-a747599af60d";
+const imgIcon143 = "https://www.figma.com/api/mcp/asset/2f594178-118a-4844-a860-6934da64a0b3";
+const imgIcon144 = "https://www.figma.com/api/mcp/asset/7504b800-39fe-461a-b4f5-665187fc213b";
+const imgIcon145 = "https://www.figma.com/api/mcp/asset/c5b26f82-440d-4ead-ac42-0b5901d80da7";
+const imgIcon146 = "https://www.figma.com/api/mcp/asset/851b5631-eef4-4736-91da-00a2b6fd0b47";
+const imgIcon147 = "https://www.figma.com/api/mcp/asset/59686d95-3b50-4de7-8691-f5520e0a9ece";
+const imgIcon148 = "https://www.figma.com/api/mcp/asset/1f986f05-f3c4-4b95-870d-35a33ab0e5fd";
+const imgIcon149 = "https://www.figma.com/api/mcp/asset/89471226-35d7-400e-aad4-acabca9ef278";
+const imgIcon150 = "https://www.figma.com/api/mcp/asset/6fdaf2e4-d7a0-4a0a-aea4-d72f045ae665";
+const imgIcon151 = "https://www.figma.com/api/mcp/asset/c21eb206-2092-49de-a625-bd8bc0f7e494";
+const imgIcon152 = "https://www.figma.com/api/mcp/asset/0ed5b274-b8ea-4662-b97e-0d95f456bbed";
+const imgIcon153 = "https://www.figma.com/api/mcp/asset/58c419d4-d87d-4744-9b34-d824d1268411";
+const imgIcon154 = "https://www.figma.com/api/mcp/asset/d6b90217-7e5b-4efe-b5e5-b9584e74c59b";
+const imgIcon155 = "https://www.figma.com/api/mcp/asset/4d962515-a023-464d-99ad-2cb056545dbc";
+const imgIcon156 = "https://www.figma.com/api/mcp/asset/83a74426-1e79-4264-b137-3f0555d018cb";
+const imgIcon157 = "https://www.figma.com/api/mcp/asset/7c24b100-d04f-4267-8489-8b9da365578e";
+const imgIcon158 = "https://www.figma.com/api/mcp/asset/c17dfcf8-7e91-4edc-8641-351a16f55141";
+const imgIcon159 = "https://www.figma.com/api/mcp/asset/db737d46-a8c9-4535-8f5f-cb8572561401";
+const imgIcon160 = "https://www.figma.com/api/mcp/asset/32671654-56cd-4f38-9df8-7a5e68cb506c";
+const imgIcon161 = "https://www.figma.com/api/mcp/asset/a3d43cbe-a6ca-46cb-8c45-aaf75af4d25b";
+const imgIcon162 = "https://www.figma.com/api/mcp/asset/69d1bc68-0d60-4228-864e-6a383f4fd375";
+const imgIcon163 = "https://www.figma.com/api/mcp/asset/31da9160-8812-492a-a278-6b2f7aea15e1";
+const imgIcon164 = "https://www.figma.com/api/mcp/asset/b0549973-dc5a-4b8b-9bfa-19b1190f1aa5";
+const imgIcon165 = "https://www.figma.com/api/mcp/asset/98f5a893-4aaa-4e75-ba47-f6aab53f97df";
+const imgIcon166 = "https://www.figma.com/api/mcp/asset/070f6e8d-f413-4ab4-957b-86a92971b09a";
+const imgIcon167 = "https://www.figma.com/api/mcp/asset/b0e96c2c-09c1-4c5a-a15d-f272b470ba7a";
+const imgIcon168 = "https://www.figma.com/api/mcp/asset/4db80d57-3f5b-40a5-97e9-ed0cf7bce5fb";
+const imgIcon169 = "https://www.figma.com/api/mcp/asset/b0664457-a968-4633-86f5-5744c4451c59";
+const imgIcon170 = "https://www.figma.com/api/mcp/asset/b0d737f6-861f-47e1-a8ee-61bbd0121fbe";
+const imgIcon171 = "https://www.figma.com/api/mcp/asset/9da584ac-f7ac-47dd-8577-25b6ed36265d";
+const imgIcon172 = "https://www.figma.com/api/mcp/asset/0ed01b64-b484-42de-a480-5450c42a9e50";
+const imgIcon173 = "https://www.figma.com/api/mcp/asset/21eae496-d36a-46f5-b22e-2d3638de30d9";
+const imgIcon174 = "https://www.figma.com/api/mcp/asset/57e07464-ae55-459f-be28-456ba2c23d1e";
+const imgIcon175 = "https://www.figma.com/api/mcp/asset/c5b53ff7-a3e8-4fe6-8702-bf05f0648272";
+const imgIcon176 = "https://www.figma.com/api/mcp/asset/1f3891b7-f89b-4f66-ae54-f24e99f86314";
+const imgIcon177 = "https://www.figma.com/api/mcp/asset/86ae6367-2ba6-4b49-a0bd-2ac4f1d00e8e";
+const imgIcon178 = "https://www.figma.com/api/mcp/asset/f979972e-90e7-4265-9185-d58f07bcac07";
+const imgIcon179 = "https://www.figma.com/api/mcp/asset/5c8faa63-557e-413b-95f5-c7b4260b3594";
+const imgIcon180 = "https://www.figma.com/api/mcp/asset/9b292f03-8cd0-47e2-9024-3a24ad15dac9";
+const imgIcon181 = "https://www.figma.com/api/mcp/asset/c3f15365-a75b-4362-8424-7a09a09f5d3c";
+const imgIcon182 = "https://www.figma.com/api/mcp/asset/943e6f58-4d35-42c1-9e97-b7f6d6a0a29a";
+const imgIcon183 = "https://www.figma.com/api/mcp/asset/52e85fda-75ee-4890-bfb4-905d44e57c7f";
+const imgIcon184 = "https://www.figma.com/api/mcp/asset/d401b3b0-dda8-4035-b639-ce3eefac4d1f";
+const imgIcon185 = "https://www.figma.com/api/mcp/asset/0f1f3ed2-283f-4a1c-a4bc-13b2b1a60331";
+const imgIcon186 = "https://www.figma.com/api/mcp/asset/834c5042-caa6-4fd8-ac07-9a9582f09bc7";
+const imgIcon187 = "https://www.figma.com/api/mcp/asset/eef2daf5-9824-4990-b10c-c781eeed987f";
+const imgIcon188 = "https://www.figma.com/api/mcp/asset/fd11541e-3b91-488b-9aec-2d8c626e95ea";
+const imgIcon189 = "https://www.figma.com/api/mcp/asset/63e92505-5ea9-492e-9816-65adee12b5b4";
+const imgIcon190 = "https://www.figma.com/api/mcp/asset/9173b755-7053-466e-a88a-029844fd6c32";
+const imgIcon191 = "https://www.figma.com/api/mcp/asset/8a9b531c-a97b-4dc2-aedd-39f8e33878cc";
+const imgIcon192 = "https://www.figma.com/api/mcp/asset/152c913a-aa1d-445d-b831-854cf0fd058e";
+const imgIcon193 = "https://www.figma.com/api/mcp/asset/8bc59d32-c3af-4dd6-a7dc-eaf62285c074";
+const imgIcon194 = "https://www.figma.com/api/mcp/asset/17688747-7abf-4d40-9622-42e075f757a7";
+const imgIcon195 = "https://www.figma.com/api/mcp/asset/9a351e39-1796-413d-b83e-2b381c9b1df8";
+const imgIcon196 = "https://www.figma.com/api/mcp/asset/f06f2133-b588-417e-919c-f94cc44102fb";
+const imgIcon197 = "https://www.figma.com/api/mcp/asset/148333d9-e565-461b-a41a-db16c3bf0834";
+const imgIcon198 = "https://www.figma.com/api/mcp/asset/efa60bc5-cf40-45c5-9e06-ef337bded293";
+const imgIcon199 = "https://www.figma.com/api/mcp/asset/06fdefd0-a28c-4cb4-a935-35c25f4de11b";
+const imgIcon200 = "https://www.figma.com/api/mcp/asset/66d6b23e-fa8e-4462-a24a-69deec9cd45f";
+const imgIcon201 = "https://www.figma.com/api/mcp/asset/4f9ce408-7f99-4013-b8d3-291c807fe716";
+const imgIcon202 = "https://www.figma.com/api/mcp/asset/63b7cd50-219b-41a8-9971-2197ea88e294";
+const imgIcon203 = "https://www.figma.com/api/mcp/asset/34aba930-6113-4c30-b1f4-5797274f4666";
+const imgIcon204 = "https://www.figma.com/api/mcp/asset/9575695b-a86b-4e15-8765-db4cdcba4122";
+const imgIcon205 = "https://www.figma.com/api/mcp/asset/da0adb4d-badb-4ad1-b516-42fe9d85433d";
+const imgIcon206 = "https://www.figma.com/api/mcp/asset/bacce663-3f4a-4e71-8cb0-1e94a1b90c08";
+const imgIcon207 = "https://www.figma.com/api/mcp/asset/1ec3bce1-0ba9-43a1-8e7d-4a502d2e7db6";
+const imgIcon208 = "https://www.figma.com/api/mcp/asset/3adee0d6-4cf1-4554-8ce6-3907779f77c7";
+const imgIcon209 = "https://www.figma.com/api/mcp/asset/3f650676-34a7-46b0-88dc-f204145d8380";
+const imgIcon210 = "https://www.figma.com/api/mcp/asset/b0bb62f0-c454-49b9-b019-e0f3277c4b77";
+const imgVector4 = "https://www.figma.com/api/mcp/asset/a16d228e-cb19-4884-9a06-585bca78b205";
+const imgVector5 = "https://www.figma.com/api/mcp/asset/0b91f1b3-f643-4c48-94fd-2cb1814789c6";
+const imgVector6 = "https://www.figma.com/api/mcp/asset/cb0dc019-c22c-477b-8bc0-ce71d7990ade";
+const imgVector7 = "https://www.figma.com/api/mcp/asset/ecaf7bde-12b2-47df-9e2c-aaf3700553a9";
+const img = "https://www.figma.com/api/mcp/asset/65409497-cbc9-4527-832f-9eb24d8f138a";
+
+function Truck({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="truck" data-node-id="103:10429">
+      <img alt="" className="block max-w-none size-full" src={imgTruck} />
+      <div className="absolute inset-[16.28%_8.27%_17.06%_8.39%]" data-name="Vector" data-node-id="103:10431">
+        <img alt="" className="block max-w-none size-full" src={imgVector} />
+      </div>
+    </div>
+  );
+}
+
+function Palette({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="palette" data-node-id="103:10169">
+      <img alt="" className="block max-w-none size-full" src={imgPalette} />
+      <div className="absolute inset-[8.14%_8.34%_8.5%_8.33%]" data-name="Vector" data-node-id="103:10168">
+        <img alt="" className="block max-w-none size-full" src={imgVector1} />
+      </div>
+    </div>
+  );
+}
+
+function Telegram({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="telegram3" data-node-id="81:6929">
+      <img alt="" className="block max-w-none size-full" src={imgTelegram3} />
+      <div className="absolute inset-[12.21%_8.36%_12.79%_12.46%]" data-name="Vector" data-node-id="81:6928">
+        <img alt="" className="block max-w-none size-full" src={imgVector2} />
+      </div>
+    </div>
+  );
+}
+
+function Puzzle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="puzzle" data-node-id="45:10699">
+      <img alt="" className="block max-w-none size-full" src={imgPuzzle} />
+      <div className="absolute inset-[8.14%_12.44%_12.7%_8.39%]" data-name="Vector" data-node-id="45:10698">
+        <img alt="" className="block max-w-none size-full" src={imgVector3} />
+      </div>
+    </div>
+  );
+}
+
+function Moon({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="moon" data-node-id="31:4999">
+      <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="31:5000">
+        <div className="absolute inset-[-5%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ExternalLink({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="external-link" data-node-id="31:4995">
+      <div className="absolute inset-[27.5%_27.5%_16.25%_16.25%]" data-name="Icon" data-node-id="31:4996">
+        <div className="absolute inset-[-7.41%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon1} />
+        </div>
+      </div>
+      <div className="absolute inset-[16.25%_16.25%_61.25%_61.25%]" data-name="Icon" data-node-id="31:4997">
+        <div className="absolute inset-[-18.52%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon2} />
+        </div>
+      </div>
+      <div className="absolute inset-[16.25%_16.25%_42.5%_42.5%]" data-name="Icon" data-node-id="31:4998">
+        <div className="absolute inset-[-10.1%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon3} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Printer({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="printer" data-node-id="31:4993">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="31:4994">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon4} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ImagePlus({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="image-plus" data-node-id="31:4990">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="31:4991">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon5} />
+        </div>
+      </div>
+      <div className="absolute inset-[29.17%_58.33%_58.33%_29.17%]" data-name="Icon" data-node-id="31:4992">
+        <img alt="" className="block max-w-none size-full" src={imgIcon6} />
+      </div>
+    </div>
+  );
+}
+
+function Trash({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="trash" data-node-id="31:4988">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="31:4989">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon7} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Gear({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="gear" data-node-id="31:4986">
+      <div className="absolute inset-[8.33%]" data-name="Icon" data-node-id="31:4987">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon8} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Box({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="box" data-node-id="31:4982">
+      <div className="absolute inset-[12.51%_16.25%]" data-name="Icon" data-node-id="31:4983">
+        <div className="absolute inset-[-5.56%_-6.17%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon9} />
+        </div>
+      </div>
+      <div className="absolute inset-[31.1%_17.26%_49.96%_17.26%]" data-name="Icon" data-node-id="31:4984">
+        <div className="absolute inset-[-22.01%_-6.36%_-22%_-6.36%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon10} />
+        </div>
+      </div>
+      <div className="absolute bottom-[12.2%] left-1/2 right-1/2 top-1/2" data-name="Icon" data-node-id="31:4985">
+        <div className="absolute inset-[-11.02%_-1px]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon11} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CouponDiscount({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="coupon-discount" data-node-id="31:4978">
+      <div className="absolute inset-[20.83%_4.17%]" data-name="Icon" data-node-id="31:4979">
+        <img alt="" className="block max-w-none size-full" src={imgIcon12} />
+      </div>
+    </div>
+  );
+}
+
+function Store({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="Store-02" data-node-id="31:4975">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="31:4976">
+        <div className="absolute inset-[-5.56%_-5.55%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon13} />
+        </div>
+      </div>
+      <div className="absolute inset-[62.5%_41.49%_20.83%_41.49%]" data-name="Icon" data-node-id="31:4977">
+        <img alt="" className="block max-w-none size-full" src={imgIcon14} />
+      </div>
+    </div>
+  );
+}
+
+function ShoppingBag({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="shopping-bag" data-node-id="31:4973">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="31:4974">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon15} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CornerUpLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="corner-up-left" data-node-id="31:4971">
+      <div className="absolute bottom-[20.83%] flex items-center justify-center left-1/4 right-1/4 top-[20.83%]">
+        <div className="flex-none h-[14px] rotate-[180deg] w-[12px]">
+          <div className="relative size-full" data-name="Icon" data-node-id="31:4972">
+            <div className="absolute inset-[-7.14%_-8.33%]">
+              <img alt="" className="block max-w-none size-full" src={imgIcon16} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function SwitchHorizontal({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="switch-horizontal-01" data-node-id="31:4969">
+      <div className="absolute bottom-[16.67%] flex items-center justify-center left-1/4 right-1/4 top-[16.67%]">
+        <div className="flex-none h-[12px] rotate-[-90deg] w-[16px]">
+          <div className="relative size-full" data-name="Icon" data-node-id="31:4970">
+            <div className="absolute inset-[-8.33%_-6.25%]">
+              <img alt="" className="block max-w-none size-full" src={imgIcon17} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Play({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="play" data-node-id="26:4839">
+      <div className="absolute inset-[12.5%_16.67%_12.5%_20.83%]" data-name="Icon" data-node-id="26:4840">
+        <div className="absolute inset-[-5.57%_-6.67%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon18} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CornerDownRight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="corner-down-right" data-node-id="26:4837">
+      <div className="absolute bottom-[20.83%] left-1/4 right-1/4 top-[20.83%]" data-name="Icon" data-node-id="26:4838">
+        <div className="absolute inset-[-7.14%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon19} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function VideoRecorder({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="video-recorder" data-node-id="26:4835">
+      <div className="absolute inset-[29.17%_12.5%]" data-name="Icon" data-node-id="26:4836">
+        <div className="absolute inset-[-10%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon20} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LayoutLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="layout-left" data-node-id="26:4833">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4834">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon21} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function PencilLine({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="pencil-line-02" data-node-id="26:4831">
+      <div className="absolute inset-[12.5%_12.5%_12.49%_12.5%]" data-name="Icon" data-node-id="26:4832">
+        <div className="absolute inset-[-5.55%_-5.56%_-5.56%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon22} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Clock({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="clock-02" data-node-id="26:4829">
+      <div className="absolute inset-[8.33%]" data-name="Icon" data-node-id="26:4830">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon23} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Globe({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="globe-01" data-node-id="26:4827">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4828">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon24} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Location({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="location" data-node-id="26:4825">
+      <div className="absolute inset-[8.33%_20.83%]" data-name="icon" data-node-id="26:4826">
+        <div className="absolute inset-[-5%_-7.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon25} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Loader({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="loader-13" data-node-id="26:4823">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4824">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon26} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ChevronSelectorVertical({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="chevron-selector-vertical" data-node-id="26:4821">
+      <div className="absolute bottom-[16.67%] left-1/4 right-1/4 top-[16.67%]" data-name="Icon" data-node-id="26:4822">
+        <div className="absolute inset-[-4.36%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon27} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LayoutGrid({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="layout-grid" data-node-id="26:4819">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4820">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon28} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Columns({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="columns" data-node-id="26:4817">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4818">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon29} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Rows({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="rows" data-node-id="26:4815">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4816">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon30} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function HandHoldingBox({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="hand-holding-box" data-node-id="26:4813">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4814">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon31} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Hourglass({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="hourglass-03" data-node-id="26:4811">
+      <div className="absolute inset-[12.5%_20.83%]" data-name="Icon" data-node-id="26:4812">
+        <div className="absolute inset-[-5.56%_-7.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon32} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CalendarDate({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="calendar-date" data-node-id="26:4809">
+      <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="26:4810">
+        <div className="absolute inset-[-5%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon33} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function NoteSticky({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="note-sticky" data-node-id="26:4807">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4808">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon34} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function SwitchVertical({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="switch-vertical-01" data-node-id="26:4805">
+      <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="26:4806">
+        <div className="absolute inset-[-8.33%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon35} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Refresh({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="refresh-12" data-node-id="26:4803">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="icon" data-node-id="26:4804">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon36} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Command({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="command" data-node-id="26:4801">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4802">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon37} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function DotsHorizontal({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="dots-horizontal" data-node-id="26:4799">
+      <div className="absolute inset-[45.83%_20.83%]" data-name="Icon" data-node-id="26:4800">
+        <div className="absolute inset-[-50%_-7.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon38} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function DotsVertical({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="dots-vertical" data-node-id="26:4797">
+      <div className="absolute inset-[20.83%_45.83%]" data-name="Icon" data-node-id="26:4798">
+        <div className="absolute inset-[-7.14%_-50%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon39} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Headphone({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="headphone-01" data-node-id="26:4795">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4796">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon40} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Grid({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="grid-01" data-node-id="26:4793">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4794">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon41} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function UserPlus({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="user-plus-01" data-node-id="26:4791">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4792">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon42} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Calendar({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="calendar" data-node-id="26:4789">
+      <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="26:4790">
+        <div className="absolute inset-[-5%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon43} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ChevronUp({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="chevron-up" data-node-id="26:4787">
+      <div className="absolute bottom-[37.5%] left-1/4 right-1/4 top-[37.5%]" data-name="Icon" data-node-id="26:4788">
+        <div className="absolute inset-[-9.76%_-8.33%_-16.67%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon44} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ChevronDown({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="chevron-down" data-node-id="26:4785">
+      <div className="absolute bottom-[37.5%] flex items-center justify-center left-1/4 right-1/4 top-[37.5%]">
+        <div className="flex-none h-[6px] scale-y-[-100%] w-[12px]">
+          <div className="relative size-full" data-name="Icon" data-node-id="26:4786">
+            <div className="absolute inset-[-9.76%_-8.33%_-16.67%_-8.33%]">
+              <img alt="" className="block max-w-none size-full" src={imgIcon44} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ChevronRight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="chevron-right" data-node-id="26:4783">
+      <div className="absolute bottom-1/4 flex items-center justify-center left-[37.5%] right-[37.5%] top-1/4">
+        <div className="flex-none h-[6px] rotate-[90deg] w-[12px]">
+          <div className="relative size-full" data-name="Icon" data-node-id="26:4784">
+            <div className="absolute inset-[-9.76%_-8.33%_-16.67%_-8.33%]">
+              <img alt="" className="block max-w-none size-full" src={imgIcon45} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ChevronLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="chevron-left" data-node-id="26:4781">
+      <div className="absolute bottom-1/4 flex items-center justify-center left-[37.5%] right-[37.5%] top-1/4">
+        <div className="flex-none h-[6px] rotate-[-90deg] w-[12px]">
+          <div className="relative size-full" data-name="Icon" data-node-id="26:4782">
+            <div className="absolute inset-[-9.76%_-8.33%_-16.67%_-8.33%]">
+              <img alt="" className="block max-w-none size-full" src={imgIcon46} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Shield({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="shield-02" data-node-id="26:4779">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4780">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon47} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ShieldKeyHole({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="shield-key-hole" data-node-id="26:4775">
+      <div className="absolute inset-[8.33%_8.34%_8.33%_8.33%]" data-name="Icon" data-node-id="26:4776">
+        <img alt="" className="block max-w-none size-full" src={imgIcon48} />
+      </div>
+    </div>
+  );
+}
+
+function Key({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="key-02" data-node-id="26:4771">
+      <div className="absolute inset-[12.5%_8.33%]" data-name="Icon" data-node-id="26:4772">
+        <img alt="" className="block max-w-none size-full" src={imgIcon49} />
+      </div>
+    </div>
+  );
+}
+
+function EmergencyLight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="emergency-light-02" data-node-id="26:4769">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4770">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon50} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function File({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="file-01" data-node-id="26:4767">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4768">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon51} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Files({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="files-01" data-node-id="26:4765">
+      <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="26:4766">
+        <div className="absolute inset-[-5%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon52} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function FolderOpen({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="folder-open" data-node-id="26:4763">
+      <div className="absolute inset-[16.67%_8.33%]" data-name="Icon" data-node-id="26:4764">
+        <div className="absolute inset-[-6.25%_-5%_-6.25%_-5.01%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon53} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BoxArchive({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="box-archive" data-node-id="26:4761">
+      <div className="absolute inset-[16.67%_8.33%]" data-name="Icon" data-node-id="26:4762">
+        <div className="absolute inset-[-6.25%_-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon54} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function User({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="user-01" data-node-id="26:4759">
+      <div className="absolute inset-[12.5%_20.83%]" data-name="Icon" data-node-id="26:4760">
+        <div className="absolute inset-[-5.56%_-7.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon55} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Users({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="users-01" data-node-id="26:4754">
+      <div className="absolute inset-[12.5%_8.33%_12.5%_61.9%]" data-name="Icon" data-node-id="26:4755">
+        <img alt="" className="block max-w-none size-full" src={imgIcon56} />
+      </div>
+      <div className="absolute inset-[12.5%_37.5%_12.5%_12.5%]" data-name="Icon" data-node-id="26:4758">
+        <div className="absolute inset-[-5.56%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon57} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function UserCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="user-circle" data-node-id="26:4752">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4753">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon58} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Camera({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="camera-01" data-node-id="26:4750">
+      <div className="absolute inset-[16.67%_8.33%]" data-name="Icon" data-node-id="26:4751">
+        <div className="absolute inset-[-6.25%_-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon59} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Image({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="image-02" data-node-id="26:4748">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4749">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon60} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Image1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="image-03" data-node-id="26:4744">
+      <div className="absolute inset-[8.33%]" data-name="Icon" data-node-id="26:4745">
+        <img alt="" className="block max-w-none size-full" src={imgIcon61} />
+      </div>
+    </div>
+  );
+}
+
+function Flash({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="flash" data-node-id="26:4742">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4743">
+        <div className="absolute inset-[-5%_-0.02%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon62} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CreditCardArrowUp({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="credit-card-arrow-up" data-node-id="26:4740">
+      <div className="absolute inset-[20.83%_12.5%]" data-name="Icon" data-node-id="26:4741">
+        <div className="absolute inset-[-7.14%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon63} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CreditCardArrowDown({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="credit-card-arrow-down" data-node-id="26:4738">
+      <div className="absolute inset-[20.83%_12.5%]" data-name="Icon" data-node-id="26:4739">
+        <div className="absolute inset-[-7.14%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon64} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CreditCardArrowRight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="credit-card-arrow-right" data-node-id="26:4736">
+      <div className="absolute inset-[20.83%_12.5%]" data-name="Icon" data-node-id="26:4737">
+        <div className="absolute inset-[-7.14%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon65} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CreditCardArrowLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="credit-card-arrow-left" data-node-id="26:4734">
+      <div className="absolute inset-[20.83%_12.5%]" data-name="Icon" data-node-id="26:4735">
+        <div className="absolute inset-[-7.14%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon66} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function PiggyBank({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="piggy-bank-01" data-node-id="26:4730">
+      <div className="absolute inset-[12.5%_8.33%_12.5%_8.34%]" data-name="Icon" data-node-id="26:4731">
+        <img alt="" className="block max-w-none size-full" src={imgIcon67} />
+      </div>
+    </div>
+  );
+}
+
+function Receipt({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="receipt-02" data-node-id="26:4728">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4729">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon68} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Receipt1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="receipt-04" data-node-id="26:4726">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4727">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon69} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Invoice({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="invoice" data-node-id="26:4722">
+      <div className="absolute inset-[4.17%_12.5%]" data-name="Icon" data-node-id="26:4723">
+        <img alt="" className="block max-w-none size-full" src={imgIcon70} />
+      </div>
+    </div>
+  );
+}
+
+function BankNote({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bank-note-03" data-node-id="26:4720">
+      <div className="absolute bottom-1/4 left-[8.33%] right-[8.33%] top-1/4" data-name="Icon" data-node-id="26:4721">
+        <div className="absolute inset-[-8.33%_-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon71} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BankNote1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bank-note-04" data-node-id="26:4717">
+      <div className="absolute inset-[20.83%_4.17%]" data-name="Icon" data-node-id="26:4718">
+        <img alt="" className="block max-w-none size-full" src={imgIcon72} />
+      </div>
+    </div>
+  );
+}
+
+function CreditCard({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="credit-card-01" data-node-id="26:4711">
+      <div className="absolute inset-[16.67%_8.33%]" data-name="Icon" data-node-id="26:4712">
+        <img alt="" className="block max-w-none size-full" src={imgIcon73} />
+      </div>
+    </div>
+  );
+}
+
+function Wallet({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="wallet-05" data-node-id="26:4707">
+      <div className="absolute inset-[12.5%_4.17%]" data-name="Icon" data-node-id="26:4708">
+        <img alt="" className="block max-w-none size-full" src={imgIcon74} />
+      </div>
+    </div>
+  );
+}
+
+function Wallet1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="wallet-06" data-node-id="26:4703">
+      <div className="absolute inset-[11.71%_4.17%_8.33%_4.17%]" data-name="Icon" data-node-id="26:4704">
+        <img alt="" className="block max-w-none size-full" src={imgIcon75} />
+      </div>
+    </div>
+  );
+}
+
+function CurrnecyDollarCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="currnecy-dollar-circle" data-node-id="26:4701">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4702">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon76} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CoinsStacked({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="coins-stacked-03" data-node-id="26:4699">
+      <div className="absolute inset-[8.33%]" data-name="Icon" data-node-id="26:4700">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon77} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Bank({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bank-02" data-node-id="26:4697">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4698">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon78} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function AlertCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="alert-circle" data-node-id="26:4693">
+      <div className="absolute inset-[4.17%]" data-name="Icon" data-node-id="26:4694">
+        <img alt="" className="block max-w-none size-full" src={imgIcon79} />
+      </div>
+    </div>
+  );
+}
+
+function AlertTriangle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="alert-triangle" data-node-id="26:4689">
+      <div className="absolute inset-[12.5%_8.28%_12.5%_8.29%]" data-name="Icon" data-node-id="26:4690">
+        <img alt="" className="block max-w-none size-full" src={imgIcon80} />
+      </div>
+    </div>
+  );
+}
+
+function Announcement({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="announcement-02" data-node-id="26:4687">
+      <div className="absolute inset-[20.83%_12.5%_16.67%_12.5%]" data-name="Icon" data-node-id="26:4688">
+        <div className="absolute inset-[-6.68%_-5.56%_-6.67%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon81} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Bell({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bell-01" data-node-id="26:4685">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4686">
+        <div className="absolute inset-[-5%_-6.32%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon82} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Bell1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bell-05" data-node-id="26:4683">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4684">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon83} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function NotificationTextSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="notification-text-square" data-node-id="26:4681">
+      <div className="absolute inset-[12.5%]" data-node-id="26:4682">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgRectangle859} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function NotificationTextCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="notification-text-circle" data-node-id="26:4679">
+      <div className="absolute inset-[12.5%_12.5%_8.33%_8.33%]" data-name="icon" data-node-id="26:4680">
+        <div className="absolute inset-[-5.26%_-5.26%_-2.11%_-2.11%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon84} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Mail({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="mail-01" data-node-id="26:4677">
+      <div className="absolute inset-[20.83%_12.5%]" data-name="Icon" data-node-id="26:4678">
+        <div className="absolute inset-[-7.14%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon85} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Mail1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="mail-05" data-node-id="26:4675">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4676">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon86} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function MessageTextSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="message-text-square" data-node-id="26:4673">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4674">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon87} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function MessageDotsCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="message-dots-circle" data-node-id="26:4669">
+      <div className="absolute inset-[4.17%_4.17%_6.66%_6.66%]" data-name="Icon" data-node-id="26:4670">
+        <img alt="" className="block max-w-none size-full" src={imgIcon88} />
+      </div>
+    </div>
+  );
+}
+
+function Phone({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="phone" data-node-id="26:4667">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4668">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon89} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function PhoneOutging({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="phone-outging" data-node-id="26:4665">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4666">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon90} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function PhoneIncoming({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="phone-incoming" data-node-id="26:4663">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4664">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon91} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function PhoneVoice({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="phone-voice-02" data-node-id="26:4661">
+      <div className="absolute inset-[16.67%_8.33%]" data-name="Icon" data-node-id="26:4662">
+        <div className="absolute inset-[-6.25%_-5%_-6.24%_-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon92} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LineChartDown({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="line-chart-down-01" data-node-id="26:4659">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4660">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon93} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LineChartUp({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="line-chart-up-01" data-node-id="26:4657">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4658">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon94} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LineStackedUp({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="line-stacked-up" data-node-id="26:4655">
+      <div className="absolute inset-[20.83%_12.5%]" data-name="Icon" data-node-id="26:4656">
+        <div className="absolute inset-[-7.14%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon95} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LineStackedDown({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="line-stacked-down" data-node-id="26:4653">
+      <div className="absolute inset-[20.83%_12.5%]" data-name="Icon" data-node-id="26:4654">
+        <div className="absolute inset-[-7.14%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon96} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LinePieChart({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="line-pie-chart-01" data-node-id="26:4651">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4652">
+        <div className="absolute inset-[-5.29%_-5.29%_-5.56%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon97} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LinePieChart1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="line-pie-chart-02" data-node-id="26:4649">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4650">
+        <div className="absolute inset-[-5.29%_-5.56%_-5.56%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon98} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function TrendUp({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="trend-up-01" data-node-id="26:4647">
+      <div className="absolute inset-[29.17%_8.33%]" data-name="Icon" data-node-id="26:4648">
+        <div className="absolute inset-[-10%_-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon99} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function TrendDown({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="trend-down-01" data-node-id="26:4645">
+      <div className="absolute inset-[29.17%_8.33%]" data-name="Icon" data-node-id="26:4646">
+        <div className="absolute inset-[-10%_-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon100} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BarChart({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bar-chart-11" data-node-id="26:4643">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4644">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon101} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BarChart1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bar-chart-12" data-node-id="26:4641">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4642">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon102} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BarChart2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bar-chart-13" data-node-id="26:4639">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4640">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon103} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BarChart3({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bar-chart-14" data-node-id="26:4637">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4638">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon104} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function SquareBarChart({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="square-bar-chart-01" data-node-id="26:4635">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4636">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon105} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function SquareBarChart1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="square-bar-chart-02" data-node-id="26:4633">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4634">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon106} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function SquareBarChart2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="square-bar-chart-03" data-node-id="26:4631">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4632">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon107} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function SquareBarChart3({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="square-bar-chart-04" data-node-id="26:4629">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4630">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon108} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowCircleUp({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-circle-up" data-node-id="26:4627">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4628">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon109} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowCircleDown({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-circle-down" data-node-id="26:4625">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4626">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon110} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowCircleRight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-circle-right" data-node-id="26:4623">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4624">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon111} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowCircleLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-circle-left" data-node-id="26:4621">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4622">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon112} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowCircleUpRight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-circle-up-right" data-node-id="26:4619">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4620">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon113} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowCircleUpLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-circle-up-left" data-node-id="26:4617">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4618">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon114} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowCircleDownRight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-circle-down-right" data-node-id="26:4615">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4616">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon115} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowCircleDownLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-circle-down-left" data-node-id="26:4613">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4614">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon116} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowNarrowUp({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-narrow-up" data-node-id="26:4611">
+      <div className="absolute bottom-[16.67%] left-1/4 right-1/4 top-[16.67%]" data-name="Icon" data-node-id="26:4612">
+        <div className="absolute inset-[-6.25%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon117} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowNarrowDown({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-narrow-down" data-node-id="26:4609">
+      <div className="absolute bottom-[16.67%] left-1/4 right-1/4 top-[16.67%]" data-name="Icon" data-node-id="26:4610">
+        <div className="absolute inset-[-6.25%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon118} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowNarrowRight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-narrow-right" data-node-id="26:4607">
+      <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="26:4608">
+        <div className="absolute inset-[-8.33%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon119} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowNarrowLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-narrow-left" data-node-id="26:4605">
+      <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="26:4606">
+        <div className="absolute inset-[-8.33%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon120} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowNarrowUpRight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-narrow-up-right" data-node-id="26:4603">
+      <div className="absolute inset-1/4" data-name="Icon" data-node-id="26:4604">
+        <div className="absolute inset-[-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon121} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowNarrowUpLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-narrow-up-left" data-node-id="26:4601">
+      <div className="absolute inset-1/4" data-name="Icon" data-node-id="26:4602">
+        <div className="absolute inset-[-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon122} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowNarrowDownRight({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-narrow-down-right" data-node-id="26:4599">
+      <div className="absolute inset-1/4" data-name="Icon" data-node-id="26:4600">
+        <div className="absolute inset-[-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon123} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowNarrowDownLeft({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrow-narrow-down-left" data-node-id="26:4597">
+      <div className="absolute flex inset-1/4 items-center justify-center">
+        <div className="flex-none rotate-[180deg] size-[12px]">
+          <div className="relative size-full" data-name="Icon" data-node-id="26:4598">
+            <div className="absolute inset-[-8.33%]">
+              <img alt="" className="block max-w-none size-full" src={imgIcon124} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogIn({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-in-01" data-node-id="26:4595">
+      <div className="absolute bottom-[16.67%] left-1/4 right-1/4 top-[16.67%]" data-name="Icon" data-node-id="26:4596">
+        <div className="absolute inset-[-6.25%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon125} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogIn1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-in-02" data-node-id="26:4593">
+      <div className="absolute bottom-[16.67%] left-1/4 right-1/4 top-[16.67%]" data-name="Icon" data-node-id="26:4594">
+        <div className="absolute inset-[-6.25%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon126} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogIn2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-in-03" data-node-id="26:4591">
+      <div className="absolute bottom-[16.67%] left-1/4 right-1/4 top-[16.67%]" data-name="Icon" data-node-id="26:4592">
+        <div className="absolute inset-[-6.25%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon127} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogIn3({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-in-04" data-node-id="26:4589">
+      <div className="absolute bottom-[16.67%] left-1/4 right-1/4 top-[16.67%]" data-name="Icon" data-node-id="26:4590">
+        <div className="absolute inset-[-6.27%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon128} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogIn4({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-in-05" data-node-id="26:4587">
+      <div className="absolute inset-[16.67%]" data-name="icon" data-node-id="26:4588">
+        <div className="absolute inset-[-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon129} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogOut({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-out-01" data-node-id="26:4585">
+      <div className="absolute bottom-[16.67%] left-1/4 right-1/4 top-[16.67%]" data-name="Icon" data-node-id="26:4586">
+        <div className="absolute inset-[-6.25%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon130} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogOut1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-out-02" data-node-id="26:4583">
+      <div className="absolute bottom-[16.67%] left-1/4 right-1/4 top-[16.67%]" data-name="Icon" data-node-id="26:4584">
+        <div className="absolute inset-[-6.25%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon131} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogOut2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-out-03" data-node-id="26:4581">
+      <div className="absolute inset-[16.67%_20.83%]" data-name="Icon" data-node-id="26:4582">
+        <div className="absolute inset-[-6.25%_-7.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon132} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogOut3({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-out-04" data-node-id="26:4579">
+      <div className="absolute inset-[16.67%_20.83%]" data-name="Icon" data-node-id="26:4580">
+        <div className="absolute inset-[-6.26%_-7.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon133} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LogOut4({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="log-out-05" data-node-id="26:4577">
+      <div className="absolute inset-[16.67%]" data-name="icon" data-node-id="26:4578">
+        <div className="absolute inset-[-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon134} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function CheckCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="check-circle" data-node-id="26:4575">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4576">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon135} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BlockCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="block-circle" data-node-id="26:4573">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4574">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon136} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function PlusCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="plus-circle" data-node-id="26:4571">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4572">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon137} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function MinusCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="minus-circle" data-node-id="26:4569">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4570">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon138} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function DotsCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="dots-circle" data-node-id="26:4565">
+      <div className="absolute inset-[4.17%]" data-name="Icon" data-node-id="26:4566">
+        <img alt="" className="block max-w-none size-full" src={imgIcon139} />
+      </div>
+    </div>
+  );
+}
+
+function QuestionCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="question-circle" data-node-id="26:4561">
+      <div className="absolute inset-[4.17%]" data-name="Icon" data-node-id="26:4562">
+        <img alt="" className="block max-w-none size-full" src={imgIcon140} />
+      </div>
+    </div>
+  );
+}
+
+function HeartCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="heart-circle" data-node-id="26:4559">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4560">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon141} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ExclamationCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="exclamation-circle" data-node-id="26:4555">
+      <div className="absolute inset-[4.17%]" data-name="Icon" data-node-id="26:4556">
+        <img alt="" className="block max-w-none size-full" src={imgIcon142} />
+      </div>
+    </div>
+  );
+}
+
+function StarCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="star-circle" data-node-id="26:4553">
+      <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="26:4554">
+        <div className="absolute inset-[-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon143} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function InformationCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="information-circle" data-node-id="26:4549">
+      <div className="absolute inset-[4.17%]" data-name="Icon" data-node-id="26:4550">
+        <img alt="" className="block max-w-none size-full" src={imgIcon144} />
+      </div>
+    </div>
+  );
+}
+
+function LockedCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="locked-circle" data-node-id="26:4545">
+      <div className="absolute inset-[4.17%]" data-name="Icon" data-node-id="26:4546">
+        <img alt="" className="block max-w-none size-full" src={imgIcon145} />
+      </div>
+    </div>
+  );
+}
+
+function DownloadCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="download-circle-01" data-node-id="26:4543">
+      <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="26:4544">
+        <div className="absolute inset-[-8.33%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon146} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function DownloadCircle1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="download-circle-02" data-node-id="26:4541">
+      <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="26:4542">
+        <div className="absolute inset-[-8.33%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon147} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function DownloadCircle2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="download-circle-03" data-node-id="26:4539">
+      <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="26:4540">
+        <div className="absolute inset-[-8.33%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon148} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function DownloadCircle3({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="download-circle-04" data-node-id="26:4537">
+      <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="26:4538">
+        <div className="absolute inset-[-8.33%_-6.27%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon149} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function DownloadCircle4({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="download-circle-05" data-node-id="26:4535">
+      <div className="absolute inset-[16.67%]" data-name="icon" data-node-id="26:4536">
+        <div className="absolute inset-[-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon150} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function UploadCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="upload-circle-01" data-node-id="26:4533">
+      <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="26:4534">
+        <div className="absolute inset-[-8.33%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon151} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function UploadCircle1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="upload-circle-02" data-node-id="26:4531">
+      <div className="absolute bottom-1/4 left-[16.67%] right-[16.67%] top-1/4" data-name="Icon" data-node-id="26:4532">
+        <div className="absolute inset-[-8.33%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon152} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function UploadCircle2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="upload-circle-03" data-node-id="26:4529">
+      <div className="absolute inset-[20.83%_16.67%]" data-name="Icon" data-node-id="26:4530">
+        <div className="absolute inset-[-7.14%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon153} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function UploadCircle3({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="upload-circle-04" data-node-id="26:4527">
+      <div className="absolute inset-[20.83%_16.67%]" data-name="Icon" data-node-id="26:4528">
+        <div className="absolute inset-[-7.14%_-6.26%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon154} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function UploadCircle4({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="upload-circle-05" data-node-id="26:4525">
+      <div className="absolute inset-[16.67%]" data-name="icon" data-node-id="26:4526">
+        <div className="absolute inset-[-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon155} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ShareCircle({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="share-circle" data-node-id="26:4523">
+      <div className="absolute inset-[16.67%]" data-name="icon" data-node-id="26:4524">
+        <div className="absolute inset-[-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon156} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ShareSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="share-square" data-node-id="26:4521">
+      <div className="absolute inset-[16.67%]" data-name="icon" data-node-id="26:4522">
+        <div className="absolute inset-[-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon157} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Check({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="check" data-node-id="26:4519">
+      <div className="absolute bottom-[33.33%] left-1/4 right-1/4 top-[33.33%]" data-name="Icon" data-node-id="26:4520">
+        <div className="absolute inset-[-12.5%_-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon158} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Block({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="block" data-node-id="26:4517">
+      <div className="absolute inset-[33.33%]" data-name="Icon" data-node-id="26:4518">
+        <div className="absolute inset-[-12.5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon159} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Plus({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="plus" data-node-id="26:4515">
+      <div className="absolute inset-[29.17%]" data-name="Icon" data-node-id="26:4516">
+        <div className="absolute inset-[-10%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon160} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Minus({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="minus" data-node-id="26:4513">
+      <div className="absolute bottom-1/2 left-[33.33%] right-[33.33%] top-1/2" data-name="Icon" data-node-id="26:4514">
+        <div className="absolute inset-[-1px_-12.5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon161} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function QuestionMark({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="question-mark" data-node-id="26:4509">
+      <div className="absolute inset-[16.67%_29.17%_17.71%_29.17%]" data-name="Icon" data-node-id="26:4510">
+        <img alt="" className="block max-w-none size-full" src={imgIcon162} />
+      </div>
+    </div>
+  );
+}
+
+function Heart({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="heart" data-node-id="26:4507">
+      <div className="absolute inset-[22.92%_20.83%]" data-name="icon" data-node-id="26:4508">
+        <div className="absolute inset-[-7.71%_-7.14%_-5.03%_-7.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon163} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Star({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="star" data-node-id="26:4505">
+      <div className="absolute inset-1/4" data-name="icon" data-node-id="26:4506">
+        <div className="absolute inset-[-8.33%_-8.35%_-8.36%_-8.35%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon164} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Eye({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="eye" data-node-id="26:4501">
+      <div className="absolute inset-[20.83%_13.99%]" data-name="Icon" data-node-id="26:4502">
+        <img alt="" className="block max-w-none size-full" src={imgIcon165} />
+      </div>
+    </div>
+  );
+}
+
+function Locked({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="locked-01" data-node-id="26:4497">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4498">
+        <img alt="" className="block max-w-none size-full" src={imgIcon166} />
+      </div>
+    </div>
+  );
+}
+
+function Unlocked({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="unlocked-01" data-node-id="26:4493">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4494">
+        <img alt="" className="block max-w-none size-full" src={imgIcon167} />
+      </div>
+    </div>
+  );
+}
+
+function Locked1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="locked-02" data-node-id="26:4489">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4490">
+        <img alt="" className="block max-w-none size-full" src={imgIcon168} />
+      </div>
+    </div>
+  );
+}
+
+function Unlocked1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="unlocked-02" data-node-id="26:4485">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4486">
+        <img alt="" className="block max-w-none size-full" src={imgIcon169} />
+      </div>
+    </div>
+  );
+}
+
+function CheckSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="check-square" data-node-id="26:4483">
+      <div className="absolute inset-[12.5%]" data-name="icon" data-node-id="26:4484">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon170} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BlockSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="block-square" data-node-id="26:4481">
+      <div className="absolute inset-[12.5%]" data-name="icon" data-node-id="26:4482">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon171} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function PlusSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="plus-square" data-node-id="26:4479">
+      <div className="absolute inset-[12.5%]" data-name="icon" data-node-id="26:4480">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon172} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function MinusSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="minus-square" data-node-id="26:4477">
+      <div className="absolute inset-[12.5%]" data-name="icon" data-node-id="26:4478">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon173} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function DotsSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="dots-square" data-node-id="26:4473">
+      <div className="absolute inset-[8.33%]" data-name="Icon" data-node-id="26:4474">
+        <img alt="" className="block max-w-none size-full" src={imgIcon174} />
+      </div>
+    </div>
+  );
+}
+
+function QuestionSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="question-square" data-node-id="26:4469">
+      <div className="absolute inset-[8.33%]" data-name="Icon" data-node-id="26:4470">
+        <img alt="" className="block max-w-none size-full" src={imgIcon175} />
+      </div>
+    </div>
+  );
+}
+
+function LockedSquare({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="locked-square" data-node-id="26:4465">
+      <div className="absolute inset-[8.33%]" data-name="Icon" data-node-id="26:4466">
+        <img alt="" className="block max-w-none size-full" src={imgIcon176} />
+      </div>
+    </div>
+  );
+}
+
+function Home({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-01" data-node-id="26:4463">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4464">
+        <div className="absolute inset-[-5.56%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon177} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-02" data-node-id="26:4461">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4462">
+        <div className="absolute inset-[-5.56%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon178} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-03" data-node-id="26:4457">
+      <div className="absolute inset-[8.33%_12.5%]" data-name="Icon" data-node-id="26:4458">
+        <img alt="" className="block max-w-none size-full" src={imgIcon179} />
+      </div>
+    </div>
+  );
+}
+
+function Home3({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-04" data-node-id="26:4455">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4456">
+        <div className="absolute inset-[-5.56%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon180} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home4({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-05" data-node-id="26:4453">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4454">
+        <div className="absolute inset-[-5.56%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon181} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home5({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-06" data-node-id="26:4451">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4452">
+        <div className="absolute inset-[-5.56%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon182} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home6({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-07" data-node-id="26:4449">
+      <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="26:4450">
+        <div className="absolute inset-[-5.56%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon183} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home7({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-08" data-node-id="26:4447">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4448">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon184} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home8({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-09" data-node-id="26:4445">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4446">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon185} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home9({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-10" data-node-id="26:4441">
+      <div className="absolute inset-[8.33%_8.33%_8.33%_8.34%]" data-name="Icon" data-node-id="26:4442">
+        <img alt="" className="block max-w-none size-full" src={imgIcon186} />
+      </div>
+    </div>
+  );
+}
+
+function Home10({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-11" data-node-id="26:4439">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4440">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon187} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home11({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-12" data-node-id="26:4437">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4438">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon188} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Home12({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="home-13" data-node-id="26:4435">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4436">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon189} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Resources({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="resources" data-node-id="26:4433">
+      <div className="absolute left-[3px] size-[18px] top-[3px]" data-name="Icon" data-node-id="26:4434">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon190} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Search({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="search-01" data-node-id="26:4431">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4432">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon191} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Search1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="search-02" data-node-id="26:4429">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4430">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon192} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Search2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="search-04" data-node-id="26:4427">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4428">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon193} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Search3({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="search-05" data-node-id="26:4425">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4426">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon194} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Search4({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="search-07" data-node-id="26:4423">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4424">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon195} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Bookmark({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bookmark" data-node-id="26:4421">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4422">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon196} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BookmarkCheck({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bookmark-check" data-node-id="26:4419">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4420">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon197} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BookmarkPlus({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bookmark-plus" data-node-id="26:4417">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4418">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon198} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function BookmarkMinus({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="bookmark-minus" data-node-id="26:4415">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4416">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon199} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Filter({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="filter-01" data-node-id="26:4413">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4414">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon200} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Filter1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="filter-02" data-node-id="26:4411">
+      <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="26:4412">
+        <div className="absolute inset-[-5%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon201} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Filter2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="filter-03" data-node-id="26:4409">
+      <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="26:4410">
+        <div className="absolute inset-[-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon202} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Link({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="link-01" data-node-id="26:4407">
+      <div className="absolute inset-[33.33%_8.33%]" data-name="Icon" data-node-id="26:4408">
+        <div className="absolute inset-[-12.5%_-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon203} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Link1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="link-02" data-node-id="26:4405">
+      <div className="absolute inset-[16.67%]" data-name="Icon" data-node-id="26:4406">
+        <div className="absolute inset-[-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon204} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Link2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="link-03" data-node-id="26:4403">
+      <div className="absolute inset-[33.33%_12.5%]" data-name="Icon" data-node-id="26:4404">
+        <div className="absolute inset-[-12.5%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon205} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Link3({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="link-04" data-node-id="26:4401">
+      <div className="absolute inset-[16.67%]" data-name="Icon" data-node-id="26:4402">
+        <div className="absolute inset-[-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon206} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function LinkBroken({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="link-broken-01" data-node-id="26:4399">
+      <div className="absolute inset-[16.67%_12.5%_18.75%_12.5%]" data-name="Icon" data-node-id="26:4400">
+        <div className="absolute inset-[-6.45%_-5.56%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon207} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function MenuBar({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="menu-bar-01" data-node-id="26:4397">
+      <div className="absolute inset-[29.17%_16.67%]" data-name="Icon" data-node-id="26:4398">
+        <div className="absolute inset-[-10%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon208} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function MenuBar1({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="menu-bar-02" data-node-id="26:4395">
+      <div className="absolute inset-[39.58%_16.67%]" data-name="Icon" data-node-id="26:4396">
+        <div className="absolute inset-[-20%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon209} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function MenuBar2({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="menu-bar-03" data-node-id="26:4393">
+      <div className="absolute inset-[29.17%_16.67%]" data-name="Icon" data-node-id="26:4394">
+        <div className="absolute inset-[-10%_-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgIcon210} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ArrowsDiagonal({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="arrows-diagonal" data-node-id="26:4388">
+      <div className="absolute inset-[16.67%]" data-name="Vector" data-node-id="26:4389">
+        <div className="absolute inset-[-6.25%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector4} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function X({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="x" data-node-id="26:4386">
+      <div className="absolute inset-1/4" data-name="Vector" data-node-id="26:4387">
+        <div className="absolute inset-[-8.33%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector5} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function GenderFemale({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="gender-female" data-node-id="26:4384">
+      <div className="absolute inset-[16.67%_29.17%_12.5%_29.17%]" data-name="Vector" data-node-id="26:4385">
+        <div className="absolute inset-[-5.88%_-10%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector6} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function GenderMale({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="gender-male" data-node-id="26:4382">
+      <div className="absolute inset-[20.83%]" data-name="Vector" data-node-id="26:4383">
+        <div className="absolute inset-[-7.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector7} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default function Iconography() {
+  return (
+    <div className="bg-white relative size-full" data-name="Iconography" data-node-id="26:4381">
+      <GenderMale className="absolute left-[1320px] size-[24px] top-[1295px]" />
+      <GenderFemale className="absolute left-[1248px] size-[24px] top-[1295px]" />
+      <X className="absolute left-[1176px] size-[24px] top-[1295px]" />
+      <ArrowsDiagonal className="absolute left-[1104px] size-[24px] top-[1295px]" />
+      <div className="absolute bg-white border-[#dfe1e6] border-b border-solid content-stretch flex flex-col items-center left-1/2 overflow-clip p-[16px] top-0 translate-x-[-50%] w-[1440px]" data-name="Header & Footer" data-node-id="155:13658">
+        <div className="bg-[#fa7319] content-stretch flex h-[100px] items-center justify-between px-[40px] relative shrink-0 w-full" data-node-id="155:13659">
+          <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="logo" data-node-id="155:13675">
+            <div className="bg-[#fa7319] content-stretch flex items-center justify-center p-[11.455px] relative rounded-[8181px] shrink-0 size-[36px]" data-name="Logo" data-node-id="I155:13675;2003:24186">
+              <div className="overflow-clip relative shrink-0 size-[19.636px]" data-name="Zapier" data-node-id="I155:13675;2003:24187">
+                <div className="absolute inset-0" style={{ "--fill-0": "rgba(255, 255, 255, 1)" } as React.CSSProperties}>
+                  <img alt="" className="block max-w-none size-full" src={img} />
+                </div>
+              </div>
+            </div>
+            <p className="font-['Inter:Semi_Bold',sans-serif] font-semibold leading-[1.3] not-italic relative shrink-0 text-[27px] text-white" data-node-id="I155:13675;118:19087">
+              Clario
+            </p>
+          </div>
+          <div className="flex flex-col font-['Inter:Regular',sans-serif] font-normal justify-center leading-[0] not-italic relative shrink-0 text-[20px] text-white tracking-[-0.8px] whitespace-nowrap" data-node-id="155:13661">
+            <p className="leading-[normal]">Sales CRM - Dashboard Ul Kit</p>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[100px] py-[80px] relative shrink-0 w-full" data-node-id="155:13662">
+          <div className="content-stretch flex flex-col gap-[24px] items-start not-italic relative shrink-0" data-name="Heading Text" data-node-id="155:13663">
+            <div className="flex flex-col font-['Inter:Semi_Bold',sans-serif] font-semibold justify-center leading-[0] relative shrink-0 text-[#15161e] text-[60px] tracking-[-3px] whitespace-nowrap" data-node-id="155:13664">
+              <p className="leading-[normal]">Iconography</p>
+            </div>
+            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[normal] relative shrink-0 text-[#666d80] text-[24px] tracking-[-0.96px]" data-node-id="155:13665">
+              The style guide provides to change stylistic for your design site.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="absolute flex flex-col font-['Inter_Tight:SemiBold',sans-serif] justify-center leading-[0] left-[96px] not-italic text-[#15161e] text-[24px] top-[503px] translate-y-[-50%] whitespace-nowrap" data-node-id="26:4391">
+        <p className="leading-[1.3]">General Icons</p>
+      </div>
+      <MenuBar2 className="absolute left-[744px] overflow-clip size-[24px] top-[1223px]" />
+      <MenuBar1 className="absolute left-[672px] overflow-clip size-[24px] top-[1223px]" />
+      <MenuBar className="absolute left-[600px] overflow-clip size-[24px] top-[1223px]" />
+      <LinkBroken className="absolute left-[456px] overflow-clip size-[24px] top-[1223px]" />
+      <Link3 className="absolute left-[744px] overflow-clip size-[24px] top-[1151px]" />
+      <Link2 className="absolute left-[672px] overflow-clip size-[24px] top-[1151px]" />
+      <Link1 className="absolute left-[600px] overflow-clip size-[24px] top-[1151px]" />
+      <Link className="absolute left-[528px] overflow-clip size-[24px] top-[1151px]" />
+      <Filter2 className="absolute left-[456px] overflow-clip size-[24px] top-[1151px]" />
+      <Filter1 className="absolute left-[744px] overflow-clip size-[24px] top-[1079px]" />
+      <Filter className="absolute left-[672px] overflow-clip size-[24px] top-[1079px]" />
+      <BookmarkMinus className="absolute left-[600px] overflow-clip size-[24px] top-[1079px]" />
+      <BookmarkPlus className="absolute left-[528px] overflow-clip size-[24px] top-[1079px]" />
+      <BookmarkCheck className="absolute left-[744px] overflow-clip size-[24px] top-[1007px]" />
+      <Bookmark className="absolute left-[672px] overflow-clip size-[24px] top-[1007px]" />
+      <Search4 className="absolute left-[528px] overflow-clip size-[24px] top-[1007px]" />
+      <Search3 className="absolute left-[744px] overflow-clip size-[24px] top-[935px]" />
+      <Search2 className="absolute left-[672px] overflow-clip size-[24px] top-[935px]" />
+      <Search1 className="absolute left-[528px] overflow-clip size-[24px] top-[935px]" />
+      <Search className="absolute left-[456px] overflow-clip size-[24px] top-[935px]" />
+      <Resources className="absolute left-[744px] overflow-clip size-[24px] top-[863px]" />
+      <Home12 className="absolute left-[672px] overflow-clip size-[24px] top-[863px]" />
+      <Home11 className="absolute left-[600px] overflow-clip size-[24px] top-[863px]" />
+      <Home10 className="absolute left-[528px] overflow-clip size-[24px] top-[863px]" />
+      <Home9 className="absolute left-[456px] overflow-clip size-[24px] top-[863px]" />
+      <Home8 className="absolute left-[744px] overflow-clip size-[24px] top-[791px]" />
+      <Home7 className="absolute left-[672px] overflow-clip size-[24px] top-[791px]" />
+      <Home6 className="absolute left-[600px] overflow-clip size-[24px] top-[791px]" />
+      <Home5 className="absolute left-[528px] overflow-clip size-[24px] top-[791px]" />
+      <Home4 className="absolute left-[456px] overflow-clip size-[24px] top-[791px]" />
+      <Home3 className="absolute left-[744px] overflow-clip size-[24px] top-[719px]" />
+      <Home2 className="absolute left-[672px] overflow-clip size-[24px] top-[719px]" />
+      <Home1 className="absolute left-[600px] overflow-clip size-[24px] top-[719px]" />
+      <Home className="absolute left-[528px] overflow-clip size-[24px] top-[719px]" />
+      <LockedSquare className="absolute left-[456px] overflow-clip size-[24px] top-[719px]" />
+      <QuestionSquare className="absolute left-[744px] overflow-clip size-[24px] top-[575px]" />
+      <DotsSquare className="absolute left-[672px] overflow-clip size-[24px] top-[575px]" />
+      <MinusSquare className="absolute left-[600px] overflow-clip size-[24px] top-[575px]" />
+      <PlusSquare className="absolute left-[528px] overflow-clip size-[24px] top-[575px]" />
+      <BlockSquare className="absolute left-[456px] overflow-clip size-[24px] top-[575px]" />
+      <CheckSquare className="absolute left-[384px] overflow-clip size-[24px] top-[1223px]" />
+      <Unlocked1 className="absolute left-[168px] overflow-clip size-[24px] top-[1223px]" />
+      <Locked1 className="absolute left-[96px] overflow-clip size-[24px] top-[1223px]" />
+      <Unlocked className="absolute left-[384px] overflow-clip size-[24px] top-[1151px]" />
+      <Locked className="absolute left-[312px] overflow-clip size-[24px] top-[1151px]" />
+      <Eye className="absolute left-[240px] overflow-clip size-[24px] top-[1151px]" />
+      <Star className="absolute left-[168px] overflow-clip size-[24px] top-[1151px]" />
+      <Heart className="absolute left-[96px] overflow-clip size-[24px] top-[1151px]" />
+      <QuestionMark className="absolute left-[384px] overflow-clip size-[24px] top-[1079px]" />
+      <Minus className="absolute left-[240px] overflow-clip size-[24px] top-[1079px]" />
+      <Plus className="absolute left-[168px] overflow-clip size-[24px] top-[1079px]" />
+      <Block className="absolute left-[96px] overflow-clip size-[24px] top-[1079px]" />
+      <Check className="absolute left-[384px] overflow-clip size-[24px] top-[1007px]" />
+      <ShareSquare className="absolute left-[312px] overflow-clip size-[24px] top-[1007px]" />
+      <ShareCircle className="absolute left-[240px] overflow-clip size-[24px] top-[1007px]" />
+      <UploadCircle4 className="absolute left-[168px] overflow-clip size-[24px] top-[1007px]" />
+      <UploadCircle3 className="absolute left-[96px] overflow-clip size-[24px] top-[1007px]" />
+      <UploadCircle2 className="absolute left-[384px] overflow-clip size-[24px] top-[935px]" />
+      <UploadCircle1 className="absolute left-[312px] overflow-clip size-[24px] top-[935px]" />
+      <UploadCircle className="absolute left-[240px] overflow-clip size-[24px] top-[935px]" />
+      <DownloadCircle4 className="absolute left-[168px] overflow-clip size-[24px] top-[935px]" />
+      <DownloadCircle3 className="absolute left-[96px] overflow-clip size-[24px] top-[935px]" />
+      <DownloadCircle2 className="absolute left-[384px] overflow-clip size-[24px] top-[863px]" />
+      <DownloadCircle1 className="absolute left-[312px] overflow-clip size-[24px] top-[863px]" />
+      <DownloadCircle className="absolute left-[240px] overflow-clip size-[24px] top-[863px]" />
+      <LockedCircle className="absolute left-[168px] overflow-clip size-[24px] top-[863px]" />
+      <InformationCircle className="absolute left-[96px] overflow-clip size-[24px] top-[863px]" />
+      <StarCircle className="absolute left-[312px] overflow-clip size-[24px] top-[791px]" />
+      <ExclamationCircle className="absolute left-[240px] overflow-clip size-[24px] top-[791px]" />
+      <HeartCircle className="absolute left-[168px] overflow-clip size-[24px] top-[791px]" />
+      <QuestionCircle className="absolute left-[96px] overflow-clip size-[24px] top-[791px]" />
+      <DotsCircle className="absolute left-[384px] overflow-clip size-[24px] top-[719px]" />
+      <MinusCircle className="absolute left-[312px] overflow-clip size-[24px] top-[719px]" />
+      <PlusCircle className="absolute left-[240px] overflow-clip size-[24px] top-[719px]" />
+      <BlockCircle className="absolute left-[168px] overflow-clip size-[24px] top-[719px]" />
+      <CheckCircle className="absolute left-[96px] overflow-clip size-[24px] top-[719px]" />
+      <LogOut4 className="absolute left-[384px] overflow-clip size-[24px] top-[647px]" />
+      <LogOut3 className="absolute left-[312px] overflow-clip size-[24px] top-[647px]" />
+      <LogOut2 className="absolute left-[240px] overflow-clip size-[24px] top-[647px]" />
+      <LogOut1 className="absolute left-[168px] overflow-clip size-[24px] top-[647px]" />
+      <LogOut className="absolute left-[96px] overflow-clip size-[24px] top-[647px]" />
+      <LogIn4 className="absolute left-[384px] overflow-clip size-[24px] top-[575px]" />
+      <LogIn3 className="absolute left-[312px] overflow-clip size-[24px] top-[575px]" />
+      <LogIn2 className="absolute left-[240px] overflow-clip size-[24px] top-[575px]" />
+      <LogIn1 className="absolute left-[168px] overflow-clip size-[24px] top-[575px]" />
+      <LogIn className="absolute left-[96px] overflow-clip size-[24px] top-[575px]" />
+      <ArrowNarrowDownLeft className="absolute left-[1320px] overflow-clip size-[24px] top-[575px]" />
+      <ArrowNarrowDownRight className="absolute left-[1248px] overflow-clip size-[24px] top-[575px]" />
+      <ArrowNarrowUpLeft className="absolute left-[1176px] overflow-clip size-[24px] top-[575px]" />
+      <ArrowNarrowUpRight className="absolute left-[1104px] overflow-clip size-[24px] top-[575px]" />
+      <ArrowNarrowLeft className="absolute left-[1032px] overflow-clip size-[24px] top-[575px]" />
+      <ArrowNarrowRight className="absolute left-[960px] overflow-clip size-[24px] top-[575px]" />
+      <ArrowNarrowDown className="absolute left-[888px] overflow-clip size-[24px] top-[575px]" />
+      <ArrowNarrowUp className="absolute left-[816px] overflow-clip size-[24px] top-[575px]" />
+      <ArrowCircleDownLeft className="absolute left-[1176px] overflow-clip size-[24px] top-[647px]" />
+      <ArrowCircleDownRight className="absolute left-[1320px] overflow-clip size-[24px] top-[647px]" />
+      <ArrowCircleUpLeft className="absolute left-[1248px] overflow-clip size-[24px] top-[647px]" />
+      <ArrowCircleUpRight className="absolute left-[960px] overflow-clip size-[24px] top-[647px]" />
+      <ArrowCircleLeft className="absolute left-[888px] overflow-clip size-[24px] top-[647px]" />
+      <ArrowCircleRight className="absolute left-[816px] overflow-clip size-[24px] top-[647px]" />
+      <ArrowCircleDown className="absolute left-[1104px] overflow-clip size-[24px] top-[647px]" />
+      <ArrowCircleUp className="absolute left-[1032px] overflow-clip size-[24px] top-[647px]" />
+      <SquareBarChart3 className="absolute left-[1176px] overflow-clip size-[24px] top-[719px]" />
+      <SquareBarChart2 className="absolute left-[960px] overflow-clip size-[24px] top-[719px]" />
+      <SquareBarChart1 className="absolute left-[816px] overflow-clip size-[24px] top-[719px]" />
+      <SquareBarChart className="absolute left-[1320px] overflow-clip size-[24px] top-[719px]" />
+      <BarChart3 className="absolute left-[1248px] overflow-clip size-[24px] top-[719px]" />
+      <BarChart2 className="absolute left-[1104px] overflow-clip size-[24px] top-[719px]" />
+      <BarChart1 className="absolute left-[1032px] overflow-clip size-[24px] top-[719px]" />
+      <BarChart className="absolute left-[888px] overflow-clip size-[24px] top-[719px]" />
+      <TrendDown className="absolute left-[1320px] overflow-clip size-[24px] top-[791px]" />
+      <TrendUp className="absolute left-[1248px] overflow-clip size-[24px] top-[791px]" />
+      <LinePieChart1 className="absolute left-[1176px] overflow-clip size-[24px] top-[791px]" />
+      <LinePieChart className="absolute left-[1104px] overflow-clip size-[24px] top-[791px]" />
+      <LineStackedDown className="absolute left-[1032px] overflow-clip size-[24px] top-[791px]" />
+      <LineStackedUp className="absolute left-[960px] overflow-clip size-[24px] top-[791px]" />
+      <LineChartUp className="absolute left-[888px] overflow-clip size-[24px] top-[791px]" />
+      <LineChartDown className="absolute left-[816px] overflow-clip size-[24px] top-[791px]" />
+      <PhoneVoice className="absolute left-[1104px] overflow-clip size-[24px] top-[863px]" />
+      <PhoneIncoming className="absolute left-[1320px] overflow-clip size-[24px] top-[863px]" />
+      <PhoneOutging className="absolute left-[1248px] overflow-clip size-[24px] top-[863px]" />
+      <Phone className="absolute left-[1176px] overflow-clip size-[24px] top-[863px]" />
+      <MessageDotsCircle className="absolute left-[1032px] overflow-clip size-[24px] top-[863px]" />
+      <MessageTextSquare className="absolute left-[960px] overflow-clip size-[24px] top-[863px]" />
+      <Mail1 className="absolute left-[888px] overflow-clip size-[24px] top-[863px]" />
+      <Mail className="absolute left-[816px] overflow-clip size-[24px] top-[863px]" />
+      <NotificationTextCircle className="absolute left-[1320px] overflow-clip size-[24px] top-[935px]" />
+      <NotificationTextSquare className="absolute left-[1248px] overflow-clip size-[24px] top-[935px]" />
+      <Bell1 className="absolute left-[1176px] overflow-clip size-[24px] top-[935px]" />
+      <Bell className="absolute left-[1104px] overflow-clip size-[24px] top-[935px]" />
+      <Announcement className="absolute left-[1032px] overflow-clip size-[24px] top-[935px]" />
+      <AlertTriangle className="absolute left-[888px] overflow-clip size-[24px] top-[935px]" />
+      <AlertCircle className="absolute left-[816px] overflow-clip size-[24px] top-[935px]" />
+      <Bank className="absolute left-[1248px] overflow-clip size-[24px] top-[1007px]" />
+      <CoinsStacked className="absolute left-[1176px] overflow-clip size-[24px] top-[1007px]" />
+      <CurrnecyDollarCircle className="absolute left-[1104px] overflow-clip size-[24px] top-[1007px]" />
+      <Wallet1 className="absolute left-[1320px] overflow-clip size-[24px] top-[1007px]" />
+      <Wallet className="absolute left-[960px] overflow-clip size-[24px] top-[1007px]" />
+      <CreditCard className="absolute left-[816px] overflow-clip size-[24px] top-[1007px]" />
+      <BankNote1 className="absolute left-[1032px] overflow-clip size-[24px] top-[1007px]" />
+      <BankNote className="absolute left-[888px] overflow-clip size-[24px] top-[1007px]" />
+      <Invoice className="absolute left-[1104px] overflow-clip size-[24px] top-[1079px]" />
+      <Receipt1 className="absolute left-[1320px] overflow-clip size-[24px] top-[1079px]" />
+      <Receipt className="absolute left-[1248px] overflow-clip size-[24px] top-[1079px]" />
+      <PiggyBank className="absolute left-[1176px] overflow-clip size-[24px] top-[1079px]" />
+      <CreditCardArrowLeft className="absolute left-[960px] overflow-clip size-[24px] top-[1079px]" />
+      <CreditCardArrowRight className="absolute left-[1032px] overflow-clip size-[24px] top-[1079px]" />
+      <CreditCardArrowDown className="absolute left-[816px] overflow-clip size-[24px] top-[1079px]" />
+      <CreditCardArrowUp className="absolute left-[888px] overflow-clip size-[24px] top-[1079px]" />
+      <Flash className="absolute left-[816px] overflow-clip size-[24px] top-[1151px]" />
+      <Image1 className="absolute left-[1032px] overflow-clip size-[24px] top-[1151px]" />
+      <Image className="absolute left-[960px] overflow-clip size-[24px] top-[1151px]" />
+      <Camera className="absolute left-[888px] overflow-clip size-[24px] top-[1151px]" />
+      <UserCircle className="absolute left-[1176px] overflow-clip size-[24px] top-[1151px]" />
+      <Users className="absolute left-[1248px] overflow-clip size-[24px] top-[1151px]" />
+      <User className="absolute left-[1104px] overflow-clip size-[24px] top-[1151px]" />
+      <BoxArchive className="absolute left-[888px] overflow-clip size-[24px] top-[1223px]" />
+      <FolderOpen className="absolute left-[1032px] overflow-clip size-[24px] top-[1223px]" />
+      <Files className="absolute left-[960px] overflow-clip size-[24px] top-[1223px]" />
+      <File className="absolute left-[816px] overflow-clip size-[24px] top-[1223px]" />
+      <EmergencyLight className="absolute left-[1320px] overflow-clip size-[24px] top-[1223px]" />
+      <Key className="absolute left-[1176px] overflow-clip size-[24px] top-[1223px]" />
+      <ShieldKeyHole className="absolute left-[1248px] overflow-clip size-[24px] top-[1223px]" />
+      <Shield className="absolute left-[1104px] overflow-clip size-[24px] top-[1223px]" />
+      <ChevronLeft className="absolute left-[672px] overflow-clip size-[24px] top-[647px]" />
+      <ChevronRight className="absolute left-[600px] overflow-clip size-[24px] top-[647px]" />
+      <ChevronDown className="absolute left-[528px] overflow-clip size-[24px] top-[647px]" />
+      <ChevronUp className="absolute left-[744px] overflow-clip size-[24px] top-[647px]" />
+      <Calendar className="absolute left-[96px] overflow-clip size-[24px] top-[1295px]" />
+      <UserPlus className="absolute left-[240px] overflow-clip size-[24px] top-[1295px]" />
+      <Grid className="absolute left-[312px] overflow-clip size-[24px] top-[1295px]" />
+      <Headphone className="absolute left-[384px] overflow-clip size-[24px] top-[1295px]" />
+      <DotsVertical className="absolute left-[528px] size-[24px] top-[1295px]" />
+      <DotsHorizontal className="absolute left-[456px] size-[24px] top-[1295px]" />
+      <Command className="absolute left-[600px] size-[24px] top-[1295px]" />
+      <Refresh className="absolute left-[672px] overflow-clip size-[24px] top-[1295px]" />
+      <SwitchVertical className="absolute left-[744px] overflow-clip size-[24px] top-[1295px]" />
+      <NoteSticky className="absolute left-[816px] overflow-clip size-[24px] top-[1295px]" />
+      <CalendarDate className="absolute left-[888px] overflow-clip size-[24px] top-[1295px]" />
+      <Hourglass className="absolute left-[960px] overflow-clip size-[24px] top-[1295px]" />
+      <HandHoldingBox className="absolute left-[1032px] overflow-clip size-[24px] top-[1295px]" />
+      <Rows className="absolute left-[240px] overflow-clip size-[24px] top-[1223px]" />
+      <Columns className="absolute left-[312px] overflow-clip size-[24px] top-[1223px]" />
+      <LayoutGrid className="absolute left-[168px] overflow-clip size-[24px] top-[1295px]" />
+      <ChevronSelectorVertical className="absolute left-[456px] overflow-clip size-[24px] top-[647px]" />
+      <Loader className="absolute left-[384px] overflow-clip size-[24px] top-[791px]" />
+      <Location className="absolute left-[600px] overflow-clip size-[24px] top-[935px]" />
+      <Globe className="absolute left-[312px] overflow-clip size-[24px] top-[1079px]" />
+      <Clock className="absolute left-[456px] overflow-clip size-[24px] top-[1007px]" />
+      <PencilLine className="absolute left-[600px] overflow-clip size-[24px] top-[1007px]" />
+      <LayoutLeft className="absolute left-[960px] overflow-clip size-[24px] top-[935px]" />
+      <VideoRecorder className="absolute left-[528px] overflow-clip size-[24px] top-[1223px]" />
+      <CornerDownRight className="absolute left-[456px] overflow-clip size-[24px] top-[1079px]" />
+      <Play className="absolute left-[1320px] size-[24px] top-[1151px]" />
+      <SwitchHorizontal className="absolute left-[888px] overflow-clip size-[24px] top-[1359px]" />
+      <CornerUpLeft className="absolute left-[600px] overflow-clip size-[24px] top-[1359px]" />
+      <ShoppingBag className="absolute left-[168px] size-[24px] top-[1359px]" />
+      <Store className="absolute left-[312px] size-[24px] top-[1359px]" />
+      <CouponDiscount className="absolute left-[96px] size-[24px] top-[1359px]" />
+      <Box className="absolute left-[240px] overflow-clip size-[24px] top-[1359px]" />
+      <Gear className="absolute left-[384px] overflow-clip size-[24px] top-[1359px]" />
+      <Trash className="absolute left-[456px] overflow-clip size-[24px] top-[1359px]" />
+      <ImagePlus className="absolute left-[528px] size-[24px] top-[1359px]" />
+      <Printer className="absolute left-[672px] size-[24px] top-[1359px]" />
+      <ExternalLink className="absolute left-[744px] overflow-clip size-[24px] top-[1359px]" />
+      <Moon className="absolute left-[816px] overflow-clip size-[24px] top-[1359px]" />
+      <Puzzle className="absolute left-[960px] size-[24px] top-[1359px]" />
+      <Telegram className="absolute left-[1032px] size-[24px] top-[1359px]" />
+      <Palette className="absolute inset-[86.67%_21.67%_11.8%_76.67%]" />
+      <Truck className="absolute inset-[86.67%_16.67%_11.8%_81.67%]" />
+    </div>
+  );
+}
+
+### Content Block 2 (Text)
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+### Content Block 3 (Text)
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+### Content Block 4 (Text)
+These styles are contained in the design: Greyscale/800: #15161E, General/White: #FFFFFF, Primary/100: #FA7319, Greyscale/500: #666D80, Greyscale/100: #DFE1E6, Heading/H4: Font(family: "Inter Tight", style: SemiBold, size: 24, weight: 600, lineHeight: 1.2999999523162842, letterSpacing: 0), Primary: #121A26, General/Black: #000000, Primary/Black: #000000.
+
+### Content Block 5 (Text)
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.
+
+### Content Block 6 (Text)
+IMPORTANT: After you call this tool, you MUST call get_screenshot to get a screenshot of the node for context.
+
+</mcp_external_output>

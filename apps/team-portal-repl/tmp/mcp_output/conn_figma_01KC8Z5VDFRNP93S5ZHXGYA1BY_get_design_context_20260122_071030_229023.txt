@@ -1,0 +1,1139 @@
+<mcp_external_output>
+
+### Content Block 1 (Text)
+const imgColorWrap = "https://www.figma.com/api/mcp/asset/6d38d7c2-911e-4155-b7b2-bfc332a0511d";
+const img = "https://www.figma.com/api/mcp/asset/998a3aac-c70d-48f7-9f4c-8f6dc6cd8f9b";
+const img1 = "https://www.figma.com/api/mcp/asset/3daef25e-6150-494a-8dad-b78c9e2f6afe";
+
+export default function Colors() {
+  return (
+    <div className="bg-white content-stretch flex flex-col items-start relative size-full" data-name="Colors" data-node-id="3:4295">
+      <div className="bg-white border-[#dfe1e6] border-b border-solid content-stretch flex flex-col items-center overflow-clip p-[16px] relative shrink-0 w-[1440px]" data-name="Header & Footer" data-node-id="3:4296">
+        <div className="bg-[#fa7319] content-stretch flex h-[100px] items-center justify-between px-[40px] relative shrink-0 w-full" data-node-id="I3:4296;2220:6915">
+          <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-name="Logo" data-node-id="I3:4296;2855:20880">
+            <div className="bg-[#fa7319] overflow-clip relative rounded-[999px] shrink-0 size-[40px]" data-name="Logo" data-node-id="I3:4296;2855:20880;2626:38810">
+              <div className="absolute flex items-center justify-center left-1/2 size-[26px] top-1/2 translate-x-[-50%] translate-y-[-50%]">
+                <div className="flex-none rotate-[90deg]">
+                  <div className="relative size-[26px]" data-name="Frame" data-node-id="I3:4296;2855:20880;2626:38810;2626:38798">
+                    <img alt="" className="block max-w-none size-full" src={img} />
+                  </div>
+                </div>
+              </div>
+              <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_-4px_8px_0px_rgba(255,255,255,0.64)]" />
+            </div>
+            <div className="h-[25px] relative shrink-0 w-[108px]" data-name="Metoric" data-node-id="I3:4296;2855:20880;5788:19657">
+              <div className="absolute inset-0" style={{ "--fill-0": "rgba(255, 255, 255, 1)" } as React.CSSProperties}>
+                <img alt="" className="block max-w-none size-full" src={img1} />
+              </div>
+            </div>
+          </div>
+          <div className="flex flex-col font-['Inter:Regular',sans-serif] font-normal justify-center leading-[0] not-italic relative shrink-0 text-[20px] text-white tracking-[-0.8px] whitespace-nowrap" data-node-id="I3:4296;2855:20863">
+            <p className="leading-[normal]">CRM Platform - Dashboard UI Kit</p>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[100px] py-[80px] relative shrink-0 w-full" data-node-id="I3:4296;2220:6917">
+          <div className="content-stretch flex flex-col gap-[24px] items-start not-italic relative shrink-0" data-name="Heading Text" data-node-id="I3:4296;2220:6918">
+            <div className="flex flex-col font-['Inter:Semi_Bold',sans-serif] font-semibold justify-center leading-[0] relative shrink-0 text-[#121a26] text-[60px] tracking-[-3px] whitespace-nowrap" data-node-id="I3:4296;2220:6919">
+              <p className="leading-[normal]">Colors</p>
+            </div>
+            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[normal] relative shrink-0 text-[#667085] text-[24px] tracking-[-0.96px]" data-node-id="I3:4296;2220:6920">
+              The style guide provides to change stylistic for your design site.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col gap-[80px] items-start p-[100px] relative shrink-0 w-[1440px]" data-name="Content" data-node-id="3:4297">
+        <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-name="Primary" data-node-id="7:83">
+          <div className="content-stretch flex flex-col gap-[4px] items-start not-italic overflow-clip relative shrink-0 w-full whitespace-pre-wrap" data-name="Heading" data-node-id="7:84">
+            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[#0d0d12] text-[20px] w-full" data-node-id="7:85">
+              General Colors
+            </p>
+            <p className="font-['Inter:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="7:86">
+              2 colors
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Colors" data-node-id="7:87">
+            <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="7:88">
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="0" data-node-id="7:89">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="7:90">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-white content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color / Primary / 0" data-node-id="7:91">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="7:92" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="7:93">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="7:94">
+                    0
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="7:95">
+                    #EEE9FD
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="50" data-node-id="7:103">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="7:104">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-black content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color / Primary / 50" data-node-id="7:105">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="7:106" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="7:107">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="7:108">
+                    50
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="7:109">
+                    #CCBDF8
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-name="Primary" data-node-id="3:4298">
+          <div className="content-stretch flex flex-col gap-[4px] items-start not-italic overflow-clip relative shrink-0 w-full whitespace-pre-wrap" data-name="Heading" data-node-id="3:4299">
+            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[#0d0d12] text-[20px] w-full" data-node-id="3:4300">
+              Primary
+            </p>
+            <p className="font-['Inter:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4301">
+              6 colors
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Colors" data-node-id="3:4302">
+            <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4303">
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="0" data-node-id="3:4304">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4305">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#feefe4] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color / Primary / 0" data-node-id="3:4306">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4307" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4308">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4309">
+                    0
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4310">
+                    #EEE9FD
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="25" data-node-id="3:4311">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4312">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#fdd8bd] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color / Primary / 25" data-node-id="3:4313">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4314" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4315">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4316">
+                    25
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4317">
+                    #DDD3FA
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="50" data-node-id="3:4318">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4319">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#fcc096] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color / Primary / 50" data-node-id="3:4320">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4321" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4322">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4323">
+                    50
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4324">
+                    #CCBDF8
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4325">
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="100" data-node-id="3:4326">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4327">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#fa7319] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color / Primary / 100" data-node-id="3:4328">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4329" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4330">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4331">
+                    100 - Base
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4332">
+                    #7047EB
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="200" data-node-id="3:4333">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4334">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#c45812] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color / Primary / 200" data-node-id="3:4335">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4336" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4337">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4338">
+                    200
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4339">
+                    #32158B
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="300" data-node-id="3:4340">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4341">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#8e3d0c] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color / Primary / 300" data-node-id="3:4342">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4343" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4344">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4345">
+                    300
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4346">
+                    #220E5C
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-name="Secondary" data-node-id="3:4347">
+          <div className="content-stretch flex flex-col gap-[4px] items-start not-italic overflow-clip relative shrink-0 w-full whitespace-pre-wrap" data-name="Heading" data-node-id="3:4348">
+            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[#0d0d12] text-[20px] w-full" data-node-id="3:4349">
+              Secondary 1
+            </p>
+            <p className="font-['Inter:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4350">
+              6 colors
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Colors" data-node-id="3:4351">
+            <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4352">
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="0" data-node-id="3:4353">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4354">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#e9f8ff] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Secondary 1 / 0" data-node-id="3:4355">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4356" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4357">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4358">
+                    0
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4359">
+                    #EEF8FD
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="25" data-node-id="3:4360">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4361">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#c9eeff] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Secondary 1 / 25" data-node-id="3:4362">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4363" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4364">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4365">
+                    25
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4366">
+                    #DDF0FB
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="50" data-node-id="3:4367">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4368">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#a8e3ff] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Secondary 1 / 50" data-node-id="3:4369">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4370" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4371">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4372">
+                    50
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4373">
+                    #98D3F4
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4374">
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="100" data-node-id="3:4375">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4376">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#47c2ff] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Secondary 1 / 100" data-node-id="3:4377">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4378" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4379">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4380">
+                    100 - Base
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4381">
+                    #54B6ED
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="200" data-node-id="3:4382">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4383">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#259acf] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Secondary 1 / 200" data-node-id="3:4384">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4385" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4386">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4387">
+                    200
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4388">
+                    #326D8E
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="300" data-node-id="3:4389">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4390">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#137ba6] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Secondary 1 / 300" data-node-id="3:4391">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4392" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4393">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4394">
+                    300
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4395">
+                    #22495F
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Additional Color" data-node-id="4:69">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[24px] items-start min-h-px min-w-px relative" data-name="Accent/Aqua" data-node-id="4:70">
+            <div className="content-stretch flex flex-col gap-[4px] items-start not-italic overflow-clip relative shrink-0 w-full whitespace-pre-wrap" data-name="Heading" data-node-id="4:71">
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[#0d0d12] text-[20px] w-full" data-node-id="4:72">
+                Additional/Blue
+              </p>
+              <p className="font-['Inter:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="4:73">
+                6 colors
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Colors" data-node-id="4:74">
+              <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="4:75">
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="0" data-node-id="4:76">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="4:77">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#efeaff] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="4:78">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="4:79" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="4:80">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="4:81">
+                      0
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="4:82">
+                      #FFF1ED
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="25" data-node-id="4:83">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="4:84">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#d9cfff] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="4:85">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="4:86" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="4:87">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="4:88">
+                      25
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="4:89">
+                      #FFE4DB
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="50" data-node-id="4:90">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="4:91">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#c2b5ff] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="4:92">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="4:93" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="4:94">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="4:95">
+                      50
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="4:96">
+                      #FFC9B7
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="4:97">
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="100" data-node-id="4:98">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="4:99">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#875cfe] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="4:100">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="4:101" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="4:102">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="4:103">
+                      100
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="4:104">
+                      #FF784B
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="200" data-node-id="4:105">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="4:106">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#623ed4] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="4:107">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="4:108" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="4:109">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="4:110">
+                      200
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="4:111">
+                      #A74C2D
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="300" data-node-id="4:112">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="4:113">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#4626a1] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="4:114">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="4:115" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="4:116">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="4:117">
+                      300
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="4:118">
+                      #7A351E
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[24px] h-[716px] items-start relative shrink-0 w-full" data-name="Greyscale" data-node-id="3:4396">
+          <div className="content-stretch flex flex-col gap-[4px] items-start not-italic overflow-clip relative shrink-0 w-full whitespace-pre-wrap" data-name="Heading" data-node-id="3:4397">
+            <p className="font-['Inter:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[#0d0d12] text-[20px] w-full" data-node-id="3:4398">
+              Greyscale
+            </p>
+            <p className="font-['Inter:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4399">
+              12 colors
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Colors" data-node-id="3:4400">
+            <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4401">
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="51" data-node-id="7:387">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="7:388">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#f8f9fb] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 25" data-node-id="7:389">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="7:390" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="7:391">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="7:392">
+                    25
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#171717] text-[14px] tracking-[-0.084px] w-full" data-node-id="7:393" style={{ fontFeatureSettings: "'ss11' 1, 'calt' 0, 'liga' 0" }}>
+                    #F8F9FB
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="50" data-node-id="3:4416">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4417">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#eeeff2] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 50" data-node-id="3:4418">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4419" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4420">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4421">
+                    50
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4422">
+                    #EEEFF2
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4423">
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="100" data-node-id="3:4424">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4425">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#dfe1e6] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 100" data-node-id="3:4426">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4427" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4428">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4429">
+                    100
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4430">
+                    #DFE1E6
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="200" data-node-id="3:4431">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4432">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#c1c7cf] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 200" data-node-id="3:4433">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4434" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4435">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4436">
+                    200
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4437">
+                    #C1C7CF
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="300" data-node-id="3:4438">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4439">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#a4abb8] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 300" data-node-id="3:4440">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4441" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4442">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4443">
+                    300
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4444">
+                    #A4ABB8
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4445">
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="400" data-node-id="3:4446">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4447">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#808897] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 400" data-node-id="3:4448">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4449" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4450">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4451">
+                    400
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4452">
+                    #808897
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="500" data-node-id="3:4453">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4454">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#666d80] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 500" data-node-id="3:4455">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4456" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4457">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4458">
+                    500
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4459">
+                    #666D80
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="600" data-node-id="3:4460">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4461">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#353849] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 600" data-node-id="3:4462">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4463" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4464">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4465">
+                    600
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4466">
+                    #353849
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4467">
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="700" data-node-id="3:4468">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4469">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#272835] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 700" data-node-id="3:4470">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4471" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4472">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4473">
+                    700
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4474">
+                    #272835
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="800" data-node-id="3:4475">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4476">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#15161e] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 800" data-node-id="3:4477">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4478" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4479">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4480">
+                    800
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4481">
+                    #15161E
+                  </p>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="900" data-node-id="3:4482">
+                <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4483">
+                  <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                    <div className="absolute bg-white inset-0" />
+                    <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                  </div>
+                  <div className="bg-[#0d0d12] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Greyscale / 900" data-node-id="3:4484">
+                    <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4485" />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4486">
+                  <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4487">
+                    900
+                  </p>
+                  <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4488">
+                    #0D0D12
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[96px] items-start relative shrink-0 w-full" data-name="Additional Color" data-node-id="3:4489">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[24px] items-start min-h-px min-w-px relative" data-name="Secondary/Green" data-node-id="3:4490">
+            <div className="content-stretch flex flex-col gap-[4px] items-start not-italic overflow-clip relative shrink-0 w-full whitespace-pre-wrap" data-name="Heading" data-node-id="3:4491">
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[#0d0d12] text-[20px] w-full" data-node-id="3:4492">
+                Alert/Success
+              </p>
+              <p className="font-['Inter:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4493">
+                6 colors
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Colors" data-node-id="3:4494">
+              <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4495">
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="0" data-node-id="3:4496">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4497">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#e7fef8] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4498">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4499" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4500">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4501">
+                      0
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4502">
+                      #E7FEF8
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="25" data-node-id="3:4503">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4504">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#c6ede5] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4505">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4506" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4507">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4508">
+                      25
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4509">
+                      #C6EDE5
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="50" data-node-id="3:4510">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4511">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#40c4aa] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4512">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4513" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4514">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4515">
+                      50
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4516">
+                      #8CDCCC
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4517">
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="100" data-node-id="3:4518">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4519">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#40c4aa] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4520">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4521" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4522">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4523">
+                      100
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4524">
+                      #40C4AA
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="200" data-node-id="3:4525">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4526">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#287f6e] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4527">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4528" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4529">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4530">
+                      200
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4531">
+                      #287F6E
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="300" data-node-id="3:4532">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4533">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#1a4e44] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4534">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4535" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4536">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4537">
+                      300
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4538">
+                      #1A4E44
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[24px] items-start min-h-px min-w-px relative" data-name="Secondary/Yellow" data-node-id="3:4539">
+            <div className="content-stretch flex flex-col gap-[4px] items-start not-italic overflow-clip relative shrink-0 w-full whitespace-pre-wrap" data-name="Heading" data-node-id="3:4540">
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[#0d0d12] text-[20px] w-full" data-node-id="3:4541">
+                Alert/Warning
+              </p>
+              <p className="font-['Inter:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4542">
+                6 colors
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Colors" data-node-id="3:4543">
+              <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4544">
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="0" data-node-id="3:4545">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4546">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#fff6e0] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4547">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4548" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4549">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4550">
+                      0
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4551">
+                      #FFF6E0
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="25" data-node-id="3:4552">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4553">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#fff2db] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4554">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4555" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4556">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4557">
+                      25
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4558">
+                      #FFF2DB
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="50" data-node-id="3:4559">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4560">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#ffe5b7] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4561">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4562" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4563">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4564">
+                      50
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4565">
+                      #FFE5B7
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4566">
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="100" data-node-id="3:4567">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4568">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#ffbd4c] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4569">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4570" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4571">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4572">
+                      100
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4573">
+                      #FFBD4C
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="200" data-node-id="3:4574">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4575">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#956321] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4576">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4577" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4578">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4579">
+                      200
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4580">
+                      #956321
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="300" data-node-id="3:4581">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4582">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#654817] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4583">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4584" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4585">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4586">
+                      300
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4587">
+                      #654817
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start relative shrink-0 w-full" data-name="Additional Color" data-node-id="3:4588">
+          <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[552px]" data-name="Secondary/Red" data-node-id="3:4589">
+            <div className="content-stretch flex flex-col gap-[4px] items-start not-italic overflow-clip relative shrink-0 w-full whitespace-pre-wrap" data-name="Heading" data-node-id="3:4590">
+              <p className="font-['Inter:Medium',sans-serif] font-medium leading-[28px] relative shrink-0 text-[#0d0d12] text-[20px] w-full" data-node-id="3:4591">
+                Alert/Error
+              </p>
+              <p className="font-['Inter:Regular',sans-serif] font-normal leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4592">
+                6 colors
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start relative shrink-0 w-full" data-name="Colors" data-node-id="3:4593">
+              <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4594">
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="0" data-node-id="3:4595">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4596">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#feeff2] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4597">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4598" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4599">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4600">
+                      0
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4601">
+                      #FEEFF2
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="25" data-node-id="3:4602">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4603">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#f9d2d9] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4604">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4605" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4606">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4607">
+                      25
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4608">
+                      #F9D2D9
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="50" data-node-id="3:4609">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4610">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#f2a4b3] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4611">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4612" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4613">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4614">
+                      50
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4615">
+                      #F2A4B3
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex gap-[12px] h-[150px] items-start relative shrink-0 w-full" data-name="Row" data-node-id="3:4616">
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="100" data-node-id="3:4617">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4618">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#df1c41] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4619">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4620" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4621">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4622">
+                      100
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4623">
+                      #DF1C41
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="200" data-node-id="3:4624">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4625">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#95122b] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4626">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4627" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4628">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4629">
+                      200
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4630">
+                      #95122B
+                    </p>
+                  </div>
+                </div>
+                <div className="bg-white content-stretch flex flex-[1_0_0] flex-col h-full items-start min-h-px min-w-px overflow-clip relative rounded-[6px] shadow-[0px_1px_2px_0px_rgba(9,25,72,0.13),0px_0px_0px_1px_rgba(18,55,105,0.08)]" data-name="300" data-node-id="3:4631">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color wrap" data-node-id="3:4632">
+                    <div aria-hidden="true" className="absolute inset-0 pointer-events-none">
+                      <div className="absolute bg-white inset-0" />
+                      <div className="absolute bg-size-[53.119998931884766px_53.119998931884766px] bg-top-left inset-0 mix-blend-darken opacity-5" style={{ backgroundImage: `url('${imgColorWrap}')` }} />
+                    </div>
+                    <div className="bg-[#590b1a] content-stretch flex flex-[1_0_0] flex-col items-center justify-center min-h-px min-w-px overflow-clip relative w-full" data-name="Color" data-node-id="3:4633">
+                      <div className="flex-[1_0_0] min-h-px min-w-px w-full" data-name="Contrast level" data-node-id="3:4634" />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col font-['Inter:Regular',sans-serif] font-normal gap-[2px] items-center justify-center min-h-px min-w-px not-italic overflow-clip p-[12px] relative w-full whitespace-pre-wrap" data-name="Content" data-node-id="3:4635">
+                    <p className="leading-[24px] relative shrink-0 text-[#353849] text-[16px] w-full" data-node-id="3:4636">
+                      300
+                    </p>
+                    <p className="leading-[20px] opacity-50 relative shrink-0 text-[#666d80] text-[14px] w-full" data-node-id="3:4637">
+                      #590B1A
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+### Content Block 2 (Text)
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+### Content Block 3 (Text)
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+### Content Block 4 (Text)
+These styles are contained in the design: Primary/100: #FA7319, Greyscale/0: #FFFFFF, Gray/500: #667085, Greyscale/100: #DFE1E6, Text/Loud [900]: #0D0D12, Heading/Large: Font(family: "Inter", style: Medium, size: 20, weight: 500, lineHeight: 28, letterSpacing: 0), Body/Medium: Font(family: "Inter", style: Regular, size: 16, weight: 400, lineHeight: 24, letterSpacing: 0), General/White: #FFFFFF, Body/Small: Font(family: "Inter", style: Regular, size: 14, weight: 400, lineHeight: 20, letterSpacing: 0), General/Black: #000000, Primary/0: #FEEFE4, Primary/25: #FDD8BD, Primary/50: #FCC096, Primary/200: #C45812, Primary/300: #8E3D0C, Secondary/0: #E9F8FF, Secondary/25: #C9EEFF, Secondary/50: #A8E3FF, Secondary/100: #47C2FF, Secondary/200: #259ACF, Secondary/300: #137BA6, Greyscale/900: #0D0D12, Greyscale/600: #353849, Additional/0: #EFEAFF, Greyscale/500: #666D80, Additional/25: #D9CFFF, Additional/50: #C2B5FF, Additional/100: #875CFE, Additional/200: #623ED4, Additional/300: #4626A1, Paragraph/Small: Font(family: "Inter", style: Regular, size: 14, weight: 400, lineHeight: 20, letterSpacing: -0.6000000238418579), Greyscale/50: #EEEFF2, Greyscale/200: #C1C7CF, Greyscale/300: #A4ABB8, Greyscale/400: #808897, Greyscale/700: #272835, Greyscale/800: #15161E, Alerts/Success/0: #E7FEF8, Alerts/Success/25: #C6EDE5, Alerts/Success/100: #40C4AA, Alerts/Success/200: #287F6E, Alerts/Success/300: #1A4E44, Alerts/Warning/0: #FFF6E0, Alerts/Warning/25: #FFF2DB, Alerts/Warning/50: #FFE5B7, Alerts/Warning/100: #FFBD4C, Alerts/Warning/200: #956321, Alerts/Warning/300: #654817, Alerts/Error/0: #FEEFF2, Alerts/Error/25: #F9D2D9, Alerts/Error/50: #F2A4B3, Alerts/Error/100: #DF1C41, Alerts/Error/200: #95122B, Alerts/Error/300: #590B1A, others/white: #FFFFFF.
+
+### Content Block 5 (Text)
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.
+
+### Content Block 6 (Text)
+IMPORTANT: After you call this tool, you MUST call get_screenshot to get a screenshot of the node for context.
+
+</mcp_external_output>

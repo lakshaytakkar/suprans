@@ -1,0 +1,42 @@
+[
+  {
+    "id": "user-1",
+    "name": "Admin User",
+    "email": "admin@suprans.com",
+    "phone": "+1234567890",
+    "role": "superadmin",
+    "avatar": null,
+    "password": "admin123",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "user-2",
+    "name": "John Smith",
+    "email": "john@suprans.com",
+    "phone": "+1234567891",
+    "role": "sales_executive",
+    "avatar": null,
+    "password": "password123",
+    "createdAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "user-3",
+    "name": "Sarah Johnson",
+    "email": "sarah@suprans.com",
+    "phone": "+1234567892",
+    "role": "sales_executive",
+    "avatar": null,
+    "password": "password123",
+    "createdAt": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "user-4",
+    "name": "Mike Davis",
+    "email": "mike@suprans.com",
+    "phone": "+1234567893",
+    "role": "sales_executive",
+    "avatar": null,
+    "password": "password123",
+    "createdAt": "2024-02-15T00:00:00.000Z"
+  }
+]

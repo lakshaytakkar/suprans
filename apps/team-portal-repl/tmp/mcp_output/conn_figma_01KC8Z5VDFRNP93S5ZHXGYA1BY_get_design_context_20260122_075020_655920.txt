@@ -1,0 +1,1174 @@
+<mcp_external_output>
+
+### Content Block 1 (Text)
+const img13 = "https://www.figma.com/api/mcp/asset/aafbf43d-43f4-4df4-a631-6a23b86186f4";
+const img = "https://www.figma.com/api/mcp/asset/51d932ed-1a43-4b05-a2eb-0282b9f3521a";
+const img1 = "https://www.figma.com/api/mcp/asset/59e47491-00c0-4ac7-9231-0fe2d71cad29";
+const img2 = "https://www.figma.com/api/mcp/asset/f738008e-7c45-44eb-a6d8-3b9af5080350";
+const img3 = "https://www.figma.com/api/mcp/asset/ac35a6bf-438d-4030-b017-bf5cf5644b1f";
+const imgChevronDown = "https://www.figma.com/api/mcp/asset/d3a73659-dc85-46cd-83f4-c5a7a50129dc";
+const imgChevronLeft = "https://www.figma.com/api/mcp/asset/9b9a6ea8-46ee-4e97-ad33-b057d432717e";
+const imgChevronRight = "https://www.figma.com/api/mcp/asset/bd4a8089-b7e8-40b8-a2d8-f69ddb05a421";
+const img4 = "https://www.figma.com/api/mcp/asset/42b29bea-9406-4bd6-8e51-ee63eafe2ba4";
+const img5 = "https://www.figma.com/api/mcp/asset/598ed5c2-dff7-4163-aab9-4eb9f55605df";
+const img6 = "https://www.figma.com/api/mcp/asset/ca37d848-5366-4015-a1cb-e95f8e12e4f8";
+const img7 = "https://www.figma.com/api/mcp/asset/14dbf27e-8597-46c6-ad34-1278a7a40292";
+const img8 = "https://www.figma.com/api/mcp/asset/f4cd68cf-ab31-4406-8ade-1658a74ffa2a";
+const img9 = "https://www.figma.com/api/mcp/asset/f97d1563-ea65-458f-8752-e04170559938";
+const img10 = "https://www.figma.com/api/mcp/asset/031c9529-cb32-465a-bf3b-2749d19b6a8c";
+const imgCommandIcon = "https://www.figma.com/api/mcp/asset/4706f9e2-4881-44bc-8ca0-9601985ad2df";
+const img11 = "https://www.figma.com/api/mcp/asset/d21382aa-9aa3-4e70-9759-3293bae911d3";
+const imgEllipse244 = "https://www.figma.com/api/mcp/asset/2f9df7f0-07c0-4ad8-8445-275bcba61d7a";
+const imgDivider = "https://www.figma.com/api/mcp/asset/0f2b2639-43b7-4c05-b94c-b6659f2dd332";
+const img12 = "https://www.figma.com/api/mcp/asset/dfe19c8e-a0ce-40b5-b45e-ee0b4ff0e3ef";
+const img14 = "https://www.figma.com/api/mcp/asset/eadccfac-a189-4223-be12-84070af70ddb";
+const img15 = "https://www.figma.com/api/mcp/asset/46091dfa-9f53-4675-8a15-abb71eab6b91";
+const img16 = "https://www.figma.com/api/mcp/asset/f8445a55-1082-4667-b2a4-68a1b83e4149";
+const imgFrame = "https://www.figma.com/api/mcp/asset/4848ad1f-f37e-41ba-85d3-80000e486894";
+const imgFrame1 = "https://www.figma.com/api/mcp/asset/282651af-2aee-46bc-915e-fb14a9b77cb9";
+const img17 = "https://www.figma.com/api/mcp/asset/1b3b2b5d-13a3-4a8b-bb08-c5a9d0661ea7";
+const img18 = "https://www.figma.com/api/mcp/asset/a300e406-ee3c-4f8a-81be-9eead9e4d7e3";
+const img19 = "https://www.figma.com/api/mcp/asset/c663922a-6b4b-4eb5-93dd-059e6fbcd34f";
+const img20 = "https://www.figma.com/api/mcp/asset/abe84b01-2526-417e-afeb-60ef00ae62ae";
+const img21 = "https://www.figma.com/api/mcp/asset/2c1ab257-2867-48b0-925b-a2b7e3743f8d";
+const img22 = "https://www.figma.com/api/mcp/asset/81d48d6c-6f14-4644-8410-eabc0118d032";
+const img23 = "https://www.figma.com/api/mcp/asset/5cd82059-6def-4149-8ad6-cc7da15c5c95";
+const img24 = "https://www.figma.com/api/mcp/asset/316a1301-1ab9-4c34-9a56-69c8476a7550";
+const img25 = "https://www.figma.com/api/mcp/asset/2c1bf9c5-5e6c-450d-874b-e413119fae8c";
+const img26 = "https://www.figma.com/api/mcp/asset/068abce8-bcbc-48d5-8106-877ee4f2228b";
+const img27 = "https://www.figma.com/api/mcp/asset/f7a3aac0-1d8e-4687-8101-271d3d09e049";
+const img28 = "https://www.figma.com/api/mcp/asset/c14549d3-1723-4859-8843-37796ec49e71";
+const img29 = "https://www.figma.com/api/mcp/asset/6ccdf9b6-d776-4fe8-b9a4-6b36d20ffbe4";
+const img30 = "https://www.figma.com/api/mcp/asset/d5025a00-46f6-47f2-bdec-5cbb84d856ff";
+const img31 = "https://www.figma.com/api/mcp/asset/393f4e97-0d9e-49b1-8a44-b99f1c937fc7";
+const img32 = "https://www.figma.com/api/mcp/asset/ff1fa2d0-8c37-4993-9e28-4a4392080d59";
+const img33 = "https://www.figma.com/api/mcp/asset/9bbcbd40-f5ef-45a1-a9cc-6f7d505f6de7";
+type MenuProps = {
+  className?: string;
+  iconLeft?: boolean;
+  iconRight?: boolean;
+  state?: "Disable" | "Active";
+  type?: "Item";
+};
+
+function Menu({ className, iconLeft = true, iconRight = true, state = "Active", type = "Item" }: MenuProps) {
+  const isItemAndActive = type === "Item" && state === "Active";
+  const isItemAndDisable = type === "Item" && state === "Disable";
+  return (
+    <div className={className} id={isItemAndActive ? "node-11775_2175" : "node-11775_2171"}>
+      {isItemAndDisable && iconLeft && (
+        <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="home-02" data-node-id="11775:2172">
+          <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="I11775:2172;217:1524">
+            <div className="absolute inset-[-6.67%_-7.5%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+              <img alt="" className="block max-w-none size-full" src={img} />
+            </div>
+          </div>
+        </div>
+      )}
+      <p className={`flex-[1_0_0] font-["Inter_Tight:Medium",sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[16px] tracking-[0.32px] whitespace-pre-wrap ${isItemAndActive ? "text-[#0d0d12]" : "text-[#666d80]"}`} id={isItemAndActive ? "node-11775_2177" : "node-11775_2173"}>
+        Dashboard
+      </p>
+      {isItemAndDisable && iconRight && (
+        <div className="relative shrink-0 size-[10.667px]" data-name="chevron-down" data-node-id="11775:2174">
+          <div className="absolute bottom-[37.5%] flex items-center justify-center left-1/4 right-1/4 top-[37.5%]">
+            <div className="flex-none h-[4px] scale-y-[-100%] w-[8px]">
+              <div className="relative size-full" data-name="Icon" data-node-id="I11775:2174;7733:2787">
+                <div className="absolute inset-[-11.85%_-9.38%_-18.75%_-9.38%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                  <img alt="" className="block max-w-none size-full" src={img1} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+      {isItemAndActive && iconLeft && (
+        <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="home-02" data-node-id="11775:2176">
+          <div className="absolute inset-[12.5%_16.67%]" data-name="Icon" data-node-id="I11775:2176;217:1524">
+            <div className="absolute inset-[-6.67%_-7.5%]" style={{ "--stroke-0": "rgba(243, 65, 71, 1)" } as React.CSSProperties}>
+              <img alt="" className="block max-w-none size-full" src={img2} />
+            </div>
+          </div>
+        </div>
+      )}
+      {isItemAndActive && iconRight && (
+        <div className="relative shrink-0 size-[10.667px]" data-name="chevron-down" data-node-id="11775:2178">
+          <div className="absolute bottom-[37.5%] flex items-center justify-center left-1/4 right-1/4 top-[37.5%]">
+            <div className="flex-none h-[4px] scale-y-[-100%] w-[8px]">
+              <div className="relative size-full" data-name="Icon" data-node-id="I11775:2178;7733:2787">
+                <div className="absolute inset-[-11.85%_-9.38%_-18.75%_-9.38%]" style={{ "--stroke-0": "rgba(13, 13, 18, 1)" } as React.CSSProperties}>
+                  <img alt="" className="block max-w-none size-full" src={img3} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+      {isItemAndActive && <div className="absolute bg-[#f34147] h-[24px] left-[-16px] rounded-br-[8px] rounded-tr-[8px] top-1/2 translate-y-[-50%] w-[4px]" data-node-id="11775:2179" />}
+    </div>
+  );
+}
+
+function Pagination({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="Pagination" data-node-id="15770:57412">
+      <div className="content-stretch flex h-[64px] items-center justify-between px-[20px] py-[16px] relative w-[1104px]" data-name="Property 1=Desktop" data-node-id="15770:57411">
+        <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#0d0d12] text-[14px] text-center tracking-[0.28px]" data-node-id="15770:57368">
+          Showing 1 to 8 of, 473 results
+        </p>
+        <div className="border border-[#dfe1e7] border-solid content-stretch flex h-[32px] items-center overflow-clip relative rounded-[8px] shrink-0" data-name="Per page" data-node-id="15770:57369">
+          <div className="border-[#dfe1e7] border-r border-solid content-stretch flex items-center justify-center p-[8px] relative shrink-0" data-node-id="15770:57370">
+            <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#0d0d12] text-[12px] text-center tracking-[0.24px] w-[49px] whitespace-pre-wrap" data-node-id="15770:57371">
+              Per page
+            </p>
+          </div>
+          <div className="content-stretch flex gap-[8px] items-center p-[8px] relative shrink-0" data-node-id="15770:57372">
+            <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#0d0d12] text-[12px] text-center tracking-[0.24px] w-[13px] whitespace-pre-wrap" data-node-id="15770:57373">
+              8
+            </p>
+            <div className="relative shrink-0 size-[16px]" data-name="chevron-down" data-node-id="15770:57374">
+              <img alt="" className="block max-w-none size-full" src={imgChevronDown} />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-name="Page" data-node-id="15770:57376">
+          <div className="border border-[#dfe1e7] border-solid content-stretch flex items-center justify-center relative rounded-[8px] shrink-0 size-[32px]" data-name="Control" data-node-id="15770:57377">
+            <div className="relative shrink-0 size-[20px]" data-name="chevron-left" data-node-id="15770:57378">
+              <img alt="" className="block max-w-none size-full" src={imgChevronLeft} />
+            </div>
+          </div>
+          <div className="border border-[#dfe1e7] border-solid content-stretch flex items-center overflow-clip relative rounded-[8px] shrink-0" data-name="Page" data-node-id="15770:57380">
+            <div className="bg-white border-[#dfe1e7] border-r border-solid content-stretch flex flex-col items-center justify-center relative shrink-0 size-[32px]" data-name="Page Number" data-node-id="15770:57381">
+              <div className="flex flex-col font-['Inter_Tight:Medium',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0d0d12] text-[12px] tracking-[0.24px] w-[5px]" data-node-id="15770:57382">
+                <p className="leading-[1.5] whitespace-pre-wrap">1</p>
+              </div>
+            </div>
+            <div className="border-[#dfe1e7] border-r border-solid content-stretch flex flex-col items-center justify-center relative shrink-0 size-[32px]" data-name="Page Number" data-node-id="15770:57383">
+              <div className="flex flex-col font-['Inter_Tight:Medium',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0d0d12] text-[12px] tracking-[0.24px] w-[8px]" data-node-id="15770:57384">
+                <p className="leading-[1.5] whitespace-pre-wrap">2</p>
+              </div>
+            </div>
+            <div className="bg-[#f34147] border-[#dfe1e7] border-r border-solid content-stretch flex flex-col items-center justify-center relative shrink-0 size-[32px]" data-name="Page Number" data-node-id="15770:57385">
+              <div className="flex flex-col font-['Inter_Tight:Medium',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-white tracking-[0.24px] w-[8px]" data-node-id="15770:57386">
+                <p className="leading-[1.5] whitespace-pre-wrap">3</p>
+              </div>
+            </div>
+            <div className="border-[#dfe1e7] border-r border-solid content-stretch flex flex-col items-center justify-center relative shrink-0 size-[32px]" data-name="Page Number" data-node-id="15770:57387">
+              <div className="flex flex-col font-['Inter_Tight:Medium',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0d0d12] text-[12px] tracking-[0.24px] w-[10px]" data-node-id="15770:57388">
+                <p className="leading-[1.5] whitespace-pre-wrap">...</p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 size-[32px]" data-name="Page Number" data-node-id="15770:57389">
+              <div className="flex flex-col font-['Inter_Tight:Medium',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#0d0d12] text-[12px] tracking-[0.24px] w-[7px]" data-node-id="15770:57390">
+                <p className="leading-[1.5] whitespace-pre-wrap">5</p>
+              </div>
+            </div>
+          </div>
+          <div className="border border-[#dfe1e7] border-solid content-stretch flex items-center justify-center relative rounded-[8px] shrink-0 size-[32px]" data-name="Control" data-node-id="15770:57391">
+            <div className="relative shrink-0 size-[20px]" data-name="chevron-right" data-node-id="15770:57392">
+              <img alt="" className="block max-w-none size-full" src={imgChevronRight} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+type BadgeProps = {
+  className?: string;
+  colors?: "Neutral" | "Primary" | "Green" | "Yellow" | "Red";
+  size?: "Small";
+  styles?: "Outlined" | "Fill";
+  type?: "Default" | "Dot";
+};
+
+function Badge({ className, colors = "Neutral", size = "Small", styles = "Fill", type = "Default" }: BadgeProps) {
+  const isFillAndSmallAndDefaultAndGreen = styles === "Fill" && size === "Small" && type === "Default" && colors === "Green";
+  const isFillAndSmallAndDefaultAndRed = styles === "Fill" && size === "Small" && type === "Default" && colors === "Red";
+  return (
+    <div className={className} id={isFillAndSmallAndDefaultAndRed ? "node-263_3957" : isFillAndSmallAndDefaultAndGreen ? "node-263_3945" : "node-263_3933"}>
+      <p className={`font-["Inter_Tight:Medium",sans-serif] leading-[18px] not-italic relative shrink-0 text-[12px] text-center tracking-[0.12px] ${isFillAndSmallAndDefaultAndRed ? "text-[#b21634]" : isFillAndSmallAndDefaultAndGreen ? "text-[#267666]" : "text-[#0d0d12]"}`} id={isFillAndSmallAndDefaultAndRed ? "node-263_3958" : isFillAndSmallAndDefaultAndGreen ? "node-263_3946" : "node-263_3934"}>
+        Label
+      </p>
+    </div>
+  );
+}
+type TableCellProps = {
+  className?: string;
+  priority?: "None" | "Primary";
+  state?: "Default";
+  type?: "Description Only" | "Badge" | "Icon Only";
+};
+
+function TableCell({ className, priority = "Primary", state = "Default", type = "Description Only" }: TableCellProps) {
+  const isNoneAndIconOnlyAndDefault = priority === "None" && type === "Icon Only" && state === "Default";
+  const isPrimaryAndDescriptionOnlyAndDefault = priority === "Primary" && type === "Description Only" && state === "Default";
+  return (
+    <div className={className} id={isPrimaryAndDescriptionOnlyAndDefault ? "node-11775_1796" : "node-11775_1679"}>
+      {isNoneAndIconOnlyAndDefault && (
+        <div className="relative shrink-0 size-[16.667px]" data-name="Dots" data-node-id="11775:1680">
+          <div className="absolute inset-[41.67%_8.33%]" data-name="Icon" data-node-id="I11775:1680;7758:2304">
+            <div className="absolute inset-0" style={{ "--fill-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+              <img alt="" className="block max-w-none size-full" src={img4} />
+            </div>
+          </div>
+        </div>
+      )}
+      {isPrimaryAndDescriptionOnlyAndDefault && (
+        <>
+          <div className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" data-name="Checkbox" data-node-id="11775:1797" />
+          <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="11775:1798">
+            Description
+          </p>
+        </>
+      )}
+    </div>
+  );
+}
+
+function Checkbox({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="Checkbox" data-node-id="227:1513">
+      <div className="bg-white border border-[#dfe1e7] border-solid overflow-clip rounded-[4px] size-[16px]" data-name="Type=Checkbox, Size=Small, Active=False, State=Default, Interminate=False" data-node-id="227:1534" />
+    </div>
+  );
+}
+type TableHeaderProps = {
+  className?: string;
+  showCheckbox?: boolean;
+  showIcon?: boolean;
+  state?: "Default";
+  type?: "Empty" | "Check";
+};
+
+function TableHeader({ className, showCheckbox = true, showIcon = true, state = "Default", type = "Check" }: TableHeaderProps) {
+  const isCheckAndDefault = type === "Check" && state === "Default";
+  return (
+    <div className={className} id={isCheckAndDefault ? "node-11775_1817" : "node-11775_1801"}>
+      {isCheckAndDefault && showCheckbox && <Checkbox className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" />}
+      {isCheckAndDefault && (
+        <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Header Container" data-node-id="11775:1819">
+          <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="11775:1820">
+            Table Header
+          </p>
+          {showIcon && (
+            <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="Chevron Icon" data-node-id="11775:1821">
+              <div className="absolute bottom-[37.5%] flex items-center justify-center left-1/4 right-1/4 top-[37.5%]">
+                <div className="flex-none h-[4px] scale-y-[-100%] w-[8px]">
+                  <div className="relative size-full" data-name="Icon" data-node-id="I11775:1821;219:2842">
+                    <div className="absolute inset-[-11.85%_-9.38%_-18.75%_-9.38%]" style={{ "--stroke-0": "rgba(129, 136, 152, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img5} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+type ButtonProps = {
+  className?: string;
+  iconLeft?: boolean;
+  iconOnly?: "False";
+  iconRight?: boolean;
+  size?: "Small";
+  states?: "Default";
+  text?: string;
+  type?: "Primary" | "Secondary";
+};
+
+function Button({ className, iconLeft = true, iconOnly = "False", iconRight = true, size = "Small", states = "Default", text = "Button", type = "Primary" }: ButtonProps) {
+  const isPrimaryAndSmallAndDefaultAndFalse = type === "Primary" && size === "Small" && states === "Default" && iconOnly === "False";
+  const isSecondaryAndSmallAndDefaultAndFalse = type === "Secondary" && size === "Small" && states === "Default" && iconOnly === "False";
+  return (
+    <div className={className} id={isSecondaryAndSmallAndDefaultAndFalse ? "node-219_2261" : "node-219_2149"} style={isPrimaryAndSmallAndDefaultAndFalse ? { backgroundImage: "linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.15) 100%), linear-gradient(90deg, rgba(243, 65, 71, 1) 0%, rgba(243, 65, 71, 1) 100%)" } : undefined}>
+      {isPrimaryAndSmallAndDefaultAndFalse && iconLeft && (
+        <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="chevron-left" data-node-id="3715:1072">
+          <div className="absolute bottom-1/4 flex items-center justify-center left-[37.5%] right-[37.5%] top-1/4">
+            <div className="flex-none h-[4px] rotate-[-90deg] w-[8px]">
+              <div className="relative size-full" data-name="Icon" data-node-id="I3715:1072;219:2838">
+                <div className="absolute inset-[-9.76%_-8.33%_-16.67%_-8.33%]" style={{ "--stroke-0": "rgba(255, 255, 255, 1)" } as React.CSSProperties}>
+                  <img alt="" className="block max-w-none size-full" src={img6} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+      {isPrimaryAndSmallAndDefaultAndFalse && (
+        <p className="font-['Inter_Tight:SemiBold',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[14px] text-center text-white tracking-[0.28px]" data-node-id="219:2151">
+          {text}
+        </p>
+      )}
+      {isPrimaryAndSmallAndDefaultAndFalse && iconRight && (
+        <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="chevron-right" data-node-id="3715:1048">
+          <div className="absolute bottom-1/4 flex items-center justify-center left-[37.5%] right-[37.5%] top-1/4">
+            <div className="flex-none h-[4px] rotate-[90deg] w-[8px]">
+              <div className="relative size-full" data-name="Icon" data-node-id="I3715:1048;219:2840">
+                <div className="absolute inset-[-9.76%_-8.33%_-16.67%_-8.33%]" style={{ "--stroke-0": "rgba(255, 255, 255, 1)" } as React.CSSProperties}>
+                  <img alt="" className="block max-w-none size-full" src={img7} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+      {isSecondaryAndSmallAndDefaultAndFalse && iconLeft && (
+        <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="chevron-left" data-node-id="3715:1312">
+          <div className="absolute bottom-1/4 flex items-center justify-center left-[37.5%] right-[37.5%] top-1/4">
+            <div className="flex-none h-[4px] rotate-[-90deg] w-[8px]">
+              <div className="relative size-full" data-name="Icon" data-node-id="I3715:1312;219:2838">
+                <div className="absolute inset-[-9.76%_-8.33%_-16.67%_-8.33%]" style={{ "--stroke-0": "rgba(13, 13, 18, 1)" } as React.CSSProperties}>
+                  <img alt="" className="block max-w-none size-full" src={img8} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+      {isSecondaryAndSmallAndDefaultAndFalse && (
+        <p className="font-['Inter_Tight:SemiBold',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#0d0d12] text-[14px] text-center tracking-[0.28px]" data-node-id="219:2264">
+          {text}
+        </p>
+      )}
+      {isSecondaryAndSmallAndDefaultAndFalse && iconRight && (
+        <div className="overflow-clip relative shrink-0 size-[10.667px]" data-name="chevron-right" data-node-id="3715:1322">
+          <div className="absolute bottom-1/4 flex items-center justify-center left-[37.5%] right-[37.5%] top-1/4">
+            <div className="flex-none h-[4px] rotate-[90deg] w-[8px]">
+              <div className="relative size-full" data-name="Icon" data-node-id="I3715:1322;219:2840">
+                <div className="absolute inset-[-9.76%_-8.33%_-16.67%_-8.33%]" style={{ "--stroke-0": "rgba(13, 13, 18, 1)" } as React.CSSProperties}>
+                  <img alt="" className="block max-w-none size-full" src={img9} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function Header({ className }: { className?: string }) {
+  return (
+    <div className={className} data-name="Header" data-node-id="13777:62310">
+      <div className="bg-white border-[#dfe1e7] border-b border-solid content-stretch flex h-[80px] items-center justify-between py-[20px] relative w-[1104px]" data-name="Property 1=Dashboard" data-node-id="13777:62311">
+        <div className="bg-white border border-[#dfe1e7] border-solid content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0 w-[288px]" data-name="Search" data-node-id="15770:59261">
+          <div className="overflow-clip relative shrink-0 size-[20px]" data-name="Search Icon" data-node-id="15770:59262">
+            <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15770:59262;217:1478">
+              <div className="absolute inset-[-5.56%]" style={{ "--stroke-0": "rgba(129, 136, 152, 1)" } as React.CSSProperties}>
+                <img alt="" className="block max-w-none size-full" src={img10} />
+              </div>
+            </div>
+          </div>
+          <p className="flex-[1_0_0] font-['Inter_Tight:Regular',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#818898] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="15770:59263">
+            Search
+          </p>
+          <div className="content-stretch flex gap-[4px] items-center relative shrink-0" data-name="Shortcut Container" data-node-id="15770:59264">
+            <div className="bg-[#eceff3] overflow-clip relative rounded-[4px] shrink-0 size-[20px]" data-name="Command Container" data-node-id="15770:59265">
+              <div className="absolute left-[4px] size-[12px] top-[4px]" data-name="Command Icon" data-node-id="15770:59266">
+                <img alt="" className="block max-w-none size-full" src={imgCommandIcon} />
+              </div>
+            </div>
+            <div className="bg-[#eceff3] overflow-clip relative rounded-[4px] shrink-0 size-[20px]" data-name="Key Container" data-node-id="15770:59268">
+              <p className="absolute font-['Inter_Tight:SemiBold',sans-serif] leading-[1.5] left-[calc(50%-4px)] not-italic text-[#818898] text-[13px] top-[calc(50%-10px)] tracking-[0.26px]" data-node-id="15770:59269">
+                K
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-name="Actions" data-node-id="13777:62317">
+          <div className="bg-white border border-[#dfe1e7] border-solid overflow-clip relative rounded-[32px] shrink-0 size-[32px]" data-node-id="13777:62318">
+            <div className="absolute left-1/2 overflow-clip size-[16px] top-1/2 translate-x-[-50%] translate-y-[-50%]" data-name="bell-05" data-node-id="13777:62319">
+              <div className="absolute inset-[8.33%_16.67%]" data-name="Icon" data-node-id="I13777:62319;217:1954">
+                <div className="absolute inset-[-5%_-6.25%]">
+                  <img alt="" className="block max-w-none size-full" src={img11} />
+                </div>
+              </div>
+            </div>
+            <div className="absolute left-[16px] size-[8px] top-[7px]" data-node-id="13777:62320">
+              <img alt="" className="block max-w-none size-full" src={imgEllipse244} />
+            </div>
+          </div>
+          <div className="flex h-[20px] items-center justify-center relative shrink-0 w-0">
+            <div className="flex-none rotate-[90deg]">
+              <div className="h-0 relative w-[20px]" data-name="Divider" data-node-id="13777:62321">
+                <div className="absolute inset-[-0.5px_-2.5%]">
+                  <img alt="" className="block max-w-none size-full" src={imgDivider} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-name="Profile Container" data-node-id="13777:62322">
+            <div className="content-stretch flex items-center justify-center relative rounded-[1000px] shrink-0" data-name="Avatars" data-node-id="13777:62323">
+              <div className="relative shrink-0 size-[32px]" data-name="Avatars People" data-node-id="I13777:62323;3721:2063">
+                <img alt="" className="block max-w-none size-full" src={img12} />
+                <div className="absolute inset-[3.5%_12.5%_0_6.5%]" data-name="Intersect" data-node-id="I13777:62323;3721:2063;409:6618">
+                  <img alt="" className="block max-w-none size-full" height="30.88" src={img13} width="25.92" />
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col items-start leading-[1.5] not-italic relative shrink-0 text-[12px] tracking-[0.24px] whitespace-pre-wrap" data-name="Profile Info" data-node-id="13777:62324">
+              <p className="font-['Inter_Tight:SemiBold',sans-serif] relative shrink-0 text-[#0d0d12] w-full" data-node-id="13777:62325">
+                Robert Johnson
+              </p>
+              <p className="font-['Inter_Tight:Regular',sans-serif] relative shrink-0 text-[#666d80] w-full" data-node-id="13777:62326">
+                Super Admin
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default function Component15Tracking() {
+  return (
+    <div className="bg-white relative size-full" data-name="15. Tracking" data-node-id="15792:61706">
+      <div className="absolute content-stretch flex flex-col gap-[24px] h-[1024px] items-start left-[272px] px-[24px] top-0 w-[1168px]" data-name="Main Content" data-node-id="15797:8166">
+        <Header className="bg-white border-[#dfe1e7] border-b border-solid content-stretch flex h-[80px] items-center justify-between py-[20px] relative shrink-0 w-full" />
+        <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Header" data-node-id="15797:8168">
+          <p className="font-['Inter_Tight:SemiBold',sans-serif] leading-[1.35] not-italic relative shrink-0 text-[#0d0d12] text-[20px] text-center" data-node-id="15797:8169">
+            Tracking
+          </p>
+          <div className="content-stretch flex gap-[12px] items-center relative shrink-0" data-name="Actions" data-node-id="15797:8170">
+            <Button className="bg-white border border-[#dfe1e7] border-solid content-stretch flex gap-[8px] h-[40px] items-center justify-center px-[16px] py-[8px] relative rounded-[8px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" iconLeft={false} iconRight={false} text="Live Track" type="Secondary" />
+            <Button className="border border-[#f34147] border-solid content-stretch flex gap-[8px] h-[40px] items-center justify-center px-[16px] py-[8px] relative rounded-[8px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0" iconLeft={false} iconRight={false} text="Add New Tracking" />
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[20px] items-center relative shrink-0 w-full" data-name="Cards Container" data-node-id="15797:8618">
+          <div className="bg-white border border-[#dfe1e7] border-solid content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-h-px min-w-px overflow-clip p-[16px] relative rounded-[12px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)]" data-name="Card" data-node-id="15797:8619">
+            <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Header" data-node-id="I15797:8619;15770:57676">
+              <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] text-center tracking-[0.28px]" data-node-id="I15797:8619;15770:57677">
+                Total Shipments
+              </p>
+              <div className="bg-white border border-[#dfe1e7] border-solid overflow-clip relative rounded-[8px] shrink-0 size-[36px]" data-name="Icon Container" data-node-id="I15797:8619;15770:57678">
+                <div className="absolute left-[7px] overflow-clip size-[16.667px] top-[7px]" data-name="Icon" data-node-id="I15797:8619;15770:57679">
+                  <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8619;15770:57679;15796:6289">
+                    <div className="absolute inset-[-3.46%_-5.56%]" style={{ "--stroke-0": "rgba(243, 65, 71, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img14} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-name="Content" data-node-id="I15797:8619;15770:57680">
+              <p className="font-['Inter_Tight:SemiBold',sans-serif] leading-[1.3] not-italic relative shrink-0 text-[#0d0d12] text-[24px] w-full whitespace-pre-wrap" data-node-id="I15797:8619;15770:57681">
+                5,340
+              </p>
+              <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-full" data-name="Change Container" data-node-id="I15797:8619;15770:57682">
+                <div className="bg-[#fff0f3] content-stretch flex items-center justify-center px-[6px] py-[2px] relative rounded-[50px] shrink-0" data-name="Change Percentage Container" data-node-id="I15797:8619;15770:57683">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#df1c41] text-[12px] text-center tracking-[0.24px]" data-node-id="I15797:8619;15770:57684">
+                    -8%
+                  </p>
+                </div>
+                <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] text-center tracking-[0.28px]" data-node-id="I15797:8619;15770:57685">
+                  from last month
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="bg-white border border-[#dfe1e7] border-solid content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-h-px min-w-px overflow-clip p-[16px] relative rounded-[12px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)]" data-name="Card" data-node-id="15797:8621">
+            <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Header" data-node-id="I15797:8621;15770:57676">
+              <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] text-center tracking-[0.28px]" data-node-id="I15797:8621;15770:57677">
+                Delivery
+              </p>
+              <div className="bg-white border border-[#dfe1e7] border-solid overflow-clip relative rounded-[8px] shrink-0 size-[36px]" data-name="Icon Container" data-node-id="I15797:8621;15770:57678">
+                <div className="absolute left-[7px] overflow-clip size-[16.667px] top-[7px]" data-name="Icon" data-node-id="I15797:8621;15770:57679">
+                  <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8621;15770:57679;15796:6299">
+                    <div className="absolute inset-[-6.67%]" style={{ "--stroke-0": "rgba(243, 65, 71, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img15} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-name="Content" data-node-id="I15797:8621;15770:57680">
+              <p className="font-['Inter_Tight:SemiBold',sans-serif] leading-[1.3] not-italic relative shrink-0 text-[#0d0d12] text-[24px] w-full whitespace-pre-wrap" data-node-id="I15797:8621;15770:57681">
+                837
+              </p>
+              <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-full" data-name="Change Container" data-node-id="I15797:8621;15770:57682">
+                <div className="bg-[#effefa] content-stretch flex items-center justify-center px-[6px] py-[2px] relative rounded-[50px] shrink-0" data-name="Change Percentage Container" data-node-id="I15797:8621;15770:57683">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#40c4aa] text-[12px] text-center tracking-[0.24px]" data-node-id="I15797:8621;15770:57684">
+                    +8%
+                  </p>
+                </div>
+                <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] text-center tracking-[0.28px]" data-node-id="I15797:8621;15770:57685">
+                  from last month
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="bg-white border border-[#dfe1e7] border-solid content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-h-px min-w-px overflow-clip p-[16px] relative rounded-[12px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)]" data-name="Card" data-node-id="15797:8622">
+            <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-name="Header" data-node-id="I15797:8622;15770:57676">
+              <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] text-center tracking-[0.28px]" data-node-id="I15797:8622;15770:57677">
+                Returned Packages
+              </p>
+              <div className="bg-white border border-[#dfe1e7] border-solid overflow-clip relative rounded-[8px] shrink-0 size-[36px]" data-name="Icon Container" data-node-id="I15797:8622;15770:57678">
+                <div className="absolute left-[7px] overflow-clip size-[16.667px] top-[7px]" data-name="Icon" data-node-id="I15797:8622;15770:57679">
+                  <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8622;15770:57679;15796:6301">
+                    <div className="absolute inset-[-6.67%]" style={{ "--stroke-0": "rgba(243, 65, 71, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img16} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[8px] items-start relative shrink-0 w-full" data-name="Content" data-node-id="I15797:8622;15770:57680">
+              <p className="font-['Inter_Tight:SemiBold',sans-serif] leading-[1.3] not-italic relative shrink-0 text-[#0d0d12] text-[24px] w-full whitespace-pre-wrap" data-node-id="I15797:8622;15770:57681">
+                190
+              </p>
+              <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-full" data-name="Change Container" data-node-id="I15797:8622;15770:57682">
+                <div className="bg-[#fff0f3] content-stretch flex items-center justify-center px-[6px] py-[2px] relative rounded-[50px] shrink-0" data-name="Change Percentage Container" data-node-id="I15797:8622;15770:57683">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#df1c41] text-[12px] text-center tracking-[0.24px]" data-node-id="I15797:8622;15770:57684">
+                    -8%
+                  </p>
+                </div>
+                <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] text-center tracking-[0.28px]" data-node-id="I15797:8622;15770:57685">
+                  from last month
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="bg-white border border-[#dfe1e7] border-solid content-stretch flex flex-col items-start overflow-clip relative rounded-[12px] shadow-[0px_1px_2px_0px_rgba(13,13,18,0.06)] shrink-0 w-full" data-name="Container" data-node-id="15797:8177">
+          <div className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center justify-between overflow-clip px-[20px] py-[8px] relative shrink-0 w-full" data-name="Header" data-node-id="15797:8178">
+            <p className="font-['Inter_Tight:SemiBold',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#0d0d12] text-[16px] tracking-[0.32px]" data-node-id="15797:8179">
+              Carriers Data Table
+            </p>
+            <div className="content-stretch flex gap-[12px] items-center relative shrink-0" data-name="Actions" data-node-id="15797:8180">
+              <div className="border border-[#dfe1e7] border-solid content-stretch flex gap-[8px] h-[38px] items-center pl-[12px] pr-[14px] py-[8px] relative rounded-[8px] shrink-0 w-[256px]" data-name="Auto Layout Horizontal" data-node-id="15797:8181">
+                <div className="relative shrink-0 size-[16px]" data-name="Frame" data-node-id="15797:8182">
+                  <img alt="" className="block max-w-none size-full" src={imgFrame} />
+                </div>
+                <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="15797:8184">
+                  Search
+                </p>
+              </div>
+              <div className="border border-[#dfe1e7] border-solid content-stretch flex gap-[8px] h-[38px] items-center pl-[12px] pr-[14px] py-[8px] relative rounded-[8px] shrink-0" data-name="Auto Layout Horizontal" data-node-id="15797:8185">
+                <div className="relative shrink-0 size-[16px]" data-name="Frame" data-node-id="15797:8186">
+                  <img alt="" className="block max-w-none size-full" src={imgFrame1} />
+                </div>
+                <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="15797:8188">
+                  Filter
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Table Container" data-node-id="15797:8189">
+            <div className="bg-[#f6f8fa] border-[#dfe1e7] border-b border-solid content-stretch flex items-center overflow-clip px-[9px] relative shrink-0 w-full" data-name="Table Header Row" data-node-id="15797:8190">
+              <div className="bg-[#f6f8fa] content-stretch flex flex-[1_0_0] gap-[10px] h-[40px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Header" data-node-id="15797:8191">
+                <Checkbox className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" />
+                <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Header Container" data-node-id="I15797:8191;11775:1819">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="I15797:8191;11775:1820">
+                    Tracking No
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#f6f8fa] content-stretch flex flex-[1_0_0] gap-[10px] h-[40px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Header" data-node-id="15797:8192">
+                <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Header Container" data-node-id="I15797:8192;11775:1819">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="I15797:8192;11775:1820">
+                    Order ID
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#f6f8fa] content-stretch flex flex-[1_0_0] gap-[10px] h-[40px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Header" data-node-id="15797:8193">
+                <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Header Container" data-node-id="I15797:8193;11775:1819">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="I15797:8193;11775:1820">
+                    Customer Name
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#f6f8fa] content-stretch flex flex-[1_0_0] gap-[10px] h-[40px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Header" data-node-id="15797:8194">
+                <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Header Container" data-node-id="I15797:8194;11775:1819">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="I15797:8194;11775:1820">
+                    Origin City
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#f6f8fa] content-stretch flex flex-[1_0_0] gap-[10px] h-[40px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Header" data-node-id="15797:8195">
+                <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Header Container" data-node-id="I15797:8195;11775:1819">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="I15797:8195;11775:1820">
+                    Destination City
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#f6f8fa] content-stretch flex gap-[10px] h-[40px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Header" data-node-id="15797:8196">
+                <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Header Container" data-node-id="I15797:8196;11775:1819">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="I15797:8196;11775:1820">
+                    Carrier
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#f6f8fa] content-stretch flex gap-[10px] h-[40px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Header" data-node-id="15797:8197">
+                <div className="content-stretch flex gap-[6px] items-center relative shrink-0" data-name="Header Container" data-node-id="I15797:8197;11775:1819">
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[1.5] not-italic relative shrink-0 text-[#666d80] text-[14px] tracking-[0.28px]" data-node-id="I15797:8197;11775:1820">
+                    Status
+                  </p>
+                </div>
+              </div>
+              <TableHeader className="bg-[#f6f8fa] h-[40px] shrink-0 w-[44px]" showCheckbox={false} showIcon={false} type="Empty" />
+            </div>
+            <div className="border-[#dfe1e7] border-b border-solid content-stretch flex items-center overflow-clip px-[9px] relative shrink-0 w-full" data-name="Table Data Row" data-node-id="15797:8262">
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] gap-[10px] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8263">
+                <div className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" data-name="Checkbox" data-node-id="I15797:8263;11775:1797" />
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8263;11775:1798">
+                  TRK-784512
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8264">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8264;11775:1756">
+                  ORD-10234
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8265">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8265;11775:1756">
+                  Sarah Mitchell
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8266">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8266;11775:1756">
+                  Newark, NJ
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8267">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8267;11775:1756">
+                  Los Angeles, CA
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8268">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8268;11775:1756">
+                  FedEx
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex gap-[6px] h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8269">
+                <div className="bg-white border border-[#339d88] border-solid content-stretch flex gap-[4px] h-[20px] items-center pl-[6px] pr-[8px] py-[2px] relative rounded-[16px] shrink-0" data-name="Badge" data-node-id="I15797:8269;11775:1721">
+                  <div className="relative shrink-0 size-[6px]" data-name="Dot" data-node-id="I15797:8269;11775:1721;263:4059">
+                    <img alt="" className="block max-w-none size-full" src={img17} />
+                  </div>
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[18px] not-italic relative shrink-0 text-[#339d88] text-[12px] text-center tracking-[0.12px]" data-node-id="I15797:8269;11775:1721;263:4060">
+                    Delivered
+                  </p>
+                </div>
+              </div>
+              <TableCell className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0" priority="None" type="Icon Only" />
+            </div>
+            <div className="border-[#dfe1e7] border-b border-solid content-stretch flex items-center overflow-clip px-[9px] relative shrink-0 w-full" data-name="Table Data Row" data-node-id="15797:8673">
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] gap-[10px] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8674">
+                <div className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" data-name="Checkbox" data-node-id="I15797:8674;11775:1797" />
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8674;11775:1798">
+                  TRK-784513
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8675">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8675;11775:1756">
+                  ORD-10235
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8676">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8676;11775:1756">
+                  John Doe
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8677">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8677;11775:1756">
+                  Austin, TX
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8678">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8678;11775:1756">
+                  Seattle, WA
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8679">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8679;11775:1756">
+                  UPS
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex gap-[6px] h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8680">
+                <div className="bg-white border border-[#33cfff] border-solid content-stretch flex gap-[4px] h-[20px] items-center pl-[6px] pr-[8px] py-[2px] relative rounded-[16px] shrink-0" data-name="Badge" data-node-id="I15797:8680;11775:1721">
+                  <div className="relative shrink-0 size-[6px]" data-name="Dot" data-node-id="I15797:8680;11775:1721;263:4050">
+                    <div className="absolute inset-0" style={{ "--fill-0": "rgba(51, 207, 255, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img18} />
+                    </div>
+                  </div>
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[18px] not-italic relative shrink-0 text-[#33cfff] text-[12px] text-center tracking-[0.12px]" data-node-id="I15797:8680;11775:1721;263:4051">
+                    In Transit
+                  </p>
+                </div>
+              </div>
+              <TableCell className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0" priority="None" type="Icon Only" />
+            </div>
+            <div className="border-[#dfe1e7] border-b border-solid content-stretch flex items-center overflow-clip px-[9px] relative shrink-0 w-full" data-name="Table Data Row" data-node-id="15797:8697">
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] gap-[10px] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8698">
+                <div className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" data-name="Checkbox" data-node-id="I15797:8698;11775:1797" />
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8698;11775:1798">
+                  TRK-784514
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8699">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8699;11775:1756">
+                  ORD-10236
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8700">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8700;11775:1756">
+                  Emily Johnson
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8701">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8701;11775:1756">
+                  Miami, FL
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8702">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8702;11775:1756">
+                  Chicago, IL
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8703">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8703;11775:1756">
+                  DHL
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex gap-[6px] h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8704">
+                <div className="bg-white border border-[#d39c3d] border-solid content-stretch flex gap-[4px] h-[20px] items-center pl-[6px] pr-[8px] py-[2px] relative rounded-[16px] shrink-0" data-name="Badge" data-node-id="I15797:8704;11775:1721">
+                  <div className="relative shrink-0 size-[6px]" data-name="Dot" data-node-id="I15797:8704;11775:1721;263:4068">
+                    <img alt="" className="block max-w-none size-full" src={img19} />
+                  </div>
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[18px] not-italic relative shrink-0 text-[#d39c3d] text-[12px] text-center tracking-[0.12px]" data-node-id="I15797:8704;11775:1721;263:4069">
+                    Pending
+                  </p>
+                </div>
+              </div>
+              <TableCell className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0" priority="None" type="Icon Only" />
+            </div>
+            <div className="border-[#dfe1e7] border-b border-solid content-stretch flex items-center overflow-clip px-[9px] relative shrink-0 w-full" data-name="Table Data Row" data-node-id="15797:8706">
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] gap-[10px] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8707">
+                <div className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" data-name="Checkbox" data-node-id="I15797:8707;11775:1797" />
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8707;11775:1798">
+                  TRK-784515
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8708">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8708;11775:1756">
+                  ORD-10237
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8709">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8709;11775:1756">
+                  Michael Brown
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8710">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8710;11775:1756">
+                  Phoenix, AZ
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8711">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8711;11775:1756">
+                  Denver, CO
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8712">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8712;11775:1756">
+                  USPS
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex gap-[6px] h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8713">
+                <div className="bg-white border border-[#339d88] border-solid content-stretch flex gap-[4px] h-[20px] items-center pl-[6px] pr-[8px] py-[2px] relative rounded-[16px] shrink-0" data-name="Badge" data-node-id="I15797:8713;11775:1721">
+                  <div className="relative shrink-0 size-[6px]" data-name="Dot" data-node-id="I15797:8713;11775:1721;263:4059">
+                    <img alt="" className="block max-w-none size-full" src={img17} />
+                  </div>
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[18px] not-italic relative shrink-0 text-[#339d88] text-[12px] text-center tracking-[0.12px]" data-node-id="I15797:8713;11775:1721;263:4060">
+                    Delivered
+                  </p>
+                </div>
+              </div>
+              <TableCell className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0" priority="None" type="Icon Only" />
+            </div>
+            <div className="border-[#dfe1e7] border-b border-solid content-stretch flex items-center overflow-clip px-[9px] relative shrink-0 w-full" data-name="Table Data Row" data-node-id="15797:8744">
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] gap-[10px] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8745">
+                <div className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" data-name="Checkbox" data-node-id="I15797:8745;11775:1797" />
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8745;11775:1798">
+                  TRK-784516
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8746">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8746;11775:1756">
+                  ORD-10238
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8747">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8747;11775:1756">
+                  Jessica White
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8748">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8748;11775:1756">
+                  San Diego, CA
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8749">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8749;11775:1756">
+                  Boston, MA
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8750">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8750;11775:1756">
+                  FedEx
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex gap-[6px] h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8751">
+                <div className="bg-white border border-[#df1c41] border-solid content-stretch flex gap-[4px] h-[20px] items-center pl-[6px] pr-[8px] py-[2px] relative rounded-[16px] shrink-0" data-name="Badge" data-node-id="I15797:8751;11775:1721">
+                  <div className="relative shrink-0 size-[6px]" data-name="Dot" data-node-id="I15797:8751;11775:1721;263:4077">
+                    <img alt="" className="block max-w-none size-full" src={img20} />
+                  </div>
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[18px] not-italic relative shrink-0 text-[#df1c41] text-[12px] text-center tracking-[0.12px]" data-node-id="I15797:8751;11775:1721;263:4078">
+                    Delayed
+                  </p>
+                </div>
+              </div>
+              <TableCell className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0" priority="None" type="Icon Only" />
+            </div>
+            <div className="border-[#dfe1e7] border-b border-solid content-stretch flex items-center overflow-clip px-[9px] relative shrink-0 w-full" data-name="Table Data Row" data-node-id="15797:8753">
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] gap-[10px] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8754">
+                <div className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" data-name="Checkbox" data-node-id="I15797:8754;11775:1797" />
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8754;11775:1798">
+                  TRK-784517
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8755">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8755;11775:1756">
+                  ORD-10239
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8756">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8756;11775:1756">
+                  David Smith
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8757">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8757;11775:1756">
+                  Orlando, FL
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8758">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8758;11775:1756">
+                  Atlanta, GA
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8759">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8759;11775:1756">
+                  UPS
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex gap-[6px] h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8760">
+                <div className="bg-white border border-[#339d88] border-solid content-stretch flex gap-[4px] h-[20px] items-center pl-[6px] pr-[8px] py-[2px] relative rounded-[16px] shrink-0" data-name="Badge" data-node-id="I15797:8760;11775:1721">
+                  <div className="relative shrink-0 size-[6px]" data-name="Dot" data-node-id="I15797:8760;11775:1721;263:4059">
+                    <img alt="" className="block max-w-none size-full" src={img17} />
+                  </div>
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[18px] not-italic relative shrink-0 text-[#339d88] text-[12px] text-center tracking-[0.12px]" data-node-id="I15797:8760;11775:1721;263:4060">
+                    Delivered
+                  </p>
+                </div>
+              </div>
+              <TableCell className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0" priority="None" type="Icon Only" />
+            </div>
+            <div className="border-[#dfe1e7] border-b border-solid content-stretch flex items-center overflow-clip px-[9px] relative shrink-0 w-full" data-name="Table Data Row" data-node-id="15797:8762">
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] gap-[10px] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8763">
+                <div className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" data-name="Checkbox" data-node-id="I15797:8763;11775:1797" />
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8763;11775:1798">
+                  TRK-784518
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8764">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8764;11775:1756">
+                  ORD-10240
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8765">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8765;11775:1756">
+                  Linda Green
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8766">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8766;11775:1756">
+                  Detroit, MI
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8767">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8767;11775:1756">
+                  Houston, TX
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8768">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8768;11775:1756">
+                  DHL
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex gap-[6px] h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8769">
+                <div className="bg-white border border-[#33cfff] border-solid content-stretch flex gap-[4px] h-[20px] items-center pl-[6px] pr-[8px] py-[2px] relative rounded-[16px] shrink-0" data-name="Badge" data-node-id="I15797:8769;11775:1721">
+                  <div className="relative shrink-0 size-[6px]" data-name="Dot" data-node-id="I15797:8769;11775:1721;263:4050">
+                    <div className="absolute inset-0" style={{ "--fill-0": "rgba(51, 207, 255, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img18} />
+                    </div>
+                  </div>
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[18px] not-italic relative shrink-0 text-[#33cfff] text-[12px] text-center tracking-[0.12px]" data-node-id="I15797:8769;11775:1721;263:4051">
+                    In Transit
+                  </p>
+                </div>
+              </div>
+              <TableCell className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0" priority="None" type="Icon Only" />
+            </div>
+            <div className="border-[#dfe1e7] border-b border-solid content-stretch flex items-center overflow-clip px-[9px] relative shrink-0 w-full" data-name="Table Data Row" data-node-id="15797:8771">
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] gap-[10px] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8772">
+                <div className="bg-white border border-[#dfe1e7] border-solid rounded-[4px] shrink-0 size-[16px]" data-name="Checkbox" data-node-id="I15797:8772;11775:1797" />
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8772;11775:1798">
+                  TRK-784519
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8773">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8773;11775:1756">
+                  ORD-10241
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8774">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8774;11775:1756">
+                  James Wilson
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8775">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8775;11775:1756">
+                  Philadelphia, PA
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-[1_0_0] h-[64px] items-center min-h-px min-w-px px-[12px] relative" data-name="Table Cell" data-node-id="15797:8776">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8776;11775:1756">
+                  San Francisco, CA
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8777">
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8777;11775:1756">
+                  USPS
+                </p>
+              </div>
+              <div className="border-[#dfe1e7] border-b border-solid content-stretch flex gap-[6px] h-[64px] items-center px-[12px] relative shrink-0 w-[120px]" data-name="Table Cell" data-node-id="15797:8778">
+                <div className="bg-white border border-[#d39c3d] border-solid content-stretch flex gap-[4px] h-[20px] items-center pl-[6px] pr-[8px] py-[2px] relative rounded-[16px] shrink-0" data-name="Badge" data-node-id="I15797:8778;11775:1721">
+                  <div className="relative shrink-0 size-[6px]" data-name="Dot" data-node-id="I15797:8778;11775:1721;263:4068">
+                    <img alt="" className="block max-w-none size-full" src={img19} />
+                  </div>
+                  <p className="font-['Inter_Tight:Medium',sans-serif] leading-[18px] not-italic relative shrink-0 text-[#d39c3d] text-[12px] text-center tracking-[0.12px]" data-node-id="I15797:8778;11775:1721;263:4069">
+                    Pending
+                  </p>
+                </div>
+              </div>
+              <TableCell className="border-[#dfe1e7] border-b border-solid content-stretch flex h-[64px] items-center px-[12px] relative shrink-0" priority="None" type="Icon Only" />
+            </div>
+          </div>
+          <Pagination className="content-stretch flex h-[64px] items-center justify-between px-[20px] py-[16px] relative shrink-0 w-full" />
+        </div>
+      </div>
+      <div className="absolute bg-white border-[#dfe1e7] border-r border-solid content-stretch flex flex-col h-[1024px] items-center left-0 top-0 w-[272px]" data-name="Sidebar" data-node-id="15797:8272">
+        <div className="border-[#dfe1e7] border-b border-solid content-stretch flex flex-col h-[80px] items-start justify-center p-[8px] relative shrink-0 w-[272px]" data-name="Header" data-node-id="I15797:8272;11775:2122">
+          <div className="content-stretch flex h-[56px] items-center p-[12px] relative shrink-0 w-full" data-name="Header Content" data-node-id="I15797:8272;11775:2123">
+            <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center min-h-px min-w-px relative" data-name="Logo and Title" data-node-id="I15797:8272;11775:2124">
+              <div className="bg-[#f34147] overflow-clip relative rounded-[6px] shrink-0 size-[32px]" data-name="Logo Container" data-node-id="I15797:8272;11775:2125">
+                <div className="absolute left-1/2 overflow-clip size-[16px] top-1/2 translate-x-[-50%] translate-y-[-50%]" data-name="Frame" data-node-id="I15797:8272;15768:1232">
+                  <div className="absolute contents inset-0" data-name="Clip path group" data-node-id="I15797:8272;15768:1233">
+                    <div className="absolute inset-0 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[0px_0px] mask-size-[16px_16px]" data-name="Group" data-node-id="I15797:8272;15768:1236" style={{ maskImage: `url('${img21}')` }}>
+                      <img alt="" className="block max-w-none size-full" src={img22} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <p className="font-['Inter_Tight:SemiBold',sans-serif] leading-[1.35] not-italic relative shrink-0 text-[#0d0d12] text-[20px]" data-node-id="I15797:8272;11775:2127">
+                FLOCK
+              </p>
+            </div>
+            <div className="bg-white border border-[#dfe1e7] border-solid overflow-clip relative rounded-[6px] shadow-[0px_0.75px_1.5px_0px_rgba(13,13,18,0.06)] shrink-0 size-[24px]" data-name="Collapse Button Container" data-node-id="I15797:8272;11775:2128">
+              <div className="absolute left-[3px] size-[16px] top-[3px]" data-name="Collapse Button" data-node-id="I15797:8272;11775:2129">
+                <div className="absolute bottom-1/4 flex items-center justify-center left-[37.5%] right-[37.5%] top-1/4">
+                  <div className="flex-none h-[4px] rotate-[-90deg] w-[8px]">
+                    <div className="relative size-full" data-name="Icon" data-node-id="I15797:8272;11775:2129;7733:2783">
+                      <div className="absolute inset-[-9.76%_-8.33%_-16.67%_-8.33%]" style={{ "--stroke-0": "rgba(13, 13, 18, 1)" } as React.CSSProperties}>
+                        <img alt="" className="block max-w-none size-full" src={img23} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-[1_0_0] flex-col gap-[16px] items-start min-h-px min-w-px p-[16px] relative w-full" data-name="Menu" data-node-id="I15797:8272;11775:2140">
+          <div className="content-stretch flex flex-col gap-[4px] items-start relative shrink-0 w-full" data-name="Menu" data-node-id="I15797:8272;11775:2141">
+            <div className="content-stretch flex items-center justify-center px-[12px] py-[4px] relative shrink-0 w-full" data-name="Menu Header" data-node-id="I15797:8272;11775:2142">
+              <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#a4acb9] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2143">
+                MAIN MENU
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Menu Items" data-node-id="I15797:8272;11775:2144">
+              <Menu className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" iconRight={false} state="Disable" />
+              <div className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" data-name="Menu" data-node-id="I15797:8272;11775:2502">
+                <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="box-02" data-node-id="I15797:8272;11775:2502;11775:2172">
+                  <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8272;11775:2502;11775:2172;15796:6289">
+                    <div className="absolute inset-[-4.15%_-6.67%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img24} />
+                    </div>
+                  </div>
+                </div>
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#666d80] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2502;11775:2173">
+                  Shipments
+                </p>
+              </div>
+              <div className="bg-[#f6f8fa] content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" data-name="Menu" data-node-id="I15797:8272;11775:2515">
+                <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="scan-box-02" data-node-id="I15797:8272;11775:2515;11775:2176">
+                  <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8272;11775:2515;11775:2176;15801:6115">
+                    <div className="absolute inset-[-6.67%]" style={{ "--stroke-0": "rgba(243, 65, 71, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img25} />
+                    </div>
+                  </div>
+                </div>
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#0d0d12] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2515;11775:2177">
+                  Tracking
+                </p>
+                <div className="absolute bg-[#f34147] h-[24px] left-[-16px] rounded-br-[8px] rounded-tr-[8px] top-1/2 translate-y-[-50%] w-[4px]" data-node-id="I15797:8272;11775:2515;11775:2179" />
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[4px] items-start relative shrink-0 w-full" data-name="Menu" data-node-id="I15797:8272;11775:2149">
+            <div className="content-stretch flex items-center justify-center px-[12px] py-[4px] relative shrink-0 w-full" data-name="Secondary Menu Header" data-node-id="I15797:8272;11775:2150">
+              <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#a4acb9] text-[14px] tracking-[0.28px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2151">
+                FEATURES
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-name="Secondary Menu Items" data-node-id="I15797:8272;11775:2152">
+              <div className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" data-name="Menu" data-node-id="I15797:8272;11775:2527">
+                <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="truck-delivery" data-node-id="I15797:8272;11775:2527;11775:2172">
+                  <div className="absolute inset-[20.83%_8.33%]" data-name="Icon" data-node-id="I15797:8272;11775:2527;11775:2172;15797:11313">
+                    <div className="absolute inset-[-8.57%_-6%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img26} />
+                    </div>
+                  </div>
+                </div>
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#666d80] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2527;11775:2173">
+                  Carriers
+                </p>
+              </div>
+              <div className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" data-name="Menu" data-node-id="I15797:8272;11775:2540">
+                <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="user-circle" data-node-id="I15797:8272;11775:2540;11775:2172">
+                  <div className="absolute inset-[8.33%]" data-name="icon" data-node-id="I15797:8272;11775:2540;11775:2172;219:2047">
+                    <div className="absolute inset-[-6%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img27} />
+                    </div>
+                  </div>
+                </div>
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#666d80] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2540;11775:2173">
+                  Customers
+                </p>
+              </div>
+              <div className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" data-name="Menu" data-node-id="I15797:8272;15801:4487">
+                <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="bank-02" data-node-id="I15797:8272;15801:4487;11775:2172">
+                  <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8272;15801:4487;11775:2172;217:1972">
+                    <div className="absolute inset-[-6.67%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img28} />
+                    </div>
+                  </div>
+                </div>
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#666d80] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;15801:4487;11775:2173">
+                  Companies
+                </p>
+              </div>
+              <div className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" data-name="Menu" data-node-id="I15797:8272;11775:2541">
+                <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="warehouse-01" data-node-id="I15797:8272;11775:2541;11775:2172">
+                  <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8272;11775:2541;11775:2172;15796:8077">
+                    <div className="absolute inset-[-6.67%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img29} />
+                    </div>
+                  </div>
+                </div>
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#666d80] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2541;11775:2173">
+                  Warehouses
+                </p>
+              </div>
+              <div className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" data-name="Menu" data-node-id="I15797:8272;11775:2528">
+                <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="bar-chart-14" data-node-id="I15797:8272;11775:2528;11775:2172">
+                  <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8272;11775:2528;11775:2172;217:1908">
+                    <div className="absolute inset-[-6.67%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                      <img alt="" className="block max-w-none size-full" src={img30} />
+                    </div>
+                  </div>
+                </div>
+                <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#666d80] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2528;11775:2173">
+                  Reports
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col items-start justify-end min-h-px min-w-px relative w-full" data-name="Menu" data-node-id="I15797:8272;11775:2166">
+            <div className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" data-name="Menu" data-node-id="I15797:8272;11775:2553">
+              <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="gear" data-node-id="I15797:8272;11775:2553;11775:2172">
+                <div className="absolute inset-[8.33%]" data-name="Icon" data-node-id="I15797:8272;11775:2553;11775:2172;11775:2597">
+                  <div className="absolute inset-[-6%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                    <img alt="" className="block max-w-none size-full" src={img31} />
+                  </div>
+                </div>
+              </div>
+              <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#666d80] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2553;11775:2173">
+                Settings
+              </p>
+            </div>
+            <div className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-[240px]" data-name="Menu" data-node-id="I15797:8272;11775:2554">
+              <div className="overflow-clip relative shrink-0 size-[16.667px]" data-name="headphone-01" data-node-id="I15797:8272;11775:2554;11775:2172">
+                <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8272;11775:2554;11775:2172;11775:2599">
+                  <div className="absolute inset-[-6.67%]" style={{ "--stroke-0": "rgba(102, 109, 128, 1)" } as React.CSSProperties}>
+                    <img alt="" className="block max-w-none size-full" src={img32} />
+                  </div>
+                </div>
+              </div>
+              <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#666d80] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2554;11775:2173">{`Help & Center`}</p>
+            </div>
+            <div className="bg-white content-stretch flex gap-[8px] h-[40px] items-center px-[12px] py-[8px] relative rounded-[8px] shrink-0 w-full" data-name="Menu" data-node-id="I15797:8272;11775:2169">
+              <div className="relative shrink-0 size-[16.667px]" data-name="log-out-05" data-node-id="I15797:8272;11775:2169;11775:2172">
+                <div className="absolute inset-[12.5%]" data-name="Icon" data-node-id="I15797:8272;11775:2169;11775:2172;7733:2771">
+                  <div className="absolute inset-0" style={{ "--fill-0": "rgba(223, 28, 65, 1)" } as React.CSSProperties}>
+                    <img alt="" className="block max-w-none size-full" src={img33} />
+                  </div>
+                </div>
+              </div>
+              <p className="flex-[1_0_0] font-['Inter_Tight:Medium',sans-serif] leading-[1.5] min-h-px min-w-px not-italic relative text-[#df1c41] text-[16px] tracking-[0.32px] whitespace-pre-wrap" data-node-id="I15797:8272;11775:2169;11775:2173">
+                Logout
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+### Content Block 2 (Text)
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+### Content Block 3 (Text)
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+### Content Block 4 (Text)
+These styles are contained in the design: Greyscale/400: #818898, Body/Medium/Regular: Font(family: "Inter Tight", style: Regular, size: 14, weight: 400, lineHeight: 1.5, letterSpacing: 2), Greyscale/50: #ECEFF3, Greyscale/0: #FFFFFF, Greyscale/100: #DFE1E7, Greyscale/900: #0D0D12, Alert/Error/100: #DF1C41, Additional / Orange / 100: #FAD2BC, Body/Small/Semibold: Font(family: "Inter Tight", style: SemiBold, size: 12, weight: 600, lineHeight: 1.5, letterSpacing: 2), Greyscale/500: #666D80, Body/Small/Regular: Font(family: "Inter Tight", style: Regular, size: 12, weight: 400, lineHeight: 1.5, letterSpacing: 2), Heading/H5: Font(family: "Inter Tight", style: SemiBold, size: 20, weight: 600, lineHeight: 1.350000023841858, letterSpacing: 0), Body/Medium/Semibold: Font(family: "Inter Tight", style: SemiBold, size: 14, weight: 600, lineHeight: 1.5, letterSpacing: 2), White/900: #FFFFFF, Shadow/XSmall: Effect(type: DROP_SHADOW, color: #0D0D120F, offset: (0, 1), radius: 2, spread: 0), Body/Medium/Medium: Font(family: "Inter Tight", style: Medium, size: 14, weight: 500, lineHeight: 1.5, letterSpacing: 2), Primary/500: #F34147, Heading/H4: Font(family: "Inter Tight", style: SemiBold, size: 24, weight: 600, lineHeight: 1.2999999523162842, letterSpacing: 0), Body/Small/Medium: Font(family: "Inter Tight", style: Medium, size: 14, weight: 500, lineHeight: 1.5, letterSpacing: 2), Alert/Error/0: #FFF0F3, Alert/Success/100: #40C4AA, Alert/Success/0: #EFFEFA, Body/Large/Semibold: Font(family: "Inter Tight", style: SemiBold, size: 16, weight: 600, lineHeight: 1.5, letterSpacing: 2), Greyscale/25: #F6F8FA, Alert / Success / 600: #339D88, Additional/Sky/100: #33CFFF, Alert / Warning / 600: #D39C3D, Alert/Error/500: #DF1C41, Greyscale/300: #A4ACB9, Body/Large/Medium: Font(family: "Inter Tight", style: Medium, size: 16, weight: 500, lineHeight: 1.5, letterSpacing: 2).
+
+### Content Block 5 (Text)
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.
+
+### Content Block 6 (Text)
+IMPORTANT: After you call this tool, you MUST call get_screenshot to get a screenshot of the node for context.
+
+</mcp_external_output>

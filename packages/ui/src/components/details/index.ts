@@ -1,0 +1,6 @@
+export { DetailPageHeader } from "./DetailPageHeader"
+export { DetailQuickTile } from "./DetailQuickTile"
+export { DetailTabs } from "./DetailTabs"
+export type { DetailPageHeaderProps } from "./DetailPageHeader"
+export type { DetailQuickTileProps } from "./DetailQuickTile"
+export type { DetailTabsProps } from "./DetailTabs"

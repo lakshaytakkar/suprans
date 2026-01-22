@@ -1,0 +1,82 @@
+[
+  {
+    "id": "activity-1",
+    "leadId": "lead-1",
+    "userId": "user-2",
+    "type": "call",
+    "title": "Discovery call",
+    "description": "Initial call to understand requirements. Client interested in mainland setup for import/export business.",
+    "outcome": "Positive - requested proposal",
+    "createdAt": "2024-03-10T10:30:00.000Z"
+  },
+  {
+    "id": "activity-2",
+    "leadId": "lead-1",
+    "userId": "user-2",
+    "type": "email",
+    "title": "Sent company formation brochure",
+    "description": "Emailed detailed information about mainland company setup process and requirements.",
+    "outcome": null,
+    "createdAt": "2024-03-11T09:00:00.000Z"
+  },
+  {
+    "id": "activity-3",
+    "leadId": "lead-2",
+    "userId": "user-3",
+    "type": "meeting",
+    "title": "Office meeting",
+    "description": "Met with CEO and CFO to discuss free zone options. They prefer DMCC for tech activities.",
+    "outcome": "Requested detailed proposal",
+    "createdAt": "2024-03-12T14:00:00.000Z"
+  },
+  {
+    "id": "activity-4",
+    "leadId": "lead-4",
+    "userId": "user-4",
+    "type": "call",
+    "title": "Negotiation call",
+    "description": "Discussed pricing and terms. Client requested 10% discount on package.",
+    "outcome": "Pending management approval",
+    "createdAt": "2024-03-15T11:00:00.000Z"
+  },
+  {
+    "id": "activity-5",
+    "leadId": "lead-5",
+    "userId": "user-3",
+    "type": "whatsapp",
+    "title": "WhatsApp follow-up",
+    "description": "Sent visa requirements document via WhatsApp as requested.",
+    "outcome": "Acknowledged",
+    "createdAt": "2024-03-14T16:00:00.000Z"
+  },
+  {
+    "id": "activity-6",
+    "leadId": "lead-6",
+    "userId": "user-2",
+    "type": "status_change",
+    "title": "Lead won",
+    "description": "Client signed agreement for DMCC company setup. Total value: AED 20,000",
+    "outcome": "Closed won",
+    "createdAt": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "activity-7",
+    "leadId": "lead-7",
+    "userId": "user-4",
+    "type": "note",
+    "title": "Lost to competitor",
+    "description": "Client chose competitor offering 15% lower price. Feedback: our service quality was appreciated but budget was primary concern.",
+    "outcome": "Lost",
+    "createdAt": "2024-03-05T16:00:00.000Z"
+  },
+  {
+    "id": "activity-8",
+    "leadId": "lead-2",
+    "userId": "user-3",
+    "type": "quote",
+    "title": "Sent quotation",
+    "description": "Formal quotation sent for DMCC company formation with 3 visa package.",
+    "outcome": "Under review",
+    "createdAt": "2024-03-14T10:00:00.000Z"
+  }
+]

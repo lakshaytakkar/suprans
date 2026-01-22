@@ -1,0 +1,62 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./*"
+      ],
+      "@suprans/ui": [
+        "../../packages/ui/src"
+      ],
+      "@suprans/ui/*": [
+        "../../packages/ui/src/*"
+      ],
+      "@suprans/utils": [
+        "../../packages/utils/src"
+      ],
+      "@suprans/types": [
+        "../../packages/types/src"
+      ],
+      "@suprans/config": [
+        "../../packages/config/src"
+      ],
+      "@suprans/database": [
+        "../../packages/database/src"
+      ],
+      "@suprans/database/*": [
+        "../../packages/database/src/*"
+      ]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

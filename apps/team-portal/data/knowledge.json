@@ -1,0 +1,34 @@
+[
+  {
+    "id": "kb-1",
+    "title": "Company Formation - Mainland",
+    "category": "services",
+    "content": "Mainland company formation allows businesses to operate anywhere in the UAE without restrictions. Key features:\\n\\n**Requirements:**\\n- Local sponsor (51% ownership) or 100% foreign ownership for eligible activities\\n- Minimum capital varies by activity\\n- Office space requirement\\n\\n**Timeline:** 2-4 weeks\\n\\n**Key Benefits:**\\n- Trade anywhere in UAE\\n- No restrictions on number of visas\\n- Government contracts eligible",
+    "tags": ["mainland", "company-formation", "llc"],
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "kb-2",
+    "title": "Free Zone Company Setup",
+    "category": "services",
+    "content": "Free zones offer 100% foreign ownership and tax benefits. Popular free zones include DMCC, JAFZA, IFZA.\\n\\n**Benefits:**\\n- 100% foreign ownership\\n- 0% corporate tax (subject to conditions)\\n- 100% repatriation of capital and profits\\n- No currency restrictions\\n\\n**Limitations:**\\n- Cannot trade directly in UAE mainland\\n- Limited to specified activities",
+    "tags": ["free-zone", "dmcc", "jafza", "ifza"],
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "kb-3",
+    "title": "PRO Services Guide",
+    "category": "services",
+    "content": "PRO (Public Relations Officer) services handle all government-related documentation.\\n\\n**Services Include:**\\n- Visa processing (employment, investor, family)\\n- Emirates ID application\\n- Medical fitness test coordination\\n- Document attestation\\n- License renewals\\n\\n**Processing Times:**\\n- Employment visa: 3-5 working days\\n- Emirates ID: 5-7 working days",
+    "tags": ["pro", "visa", "emirates-id"],
+    "createdAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "kb-4",
+    "title": "Pricing Guide 2024",
+    "category": "pricing",
+    "content": "**Mainland LLC:**\\n- Government fees: AED 15,000 - 25,000\\n- Service fee: AED 10,000\\n\\n**Free Zone (DMCC):**\\n- License: AED 20,000\\n- Registration: AED 8,000\\n- Service fee: AED 7,000\\n\\n**PRO Services:**\\n- Per visa: AED 2,500\\n- Package (5 visas): AED 10,000\\n\\n*All prices subject to change. Confirm with management for custom quotes.*",
+    "tags": ["pricing", "fees", "packages"],
+    "createdAt": "2024-02-01T00:00:00.000Z"
+  }
+]

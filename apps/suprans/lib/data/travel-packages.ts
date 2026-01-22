@@ -1,0 +1,162 @@
+import type { TravelPackage } from '@/lib/types/travel'
+
+export const travelPackages: TravelPackage[] = [
+  {
+    id: 'canton-phase-1',
+    title: 'Canton Fair Phase 1: Electronics & Machinery',
+    destinations: ['Guangzhou'],
+    duration: '5 Days / 4 Nights',
+    dates: '15 – 19 April 2026',
+    price: 99990,
+    image: '/assets/images/travel/canton-phase-1.png',
+    description: 'The biggest trade fair phase focusing on Electronics, Home Appliances, Vehicles, Machinery, and Hardware. Join India\'s largest delegation to explore cutting-edge technology and manufacturing solutions.',
+    inclusions: [
+      'Fair Entry Badge',
+      'Daily Hotel to Fair Transfer',
+      'Buffet Breakfast',
+      'Indian Dinner',
+      'Visa Assistance',
+      'Suprans Travel Kit',
+      'Expert Visa Invitation Letter',
+      'Forex & SIM Card Assistance',
+    ],
+    category: 'canton-fair',
+  },
+  {
+    id: 'canton-phase-2',
+    title: 'Canton Fair Phase 2: Consumer Goods & Gifts',
+    destinations: ['Guangzhou'],
+    duration: '5 Days / 4 Nights',
+    dates: '23 – 27 April 2026',
+    price: 89990,
+    originalPrice: 120000,
+    image: '/assets/images/travel/canton-phase-2.png',
+    description: 'Focusing on Consumer Goods, Gifts, Home Decorations, and Building Materials. Great for retail store owners and e-commerce businesses looking to source trending products.',
+    inclusions: [
+      'Fair Entry Badge',
+      'Daily Transfers',
+      'Accommodation',
+      'Indian Meals',
+      'Sourcing Guidance',
+      'Travel Kit',
+      'Expert Visa Invitation Letter',
+      'Forex & SIM Card Assistance',
+    ],
+    category: 'canton-fair',
+  },
+  {
+    id: 'canton-phase-3',
+    title: 'Canton Fair Phase 3: Fashion & Textiles',
+    destinations: ['Guangzhou'],
+    duration: '5 Days / 4 Nights',
+    dates: '01 – 05 May 2026',
+    price: 89900,
+    originalPrice: 110000,
+    image: '/assets/images/travel/canton-phase-3.png',
+    description: 'The final phase covering Textiles, Garments, Shoes, Office Supplies, and Medical Devices. Perfect for fashion retailers and textile businesses.',
+    inclusions: [
+      'Fair Entry Badge',
+      'Daily Transfers',
+      'Accommodation',
+      'Indian Meals',
+      'Sourcing Guidance',
+      'Travel Kit',
+      'Expert Visa Invitation Letter',
+      'Forex & SIM Card Assistance',
+    ],
+    category: 'canton-fair',
+  },
+  {
+    id: 'foshan-furniture-lighting',
+    title: 'Foshan Furniture & Lighting Market Tour',
+    destinations: ['Foshan'],
+    duration: '5 Days / 4 Nights',
+    price: 99990,
+    image: '/assets/images/travel/foshan-furniture.png',
+    description: 'Experience the furniture capital of the world. Ideal for sourcing furniture, lighting, and ceramics directly from manufacturers. Foshan is home to China\'s largest furniture manufacturing cluster.',
+    inclusions: [
+      'Accommodation in 4-Star Hotel',
+      'Daily Buffet Breakfast & Indian Dinners',
+      'Group Pickup & Drop',
+      'Market Guiding & Translation',
+      'Travel Insurance',
+      'Suprans Travel Kit',
+      'Expert Visa Invitation Letter',
+      'Forex & SIM Card Assistance',
+    ],
+    category: 'market-tours',
+  },
+  {
+    id: 'wuxi-ev-battery',
+    title: 'Wuxi – China\'s EV & Battery Powerhouse',
+    destinations: ['Wuxi', 'Shanghai'],
+    duration: '5 Days / 4 Nights',
+    price: 99990,
+    image: '/assets/images/travel/wuxi-ev.png',
+    description: 'Visit the heart of China\'s EV revolution. Sourcing tour for electric scooters, batteries, and renewable energy components. Connect with leading manufacturers in the electric vehicle industry.',
+    inclusions: [
+      'Accommodation',
+      'Daily Meals',
+      'Factory Visits',
+      'Group Coordination Staff',
+      'Local Transfers',
+      'Business Networking',
+      'Expert Visa Invitation Letter',
+      'Forex & SIM Card Assistance',
+    ],
+    category: 'factory-visits',
+  },
+  {
+    id: 'yiwu-shanghai',
+    title: 'Yiwu & Shanghai Sourcing Tour',
+    destinations: ['Yiwu', 'Shanghai'],
+    duration: '5 Days / 4 Nights',
+    price: 99990,
+    image: '/assets/images/travel/yiwu-shanghai.png',
+    description: 'Explore the world\'s largest wholesale market in Yiwu and the business hub of Shanghai. Perfect for general merchandise sourcing and discovering new product categories.',
+    inclusions: [
+      'Accommodation',
+      'Daily Meals',
+      'Yiwu Market Guide',
+      'High-Speed Train Transfer',
+      'Group Coordination',
+      'Travel Insurance',
+      'Expert Visa Invitation Letter',
+      'Forex & SIM Card Assistance',
+    ],
+    category: 'market-tours',
+  },
+  {
+    id: 'hong-kong-canton-exclusive',
+    title: 'Suprans Exclusive: Hong Kong & Canton',
+    destinations: ['Hong Kong', 'Guangzhou'],
+    duration: '8 Days / 7 Nights',
+    price: 169990,
+    image: '/assets/images/travel/hong-kong-canton.png',
+    description: 'The ultimate business trip combining the financial hub of Hong Kong with the manufacturing power of Canton. Premium experience for serious entrepreneurs.',
+    inclusions: [
+      'Trade Show Arrival Support',
+      'Welcome Kit',
+      'Mentorship Conference',
+      'Cross-Border Transfer',
+      'Premium Accommodation',
+      'Networking Dinner',
+      'Expert Visa Invitation Letter',
+      'Forex & SIM Card Assistance',
+    ],
+    category: 'canton-fair',
+  },
+]
+
+export function getTravelPackageById(id: string): TravelPackage | undefined {
+  return travelPackages.find((pkg) => pkg.id === id)
+}
+
+export function getTravelPackagesByCategory(category: TravelPackage['category']): TravelPackage[] {
+  return travelPackages.filter((pkg) => pkg.category === category)
+}
+
+export function getFeaturedTravelPackages(): TravelPackage[] {
+  return travelPackages.filter((pkg) => pkg.dates || pkg.originalPrice)
+}
+

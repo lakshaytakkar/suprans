@@ -1,0 +1,26 @@
+{
+  "name": "suprans-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "turbo run dev",
+    "dev:suprans": "turbo run dev --filter=@suprans/landing",
+    "dev:legalnations": "turbo run dev --filter=@suprans/legalnations",
+    "dev:toysinbulk": "turbo run dev --filter=@suprans/toysinbulk",
+    "dev:travel": "turbo run dev --filter=@suprans/travel",
+    "dev:admin": "turbo run dev --filter=@suprans/admin",
+    "dev:backoffice": "turbo run dev --filter=@suprans/backoffice",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "type-check": "turbo run type-check",
+    "clean": "turbo run clean && rm -rf node_modules"
+  },
+  "devDependencies": {
+    "turbo": "^2.3.0",
+    "typescript": "^5.7.0"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "engines": {
+    "node": ">=20"
+  }
+}
